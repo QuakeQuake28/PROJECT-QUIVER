@@ -3,127 +3,617 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project QUIVER – Philippine Earthquake Map</title>
+    <title>Project QUIVER – Philippine Earthquake Map (2020-2025)</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400&display=swap" rel="stylesheet">
     <style>
+        :root {
+            --primary: #1e3a8a;
+            --primary-dark: #1e40af;
+            --primary-light: #3b82f6;
+            --secondary: #0f172a;
+            --background: #fefefe;
+            --surface: #ffffff;
+            --surface-hover: #f8fafc;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+            --border-light: #f1f5f9;
+            --accent-orange: #f97316;
+            --accent-yellow: #f59e0b;
+            --accent-blue: #3b82f6;
+            --accent-green: #10b981;
+            --warning: #f59e0b;
+            --success: #059669;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
             font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: #26398a;
-            color: #fefefe;
-            margin:0; padding:0;
+            background: var(--background);
+            color: var(--text-primary);
+            line-height: 1.6;
         }
+
         .header {
-            background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%);
-            min-height: 350px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: flex-start;
-            position: relative;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 2.5rem 0;
+            border-bottom: 1px solid var(--border);
         }
+
         .header-content {
-            width: 100%;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            margin-top: 2.5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
         }
+
         .brand-section {
             display: flex;
             flex-direction: column;
             align-items: center;
+            gap: 1rem;
             margin-bottom: 2rem;
         }
+
         .logo {
-            width: 120px;
-            height: 120px;
+            width: 100px;
+            height: 100px;
             border-radius: 50%;
-            box-shadow: 0 8px 24px rgba(0,0,0,0.25);
-            margin-bottom: 2rem;
-            background: #fff;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+            transition: transform 0.2s ease;
+            display: block;
         }
-        @media (max-width:500px) {
-            .logo { width: 80px; height: 80px; margin-bottom: 1.2rem;}
+
+        .logo:hover {
+            transform: scale(1.05);
         }
-        .big-title {
+
+        .logo-fallback {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #3b82f6 0%, #1e40af 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
             font-size: 2.5rem;
             font-weight: 900;
-            letter-spacing: 0.7px;
-            text-align: center;
-            margin-bottom: 0.4rem;
-            color: #fff;
-            text-shadow: 0 3px 18px rgba(30,58,138,0.15);
+            color: white;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+            transition: transform 0.2s ease;
         }
-        .subtitle {
+
+        .logo-fallback:hover {
+            transform: scale(1.05);
+        }
+
+        .header .acronym {
             font-size: 1.1rem;
-            text-align: center;
+            opacity: 0.9;
+            font-weight: 300;
             font-style: italic;
-            font-weight: 400;
-            color: #c7d5f8;
-            margin-bottom: 1.4rem;
-            margin-top: 0.3rem;
+            text-align: center;
+            letter-spacing: 0.5px;
         }
-        .desc-badge {
-            background: rgba(255,255,255,0.15);
-            border: 1.5px solid rgba(255,255,255,0.25);
+
+        .data-badge {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
             border-radius: 20px;
-            padding: 0.6rem 1.5rem;
-            font-size: 1rem;
-            font-weight: 700;
-            color: #c7d5f8;
-            margin-bottom: 2rem;
-            margin-top: 0.2rem;
-            letter-spacing: 0.3px;
-            display: inline-block;
-            text-shadow: none;
+            padding: 0.5rem 1rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-top: 0.5rem;
         }
+
         .controls {
             display: flex;
             align-items: center;
             justify-content: center;
             gap: 2rem;
             flex-wrap: wrap;
-            background: rgba(255,255,255,0.1);
-            border: 1px solid rgba(255,255,255,0.15);
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
             border-radius: 12px;
-            padding: 2rem 2.2rem;
-            margin-bottom: 0;
-            position: relative;
+            padding: 1.5rem 2rem;
         }
+
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
         .control-group label {
-            font-size: 1.1rem;
-            font-weight: 600;
-            color: #fff;
+            font-size: 1rem;
+            font-weight: 500;
+            opacity: 0.95;
+            min-width: 55px;
         }
+
         select {
-            margin-left: 0.4rem;
-            padding: 0.6rem 1rem;
-            border-radius: 7px;
+            padding: 0.65rem 1.25rem;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.95);
+            color: var(--text-primary);
+            font-weight: 500;
+            font-size: 0.95rem;
+            font-family: 'Roboto', sans-serif;
+            transition: all 0.2s ease;
+        }
+
+        select:hover, select:focus {
+            background: white;
+            border-color: rgba(255, 255, 255, 0.4);
+            outline: none;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .disclaimer {
+            background: linear-gradient(135deg, #fff8e1 0%, #fffbf0 100%);
+            border: 1px solid #f3e5ab;
+            border-left: 4px solid var(--warning);
+            border-radius: 8px;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 8px rgba(245, 158, 11, 0.1);
+        }
+
+        .disclaimer-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .disclaimer-icon {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: var(--warning);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 900;
+            font-size: 0.8rem;
+        }
+
+        .disclaimer-title {
+            font-weight: 700;
+            font-size: 1rem;
+            color: #92400e;
+        }
+
+        .disclaimer-text {
+            color: #a16207;
+            font-size: 0.9rem;
+            line-height: 1.5;
+            font-weight: 400;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: var(--surface);
+            padding: 1.5rem;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            box-shadow: 0 4px 16px rgba(30, 58, 138, 0.08);
+            text-align: center;
+            transition: all 0.2s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 32px rgba(30, 58, 138, 0.15);
+            border-color: var(--primary-light);
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 900;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+            line-height: 1;
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-weight: 500;
+            font-size: 0.95rem;
+        }
+
+        .map-section {
+            background: var(--surface);
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            box-shadow: 0 8px 32px rgba(30, 58, 138, 0.1);
+            overflow: hidden;
+            margin-bottom: 2rem;
+        }
+
+        .map-header {
+            background: var(--surface-hover);
+            border-bottom: 1px solid var(--border-light);
+            padding: 1.25rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .map-title {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin: 0;
+        }
+
+        .data-status {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .status-indicator {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+
+        .status-loading {
+            background: var(--warning);
+            animation: pulse 1.5s infinite;
+        }
+
+        .status-success {
+            background: var(--success);
+        }
+
+        .status-error {
+            background: #dc2626;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        #map {
+            width: 100%;
+            height: 550px;
             border: none;
-            background: #fff;
-            color: #1e3a8a;
+        }
+
+        .info-panel {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 16px rgba(30, 58, 138, 0.08);
+        }
+
+        .info-panel h3 {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+        }
+
+        .info-panel p {
+            color: var(--text-secondary);
+            line-height: 1.7;
+            margin-bottom: 1rem;
+            font-weight: 400;
+        }
+
+        .phivolcs-note {
+            background: #eff6ff;
+            border-left: 4px solid var(--primary);
+            padding: 1rem;
+            border-radius: 0 8px 8px 0;
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+        }
+
+        .data-coverage {
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+            border: 1px solid #0ea5e9;
+            border-left: 4px solid var(--primary);
+            border-radius: 8px;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .coverage-title {
+            font-weight: 700;
+            font-size: 1rem;
+            color: var(--primary);
+            margin-bottom: 0.75rem;
+        }
+
+        .coverage-years {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+            gap: 0.75rem;
+            margin-top: 1rem;
+        }
+
+        .year-badge {
+            background: var(--primary);
+            color: white;
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
+            text-align: center;
             font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        .leaflet-popup-content-wrapper {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 16px 48px rgba(30, 58, 138, 0.2);
+            border: 1px solid var(--border);
+        }
+
+        .leaflet-popup-content {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .earthquake-popup {
+            padding: 1.25rem;
+            min-width: 280px;
+        }
+
+        .earthquake-popup h4 {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin: 0 0 1rem 0;
+            padding-bottom: 0.75rem;
+            border-bottom: 2px solid var(--border-light);
+        }
+
+        .popup-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 0.6rem 0;
+            font-size: 0.95rem;
+        }
+
+        .popup-label {
+            font-weight: 500;
+            color: var(--text-secondary);
+        }
+
+        .popup-value {
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .location-text {
+            margin-top: 0.75rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid var(--border-light);
+            color: var(--text-secondary);
+            line-height: 1.4;
+            font-size: 0.9rem;
+        }
+
+        .custom-legend {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 1rem;
+            box-shadow: 0 8px 24px rgba(30, 58, 138, 0.15);
+            font-size: 0.9rem;
+            max-width: 200px;
+        }
+
+        .legend-title {
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
             font-size: 1rem;
         }
-        /* Keep rest of your CSS as before for stats, map, etc */
+
+        .legend-subtitle {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-bottom: 0.75rem;
+            font-style: italic;
+            font-weight: 300;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+            margin: 0.5rem 0;
+        }
+
+        .legend-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            flex-shrink: 0;
+            border: 2px solid white;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+        }
+
+        .legend-text {
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .error {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            color: #dc2626;
+            padding: 1.5rem;
+            border-radius: 10px;
+            text-align: center;
+            margin: 1rem 0;
+            font-weight: 500;
+        }
+
+        .loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 3rem;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+
+        .loading::before {
+            content: '';
+            width: 20px;
+            height: 20px;
+            border: 2px solid var(--border);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-right: 0.75rem;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .leaflet-control-zoom a {
+            background: var(--surface) !important;
+            color: var(--text-primary) !important;
+            border: 1px solid var(--border) !important;
+            box-shadow: 0 4px 12px rgba(30, 58, 138, 0.1) !important;
+            font-weight: 700 !important;
+        }
+
+        .leaflet-control-zoom a:hover {
+            background: var(--surface-hover) !important;
+            border-color: var(--primary-light) !important;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                padding: 2rem 0;
+            }
+
+            .logo, .logo-fallback {
+                width: 80px;
+                height: 80px;
+            }
+
+            .logo-fallback {
+                font-size: 2rem;
+            }
+
+            .header .acronym {
+                font-size: 1rem;
+            }
+            
+            .controls {
+                flex-direction: column;
+                gap: 1rem;
+                padding: 1.25rem;
+            }
+            
+            .control-group {
+                width: 100%;
+                justify-content: space-between;
+            }
+            
+            .main {
+                padding: 1rem;
+            }
+            
+            .stats {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1rem;
+            }
+            
+            #map {
+                height: 450px;
+            }
+            
+            .earthquake-popup {
+                min-width: 250px;
+                padding: 1rem;
+            }
+
+            .map-header {
+                flex-direction: column;
+                gap: 1rem;
+                align-items: flex-start;
+            }
+
+            .coverage-years {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .logo, .logo-fallback {
+                width: 70px;
+                height: 70px;
+            }
+
+            .logo-fallback {
+                font-size: 1.5rem;
+            }
+
+            .header .acronym {
+                font-size: 0.9rem;
+            }
+
+            .stats {
+                grid-template-columns: 1fr;
+            }
+            
+            #map {
+                height: 400px;
+            }
+
+            .coverage-years {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
     </style>
 </head>
 <body>
     <div class="header">
         <div class="header-content">
             <div class="brand-section">
-                <img src="LOGO.png" alt="QUIVER Logo" class="logo" onerror="this.style.display='none';">
-                <div class="big-title">
-                    Project QUIVER
-                </div>
-                <div class="subtitle">
-                    Quake Understanding through Interactive Visualization and Earthquake Research
-                </div>
-                <div class="desc-badge">
-                    Daily Maximum Philippine Earthquakes (2020–2025)<br>
-                    <span style="font-size:0.99rem;font-weight:400;">Only the single most significant event per day is shown.</span>
-                </div>
+                <img src="LOGO.png" alt="QUIVER Logo" class="logo" 
+                     onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                <div class="logo-fallback" style="display: none;">QU</div>
+                <div class="acronym">Quake Understanding through Interactive Visualization and Earthquake Research</div>
+                <div class="data-badge">Comprehensive Dataset: 2020-2025</div>
             </div>
             <div class="controls">
                 <div class="control-group">
@@ -134,7 +624,7 @@
                         <option value="2022">2022</option>
                         <option value="2023">2023</option>
                         <option value="2024">2024</option>
-                        <option value="2025">2025</option>
+                        <option value="2025" selected>2025</option>
                     </select>
                 </div>
                 <div class="control-group">
@@ -148,7 +638,7 @@
                         <option value="JUN">June</option>
                         <option value="JUL">July</option>
                         <option value="AUG">August</option>
-                        <option value="SEP">September</option>
+                        <option value="SEP" selected>September</option>
                         <option value="OCT">October</option>
                         <option value="NOV">November</option>
                         <option value="DEC">December</option>
@@ -157,6 +647,305 @@
             </div>
         </div>
     </div>
-    <!-- ...leave rest of your HTML and JS exactly as before... -->
+
+    <div class="main">
+        <div class="disclaimer">
+            <div class="disclaimer-header">
+                <div class="disclaimer-icon">!</div>
+                <div class="disclaimer-title">Data Scope & Methodology</div>
+            </div>
+            <div class="disclaimer-text">
+                This visualization displays daily maximum seismic events recorded in the Philippines region from 2020-2025. 
+                Each data point represents the highest magnitude earthquake recorded on a given calendar day, 
+                filtered from comprehensive seismic monitoring datasets to provide clear daily insights into seismic activity patterns.
+            </div>
+        </div>
+
+        <div class="data-coverage">
+            <div class="coverage-title">📊 Complete 6-Year Dataset Coverage</div>
+            <p>Explore daily maximum earthquake data across our comprehensive 6-year archive, featuring over 2,000 curated seismic events from the Philippines region.</p>
+            <div class="coverage-years">
+                <div class="year-badge">2020</div>
+                <div class="year-badge">2021</div>
+                <div class="year-badge">2022</div>
+                <div class="year-badge">2023</div>
+                <div class="year-badge">2024</div>
+                <div class="year-badge">2025</div>
+            </div>
+        </div>
+
+        <div class="stats" id="statsContainer">
+            <div class="stat-card">
+                <div class="stat-value" id="maxMagnitude">0.0</div>
+                <div class="stat-label">Max Magnitude</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="avgMagnitude">0.0</div>
+                <div class="stat-label">Avg Magnitude</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="maxDepth">0</div>
+                <div class="stat-label">Max Depth (km)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="totalEvents">0</div>
+                <div class="stat-label">Daily Events</div>
+            </div>
+        </div>
+
+        <div class="map-section">
+            <div class="map-header">
+                <h3 class="map-title">Interactive Seismic Activity Map</h3>
+                <div class="data-status">
+                    <div class="status-indicator status-loading" id="statusIndicator"></div>
+                    <span id="statusText">Loading data...</span>
+                </div>
+            </div>
+            <div id="map"></div>
+        </div>
+
+        <div class="info-panel">
+            <h3>Enhanced Dataset & Classification</h3>
+            <p>
+                This comprehensive visualization showcases the highest magnitude earthquake recorded each calendar day during the selected month and year, 
+                spanning our complete 2020-2025 dataset. Each marker represents the most significant seismic event 
+                for that specific date in Philippine Standard Time, providing unprecedented insight into 6 years of seismic patterns.
+            </p>
+            <div class="phivolcs-note">
+                <strong>Advanced Data Processing:</strong> Our dataset undergoes rigorous filtering to ensure only the most significant daily events are displayed. 
+                Magnitude ranges follow international seismological standards, while the Philippines uses the PHIVOLCS Earthquake Intensity Scale (PEIS) 
+                for intensity measurements, developed specifically for local geological conditions by the Philippine Institute of Volcanology and Seismology.
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map').setView([12.8797, 121.7740], 6);
+        
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        const legend = L.control({position: 'bottomright'});
+        legend.onAdd = function(map) {
+            const div = L.DomUtil.create('div', 'custom-legend');
+            div.innerHTML = `
+                <div class="legend-title">Magnitude Range</div>
+                <div class="legend-subtitle">Classification Scale</div>
+                <div class="legend-item">
+                    <div class="legend-dot" style="background: #dc2626;"></div>
+                    <span class="legend-text">≥ 7.0 Major</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-dot" style="background: #1e3a8a;"></div>
+                    <span class="legend-text">6.0-6.9 Strong</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-dot" style="background: #f97316;"></div>
+                    <span class="legend-text">5.0-5.9 Moderate</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-dot" style="background: #f59e0b;"></div>
+                    <span class="legend-text">4.0-4.9 Light</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-dot" style="background: #3b82f6;"></div>
+                    <span class="legend-text">< 4.0 Minor</span>
+                </div>
+            `;
+            return div;
+        };
+        legend.addTo(map);
+
+        let markers = [];
+
+        function updateDataStatus(status, message) {
+            const indicator = document.getElementById('statusIndicator');
+            const text = document.getElementById('statusText');
+            
+            indicator.className = 'status-indicator';
+            
+            switch(status) {
+                case 'loading':
+                    indicator.classList.add('status-loading');
+                    break;
+                case 'success':
+                    indicator.classList.add('status-success');
+                    break;
+                case 'error':
+                    indicator.classList.add('status-error');
+                    break;
+            }
+            
+            text.textContent = message;
+        }
+
+        function updateStats(data) {
+            if (!data || data.length === 0) {
+                document.getElementById('maxMagnitude').textContent = '0.0';
+                document.getElementById('avgMagnitude').textContent = '0.0';
+                document.getElementById('maxDepth').textContent = '0';
+                document.getElementById('totalEvents').textContent = '0';
+                return;
+            }
+
+            const magnitudes = data.map(eq => parseFloat(eq.magnitude) || 0);
+            const depths = data.map(eq => parseFloat(eq.depth) || 0);
+
+            document.getElementById('maxMagnitude').textContent = Math.max(...magnitudes).toFixed(1);
+            document.getElementById('avgMagnitude').textContent = (magnitudes.reduce((a, b) => a + b, 0) / magnitudes.length).toFixed(1);
+            document.getElementById('maxDepth').textContent = Math.max(...depths).toFixed(0);
+            document.getElementById('totalEvents').textContent = data.length.toString();
+        }
+
+        function clearMarkers() {
+            markers.forEach(marker => map.removeLayer(marker));
+            markers = [];
+        }
+
+        function getColor(magnitude) {
+            if (magnitude >= 7.0) return '#dc2626'; // Major - Red
+            if (magnitude >= 6.0) return '#1e3a8a'; // Strong - Dark Blue
+            if (magnitude >= 5.0) return '#f97316'; // Moderate - Orange
+            if (magnitude >= 4.0) return '#f59e0b'; // Light - Amber
+            return '#3b82f6'; // Minor - Blue
+        }
+
+        function getMagnitudeDescription(magnitude) {
+            if (magnitude >= 7.0) return 'Major';
+            if (magnitude >= 6.0) return 'Strong';
+            if (magnitude >= 5.0) return 'Moderate';
+            if (magnitude >= 4.0) return 'Light';
+            return 'Minor';
+        }
+
+        async function loadData() {
+            const year = document.getElementById('yearSelect').value;
+            const month = document.getElementById('monthSelect').value;
+            const filename = `${month}${year}.json`;
+            
+            clearMarkers();
+            updateDataStatus('loading', 'Loading earthquake data...');
+            
+            try {
+                console.log(`🌍 Loading ${filename} from QUIVER dataset...`);
+                const response = await fetch(filename);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status} - File not found: ${filename}`);
+                }
+                
+                const data = await response.json();
+                
+                if (!Array.isArray(data) || data.length === 0) {
+                    throw new Error('No earthquake data available for this period');
+                }
+                
+                console.log(`✅ Successfully loaded ${data.length} earthquake records from ${month} ${year}`);
+                
+                updateStats(data);
+                updateDataStatus('success', `${data.length} events loaded`);
+                
+                data.forEach(eq => {
+                    const lat = parseFloat(eq.latitude);
+                    const lng = parseFloat(eq.longitude);
+                    const mag = parseFloat(eq.magnitude) || 0;
+                    
+                    if (!lat || !lng) return;
+                    
+                    const marker = L.circleMarker([lat, lng], {
+                        radius: Math.max(mag * 2.8, 8),
+                        fillColor: getColor(mag),
+                        color: '#ffffff',
+                        weight: 2,
+                        fillOpacity: 0.85
+                    });
+                    
+                    const popupContent = `
+                        <div class="earthquake-popup">
+                            <h4>Magnitude ${mag} - ${getMagnitudeDescription(mag)}</h4>
+                            <div class="popup-row">
+                                <span class="popup-label">Date:</span>
+                                <span class="popup-value">${eq.date}</span>
+                            </div>
+                            <div class="popup-row">
+                                <span class="popup-label">Depth:</span>
+                                <span class="popup-value">${eq.depth} km</span>
+                            </div>
+                            <div class="popup-row">
+                                <span class="popup-label">Coordinates:</span>
+                                <span class="popup-value">${lat.toFixed(3)}°N, ${lng.toFixed(3)}°E</span>
+                            </div>
+                            <div class="location-text">
+                                <strong>Location:</strong><br>
+                                ${eq.location}
+                            </div>
+                        </div>
+                    `;
+                    
+                    marker.bindPopup(popupContent);
+                    marker.addTo(map);
+                    markers.push(marker);
+                });
+                
+                if (markers.length > 0) {
+                    const group = new L.featureGroup(markers);
+                    map.fitBounds(group.getBounds().pad(0.1));
+                }
+                
+            } catch (error) {
+                console.error('❌ QUIVER Error:', error);
+                updateStats([]);
+                updateDataStatus('error', 'Data unavailable');
+                
+                // Create error display overlay
+                const errorDiv = document.createElement('div');
+                errorDiv.className = 'error';
+                errorDiv.innerHTML = `
+                    <h3>📊 Data Not Available</h3>
+                    <p><strong>File:</strong> ${filename}</p>
+                    <p><strong>Issue:</strong> ${error.message}</p>
+                    <p><strong>Our Dataset Includes:</strong></p>
+                    <p>📅 <em>2020-2025 comprehensive earthquake records</em></p>
+                    <p>🗂️ <em>Monthly JSON files (e.g., JAN2025.json, FEB2024.json, etc.)</em></p>
+                    <p><em>Please ensure all processed JSON files are available in your repository.</em></p>
+                `;
+                
+                const mapDiv = document.getElementById('map');
+                mapDiv.innerHTML = '';
+                mapDiv.appendChild(errorDiv);
+            }
+        }
+
+        // Event listeners
+        document.getElementById('yearSelect').addEventListener('change', loadData);
+        document.getElementById('monthSelect').addEventListener('change', loadData);
+        
+        // Initialize application
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('🌟 QUIVER - Project Earthquake Visualization Platform');
+            console.log('📊 Dataset Coverage: 2020-2025 (6 complete years)');
+            console.log('🎯 Data Type: Daily maximum magnitude earthquakes');
+            console.log('🗺️ Geographic Focus: Philippines region');
+            console.log('⚡ Status: Initializing...');
+            
+            // Set default to current year/month
+            const now = new Date();
+            const currentYear = now.getFullYear();
+            const currentMonth = now.getMonth();
+            
+            const months = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+            
+            if (currentYear >= 2020 && currentYear <= 2025) {
+                document.getElementById('yearSelect').value = currentYear.toString();
+            }
+            
+            document.getElementById('monthSelect').value = months[currentMonth];
+            
+            setTimeout(loadData, 500);
+        });
+    </script>
 </body>
 </html>
