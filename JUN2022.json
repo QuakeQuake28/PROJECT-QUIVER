@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2022-06-01",
+    "magnitude": 3.8,
+    "latitude": 12.88,
+    "longitude": 124.68,
+    "depth": 11,
+    "location": "041 km N 58° E of Biri (Northern Samar)"
+  },
+  {
+    "date": "2022-06-02",
+    "magnitude": 4.8,
+    "latitude": 9.0,
+    "longitude": 126.28,
+    "depth": 59,
+    "location": "004 km N 02° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-06-03",
+    "magnitude": 5.6,
+    "latitude": 8.92,
+    "longitude": 126.74,
+    "depth": 9,
+    "location": "049 km S 90° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-06-04",
+    "magnitude": 4.3,
+    "latitude": 21.63,
+    "longitude": 120.88,
+    "depth": 32,
+    "location": "136 km N 47° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2022-06-05",
+    "magnitude": 4.3,
+    "latitude": 9.31,
+    "longitude": 125.47,
+    "depth": 1,
+    "location": "006 km S 54° W of Jabonga (Agusan Del Norte)"
+  },
+  {
+    "date": "2022-06-06",
+    "magnitude": 4.5,
+    "latitude": 6.05,
+    "longitude": 126.02,
+    "depth": 135,
+    "location": "040 km S 66° E of Don Marcelino (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-07",
+    "magnitude": 3.9,
+    "latitude": 3.88,
+    "longitude": 126.36,
+    "depth": 29,
+    "location": "199 km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-08",
+    "magnitude": 5.2,
+    "latitude": 6.47,
+    "longitude": 127.2,
+    "depth": 68,
+    "location": "104 km S 52° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2022-06-09",
+    "magnitude": 4.2,
+    "latitude": 10.36,
+    "longitude": 126.85,
+    "depth": 1,
+    "location": "093 km N 66° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-06-10",
+    "magnitude": 3.6,
+    "latitude": 14.2,
+    "longitude": 119.04,
+    "depth": 22,
+    "location": "122 km N 72° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2022-06-11",
+    "magnitude": 4.3,
+    "latitude": 3.63,
+    "longitude": 123.1,
+    "depth": 568,
+    "location": "308 km S 28° E of Banguingui (Sulu)"
+  },
+  {
+    "date": "2022-06-12",
+    "magnitude": 4.8,
+    "latitude": 2.11,
+    "longitude": 126.65,
+    "depth": 147,
+    "location": "390 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-13",
+    "magnitude": 3.2,
+    "latitude": 7.53,
+    "longitude": 126.51,
+    "depth": 142,
+    "location": "008 km S 52° W of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2022-06-14",
+    "magnitude": 3.3,
+    "latitude": 12.75,
+    "longitude": 122.35,
+    "depth": 18,
+    "location": "021 km N 23° E of Romblon (Romblon)"
+  },
+  {
+    "date": "2022-06-15",
+    "magnitude": 3.4,
+    "latitude": 5.65,
+    "longitude": 126.62,
+    "depth": 96,
+    "location": "112 km S 75° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-16",
+    "magnitude": 5.1,
+    "latitude": 17.24,
+    "longitude": 119.85,
+    "depth": 10,
+    "location": "063 km N 83° W of City Of Candon (Ilocos Sur)"
+  },
+  {
+    "date": "2022-06-17",
+    "magnitude": 3.0,
+    "latitude": 9.23,
+    "longitude": 125.61,
+    "depth": 1,
+    "location": "007 km S 57° E of Santiago (Agusan Del Norte)"
+  },
+  {
+    "date": "2022-06-18",
+    "magnitude": 4.3,
+    "latitude": 10.46,
+    "longitude": 126.97,
+    "depth": 18,
+    "location": "110 km N 64° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-06-19",
+    "magnitude": 3.9,
+    "latitude": 5.18,
+    "longitude": 126.23,
+    "depth": 57,
+    "location": "089 km S 47° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-20",
+    "magnitude": 4.8,
+    "latitude": 2.89,
+    "longitude": 128.01,
+    "depth": 227,
+    "location": "400 km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-21",
+    "magnitude": 4.3,
+    "latitude": 4.93,
+    "longitude": 127.18,
+    "depth": 57,
+    "location": "198 km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-22",
+    "magnitude": 4.0,
+    "latitude": 3.98,
+    "longitude": 126.41,
+    "depth": 105,
+    "location": "193 km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-23",
+    "magnitude": 4.6,
+    "latitude": 2.94,
+    "longitude": 128.63,
+    "depth": 268,
+    "location": "445 km S 53° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-24",
+    "magnitude": 4.9,
+    "latitude": 4.6,
+    "longitude": 125.93,
+    "depth": 159,
+    "location": "106 km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-25",
+    "magnitude": 4.6,
+    "latitude": 8.9,
+    "longitude": 126.52,
+    "depth": 13,
+    "location": "024 km S 86° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-06-26",
+    "magnitude": 3.9,
+    "latitude": 5.96,
+    "longitude": 125.61,
+    "depth": 137,
+    "location": "007 km N 39° W of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2022-06-27",
+    "magnitude": 4.2,
+    "latitude": 11.19,
+    "longitude": 124.39,
+    "depth": 7,
+    "location": "002 km S 14° W of Villaba (Leyte)"
+  },
+  {
+    "date": "2022-06-28",
+    "magnitude": 5.1,
+    "latitude": 21.8,
+    "longitude": 120.36,
+    "depth": 13,
+    "location": "190 km N 54° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2022-06-29",
+    "magnitude": 4.9,
+    "latitude": 7.19,
+    "longitude": 123.53,
+    "depth": 14,
+    "location": "033 km S 24° E of Tabina (Zamboanga Del Sur)"
+  },
+  {
+    "date": "2022-06-30",
+    "magnitude": 4.5,
+    "latitude": 20.61,
+    "longitude": 120.12,
+    "depth": 32,
+    "location": "181 km S 84° W of Itbayat (Batanes)"
+  }
+]

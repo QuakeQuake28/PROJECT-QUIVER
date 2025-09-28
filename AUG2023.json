@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2023-08-01",
+    "magnitude": 5.3,
+    "latitude": 19.33,
+    "longitude": 121.22,
+    "depth": 20,
+    "location": "025 km N 03° E of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2023-08-02",
+    "magnitude": 3.8,
+    "latitude": 6.81,
+    "longitude": 126.88,
+    "depth": 21,
+    "location": "054 km S 61° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2023-08-03",
+    "magnitude": 4.8,
+    "latitude": 3.53,
+    "longitude": 128.38,
+    "depth": 214,
+    "location": "388 km S 58° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-04",
+    "magnitude": 5.1,
+    "latitude": 21.85,
+    "longitude": 121.91,
+    "depth": 23,
+    "location": "118 km N 03° E of Itbayat (Batanes)"
+  },
+  {
+    "date": "2023-08-05",
+    "magnitude": 3.7,
+    "latitude": 4.11,
+    "longitude": 125.94,
+    "depth": 142,
+    "location": "155 km S 22° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-06",
+    "magnitude": 3.9,
+    "latitude": 5.29,
+    "longitude": 126.49,
+    "depth": 86,
+    "location": "115 km S 80° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-07",
+    "magnitude": 4.2,
+    "latitude": 4.73,
+    "longitude": 127.92,
+    "depth": 92,
+    "location": "284 km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-08",
+    "magnitude": 4.6,
+    "latitude": 3.77,
+    "longitude": 126.15,
+    "depth": 39,
+    "location": "199 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-09",
+    "magnitude": 5.2,
+    "latitude": 6.45,
+    "longitude": 126.4,
+    "depth": 39,
+    "location": "043 km S 59° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2023-08-10",
+    "magnitude": 4.8,
+    "latitude": 4.4,
+    "longitude": 125.75,
+    "depth": 108,
+    "location": "118 km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-11",
+    "magnitude": 4.1,
+    "latitude": 3.52,
+    "longitude": 126.25,
+    "depth": 1,
+    "location": "228 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-12",
+    "magnitude": 4.5,
+    "latitude": 6.03,
+    "longitude": 126.99,
+    "depth": 90,
+    "location": "123 km S 56° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2023-08-13",
+    "magnitude": 5.4,
+    "latitude": 20.51,
+    "longitude": 121.54,
+    "depth": 55,
+    "location": "041 km N 60° W of Sabtang (Batanes)"
+  },
+  {
+    "date": "2023-08-14",
+    "magnitude": 4.5,
+    "latitude": 18.01,
+    "longitude": 122.36,
+    "depth": 13,
+    "location": "047 km S 54° E of Gonzaga (Cagayan)"
+  },
+  {
+    "date": "2023-08-15",
+    "magnitude": 3.5,
+    "latitude": 13.25,
+    "longitude": 124.43,
+    "depth": 60,
+    "location": "033 km N 77° E of Rapu-rapu (Albay)"
+  },
+  {
+    "date": "2023-08-16",
+    "magnitude": 4.0,
+    "latitude": 4.65,
+    "longitude": 125.16,
+    "depth": 14,
+    "location": "089 km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-17",
+    "magnitude": 3.4,
+    "latitude": 9.23,
+    "longitude": 126.35,
+    "depth": 18,
+    "location": "018 km S 74° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-08-18",
+    "magnitude": 4.2,
+    "latitude": 7.89,
+    "longitude": 121.94,
+    "depth": 16,
+    "location": "025 km N 69° W of Baliguian (Zamboanga Del Norte)"
+  },
+  {
+    "date": "2023-08-19",
+    "magnitude": 4.8,
+    "latitude": 8.92,
+    "longitude": 126.49,
+    "depth": 24,
+    "location": "021 km N 88° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-08-20",
+    "magnitude": 4.0,
+    "latitude": 13.87,
+    "longitude": 120.5,
+    "depth": 109,
+    "location": "015 km N 76° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2023-08-21",
+    "magnitude": 4.5,
+    "latitude": 5.08,
+    "longitude": 127.43,
+    "depth": 152,
+    "location": "218 km S 65° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-22",
+    "magnitude": 4.0,
+    "latitude": 7.61,
+    "longitude": 126.73,
+    "depth": 29,
+    "location": "019 km N 76° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2023-08-23",
+    "magnitude": 4.2,
+    "latitude": 3.25,
+    "longitude": 125.81,
+    "depth": 86,
+    "location": "243 km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-24",
+    "magnitude": 5.1,
+    "latitude": 12.81,
+    "longitude": 121.36,
+    "depth": 1,
+    "location": "012 km S 60° W of Bansud (Oriental Mindoro)"
+  },
+  {
+    "date": "2023-08-25",
+    "magnitude": 3.9,
+    "latitude": 9.14,
+    "longitude": 125.68,
+    "depth": 16,
+    "location": "015 km N 83° E of City Of Cabadbaran (Agusan Del Norte)"
+  },
+  {
+    "date": "2023-08-26",
+    "magnitude": 5.0,
+    "latitude": 6.29,
+    "longitude": 124.73,
+    "depth": 10,
+    "location": "010 km S 12° W of Surallah (South Cotabato)"
+  },
+  {
+    "date": "2023-08-27",
+    "magnitude": 3.7,
+    "latitude": 13.84,
+    "longitude": 120.53,
+    "depth": 149,
+    "location": "011 km N 86° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2023-08-28",
+    "magnitude": 4.6,
+    "latitude": 2.39,
+    "longitude": 126.31,
+    "depth": 18,
+    "location": "351 km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-29",
+    "magnitude": 5.5,
+    "latitude": 3.81,
+    "longitude": 126.73,
+    "depth": 40,
+    "location": "214 km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-08-30",
+    "magnitude": 4.1,
+    "latitude": 10.11,
+    "longitude": 125.1,
+    "depth": 14,
+    "location": "005 km S 19° W of Liloan (Southern Leyte)"
+  },
+  {
+    "date": "2023-08-31",
+    "magnitude": 4.3,
+    "latitude": 18.14,
+    "longitude": 120.69,
+    "depth": 14,
+    "location": "012 km S 58° E of City Of Laoag (Ilocos Norte)"
+  }
+]

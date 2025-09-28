@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2021-11-01",
+    "magnitude": 3.5,
+    "latitude": 4.53,
+    "longitude": 127.06,
+    "depth": 30,
+    "location": "206 km S 60° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-02",
+    "magnitude": 4.1,
+    "latitude": 9.92,
+    "longitude": 122.39,
+    "depth": 23,
+    "location": "017 km N 17° W of City Of Sipalay (Negros Occidental)"
+  },
+  {
+    "date": "2021-11-03",
+    "magnitude": 4.1,
+    "latitude": 2.07,
+    "longitude": 126.04,
+    "depth": 39,
+    "location": "376 km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-04",
+    "magnitude": 3.2,
+    "latitude": 9.13,
+    "longitude": 126.94,
+    "depth": 6,
+    "location": "074 km N 72° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-11-05",
+    "magnitude": 4.5,
+    "latitude": 9.12,
+    "longitude": 127.0,
+    "depth": 24,
+    "location": "080 km N 78° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-11-06",
+    "magnitude": 4.1,
+    "latitude": 9.61,
+    "longitude": 126.71,
+    "depth": 9,
+    "location": "063 km S 73° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-11-07",
+    "magnitude": 3.8,
+    "latitude": 9.44,
+    "longitude": 126.08,
+    "depth": 60,
+    "location": "017 km N 60° E of Carrascal (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-11-08",
+    "magnitude": 4.8,
+    "latitude": 7.91,
+    "longitude": 127.0,
+    "depth": 28,
+    "location": "062 km N 78° E of Cateel (Davao Oriental)"
+  },
+  {
+    "date": "2021-11-09",
+    "magnitude": 4.2,
+    "latitude": 5.85,
+    "longitude": 126.68,
+    "depth": 19,
+    "location": "112 km S 37° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-11-10",
+    "magnitude": 4.4,
+    "latitude": 5.54,
+    "longitude": 126.17,
+    "depth": 77,
+    "location": "060 km S 58° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-11",
+    "magnitude": 4.4,
+    "latitude": 13.38,
+    "longitude": 124.89,
+    "depth": 17,
+    "location": "064 km S 61° E of Baras (Catanduanes)"
+  },
+  {
+    "date": "2021-11-12",
+    "magnitude": 3.2,
+    "latitude": 5.18,
+    "longitude": 126.23,
+    "depth": 35,
+    "location": "090 km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-13",
+    "magnitude": 4.1,
+    "latitude": 5.57,
+    "longitude": 126.89,
+    "depth": 69,
+    "location": "143 km S 75° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-14",
+    "magnitude": 3.4,
+    "latitude": 15.04,
+    "longitude": 119.75,
+    "depth": 7,
+    "location": "035 km S 68° W of Cabangan (Zambales)"
+  },
+  {
+    "date": "2021-11-15",
+    "magnitude": 3.6,
+    "latitude": 13.99,
+    "longitude": 120.3,
+    "depth": 69,
+    "location": "024 km N 52° E of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-11-16",
+    "magnitude": 4.4,
+    "latitude": 2.33,
+    "longitude": 127.9,
+    "depth": 162,
+    "location": "438 km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-17",
+    "magnitude": 4.0,
+    "latitude": 12.08,
+    "longitude": 123.99,
+    "depth": 4,
+    "location": "009 km N 06° W of Cataingan (Masbate)"
+  },
+  {
+    "date": "2021-11-18",
+    "magnitude": 3.8,
+    "latitude": 6.94,
+    "longitude": 123.72,
+    "depth": 597,
+    "location": "036 km S 67° W of Datu Blah T. Sinsuat (Maguindanao)"
+  },
+  {
+    "date": "2021-11-19",
+    "magnitude": 4.2,
+    "latitude": 13.48,
+    "longitude": 120.05,
+    "depth": 16,
+    "location": "034 km S 39° W of Looc (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-11-20",
+    "magnitude": 5.4,
+    "latitude": 6.79,
+    "longitude": 127.19,
+    "depth": 4,
+    "location": "087 km S 71° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2021-11-21",
+    "magnitude": 4.8,
+    "latitude": 6.67,
+    "longitude": 126.64,
+    "depth": 69,
+    "location": "047 km S 27° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2021-11-22",
+    "magnitude": 4.2,
+    "latitude": 3.3,
+    "longitude": 126.75,
+    "depth": 60,
+    "location": "276 km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-23",
+    "magnitude": 4.5,
+    "latitude": 8.95,
+    "longitude": 126.45,
+    "depth": 24,
+    "location": "018 km S 83° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-11-24",
+    "magnitude": 3.8,
+    "latitude": 5.61,
+    "longitude": 127.06,
+    "depth": 29,
+    "location": "160 km S 78° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-25",
+    "magnitude": 4.1,
+    "latitude": 3.36,
+    "longitude": 124.43,
+    "depth": 389,
+    "location": "253 km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-26",
+    "magnitude": 4.7,
+    "latitude": 10.17,
+    "longitude": 126.43,
+    "depth": 10,
+    "location": "043 km N 67° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-11-27",
+    "magnitude": 5.4,
+    "latitude": 4.47,
+    "longitude": 126.37,
+    "depth": 86,
+    "location": "148 km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-11-28",
+    "magnitude": 3.7,
+    "latitude": 6.24,
+    "longitude": 126.61,
+    "depth": 8,
+    "location": "075 km S 52° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-11-29",
+    "magnitude": 3.4,
+    "latitude": 12.35,
+    "longitude": 124.39,
+    "depth": 10,
+    "location": "007 km S 55° E of San Isidro (Northern Samar)"
+  },
+  {
+    "date": "2021-11-30",
+    "magnitude": 5.2,
+    "latitude": 6.68,
+    "longitude": 126.12,
+    "depth": 41,
+    "location": "006 km N 61° E of Governor Generoso (Davao Oriental)"
+  }
+]

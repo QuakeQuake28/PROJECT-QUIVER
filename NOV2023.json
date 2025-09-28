@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2023-11-01",
+    "magnitude": 3.7,
+    "latitude": 13.87,
+    "longitude": 120.46,
+    "depth": 51,
+    "location": "019 km N 79° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2023-11-02",
+    "magnitude": 5.6,
+    "latitude": 11.54,
+    "longitude": 126.3,
+    "depth": 9,
+    "location": "077 km N 74° E of Hernani (Eastern Samar)"
+  },
+  {
+    "date": "2023-11-03",
+    "magnitude": 4.5,
+    "latitude": 4.46,
+    "longitude": 127.82,
+    "depth": 161,
+    "location": "284 km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-11-04",
+    "magnitude": 4.2,
+    "latitude": 20.08,
+    "longitude": 122.12,
+    "depth": 15,
+    "location": "038 km S 43° E of Sabtang (Batanes)"
+  },
+  {
+    "date": "2023-11-05",
+    "magnitude": 4.0,
+    "latitude": 11.39,
+    "longitude": 126.38,
+    "depth": 24,
+    "location": "080 km N 67° E of Mercedes (Eastern Samar)"
+  },
+  {
+    "date": "2023-11-06",
+    "magnitude": 3.7,
+    "latitude": 5.97,
+    "longitude": 125.42,
+    "depth": 79,
+    "location": "020 km S 44° E of Alabel (Sarangani)"
+  },
+  {
+    "date": "2023-11-07",
+    "magnitude": 4.9,
+    "latitude": 13.49,
+    "longitude": 120.76,
+    "depth": 137,
+    "location": "006 km N 40° E of Abra De Ilog (Occidental Mindoro)"
+  },
+  {
+    "date": "2023-11-08",
+    "magnitude": 3.2,
+    "latitude": 10.06,
+    "longitude": 126.16,
+    "depth": 17,
+    "location": "011 km N 64° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-11-09",
+    "magnitude": 3.8,
+    "latitude": 11.62,
+    "longitude": 125.8,
+    "depth": 22,
+    "location": "036 km N 68° E of Maydolong (Eastern Samar)"
+  },
+  {
+    "date": "2023-11-10",
+    "magnitude": 4.0,
+    "latitude": 15.13,
+    "longitude": 122.04,
+    "depth": 2,
+    "location": "033 km N 14° E of Burdeos (Quezon)"
+  },
+  {
+    "date": "2023-11-11",
+    "magnitude": 4.2,
+    "latitude": 4.55,
+    "longitude": 127.89,
+    "depth": 109,
+    "location": "286 km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-11-12",
+    "magnitude": 4.2,
+    "latitude": 19.1,
+    "longitude": 121.05,
+    "depth": 10,
+    "location": "016 km S 86° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2023-11-13",
+    "magnitude": 3.9,
+    "latitude": 5.51,
+    "longitude": 127.17,
+    "depth": 84,
+    "location": "174 km S 75° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2023-11-14",
+    "magnitude": 4.6,
+    "latitude": 5.87,
+    "longitude": 124.38,
+    "depth": 26,
+    "location": "024 km S 31° W of Maitum (Sarangani)"
+  },
+  {
+    "date": "2023-11-15",
+    "magnitude": 4.3,
+    "latitude": 5.67,
+    "longitude": 125.54,
+    "depth": 216,
+    "location": "021 km N 13° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-11-16",
+    "magnitude": 4.4,
+    "latitude": 9.48,
+    "longitude": 126.46,
+    "depth": 16,
+    "location": "038 km N 52° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-11-17",
+    "magnitude": 6.8,
+    "latitude": 5.38,
+    "longitude": 125.24,
+    "depth": 63,
+    "location": "028 km S 68° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-11-18",
+    "magnitude": 4.0,
+    "latitude": 9.79,
+    "longitude": 126.9,
+    "depth": 25,
+    "location": "081 km N 90° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-11-19",
+    "magnitude": 5.0,
+    "latitude": 10.22,
+    "longitude": 125.38,
+    "depth": 200,
+    "location": "015 km S 65° E of Anahawan (Southern Leyte)"
+  },
+  {
+    "date": "2023-11-20",
+    "magnitude": 5.2,
+    "latitude": 11.55,
+    "longitude": 125.13,
+    "depth": 70,
+    "location": "014 km S 55° E of Calbiga (Samar)"
+  },
+  {
+    "date": "2023-11-21",
+    "magnitude": 4.9,
+    "latitude": 5.56,
+    "longitude": 125.14,
+    "depth": 55,
+    "location": "029 km S 13° W of Glan (Sarangani)"
+  },
+  {
+    "date": "2023-11-22",
+    "magnitude": 6.1,
+    "latitude": 2.01,
+    "longitude": 126.97,
+    "depth": 172,
+    "location": "413 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-11-23",
+    "magnitude": 4.6,
+    "latitude": 5.45,
+    "longitude": 124.98,
+    "depth": 34,
+    "location": "049 km N 85° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-11-24",
+    "magnitude": 3.7,
+    "latitude": 10.43,
+    "longitude": 126.42,
+    "depth": 1,
+    "location": "060 km N 40° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-11-25",
+    "magnitude": 4.0,
+    "latitude": 18.04,
+    "longitude": 122.33,
+    "depth": 22,
+    "location": "043 km S 55° E of Gonzaga (Cagayan)"
+  },
+  {
+    "date": "2023-11-26",
+    "magnitude": 5.1,
+    "latitude": 13.55,
+    "longitude": 120.62,
+    "depth": 112,
+    "location": "017 km N 45° W of Abra De Ilog (Occidental Mindoro)"
+  },
+  {
+    "date": "2023-11-27",
+    "magnitude": 4.0,
+    "latitude": 9.2,
+    "longitude": 125.57,
+    "depth": 13,
+    "location": "006 km N 51° E of Tubay (Agusan Del Norte)"
+  },
+  {
+    "date": "2023-11-28",
+    "magnitude": 3.3,
+    "latitude": 16.35,
+    "longitude": 122.17,
+    "depth": 32,
+    "location": "009 km N 35° E of Casiguran (Aurora)"
+  },
+  {
+    "date": "2023-11-29",
+    "magnitude": 4.4,
+    "latitude": 9.05,
+    "longitude": 122.71,
+    "depth": 35,
+    "location": "036 km S 28° W of Santa Catalina (Negros Oriental)"
+  },
+  {
+    "date": "2023-11-30",
+    "magnitude": 4.5,
+    "latitude": 13.7,
+    "longitude": 123.28,
+    "depth": 4,
+    "location": "007 km S 82° E of Calabanga (Camarines Sur)"
+  }
+]

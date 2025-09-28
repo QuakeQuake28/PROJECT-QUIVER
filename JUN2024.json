@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2024-06-01",
+    "magnitude": 4.5,
+    "latitude": 8.86,
+    "longitude": 126.33,
+    "depth": 32,
+    "location": "007 km N 26° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-06-02",
+    "magnitude": 3.9,
+    "latitude": 18.39,
+    "longitude": 120.79,
+    "depth": 26,
+    "location": "014 km S 56° W of Adams (Ilocos Norte)"
+  },
+  {
+    "date": "2024-06-03",
+    "magnitude": 4.9,
+    "latitude": 8.93,
+    "longitude": 126.54,
+    "depth": 11,
+    "location": "026 km N 87° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-06-04",
+    "magnitude": 3.8,
+    "latitude": 4.09,
+    "longitude": 126.05,
+    "depth": 142,
+    "location": "162 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-05",
+    "magnitude": 3.6,
+    "latitude": 16.61,
+    "longitude": 119.66,
+    "depth": 17,
+    "location": "035 km N 44° W of Bolinao (Pangasinan)"
+  },
+  {
+    "date": "2024-06-06",
+    "magnitude": 3.6,
+    "latitude": 9.4,
+    "longitude": 126.25,
+    "depth": 22,
+    "location": "015 km N 23° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-06-07",
+    "magnitude": 3.9,
+    "latitude": 5.0,
+    "longitude": 125.22,
+    "depth": 38,
+    "location": "051 km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-08",
+    "magnitude": 4.7,
+    "latitude": 6.74,
+    "longitude": 123.8,
+    "depth": 2,
+    "location": "031 km N 69° W of Lebak (Sultan Kudarat)"
+  },
+  {
+    "date": "2024-06-09",
+    "magnitude": 4.5,
+    "latitude": 8.86,
+    "longitude": 127.0,
+    "depth": 13,
+    "location": "077 km S 85° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-06-10",
+    "magnitude": 4.3,
+    "latitude": 4.81,
+    "longitude": 126.64,
+    "depth": 13,
+    "location": "149 km S 61° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-11",
+    "magnitude": 5.1,
+    "latitude": 9.49,
+    "longitude": 119.63,
+    "depth": 31,
+    "location": "096 km S 19° E of Roxas (Palawan)"
+  },
+  {
+    "date": "2024-06-12",
+    "magnitude": 4.8,
+    "latitude": 18.34,
+    "longitude": 119.8,
+    "depth": 16,
+    "location": "081 km N 64° W of Currimao (Ilocos Norte)"
+  },
+  {
+    "date": "2024-06-13",
+    "magnitude": 5.7,
+    "latitude": 4.1,
+    "longitude": 126.65,
+    "depth": 55,
+    "location": "199 km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-14",
+    "magnitude": 4.6,
+    "latitude": 5.05,
+    "longitude": 126.13,
+    "depth": 90,
+    "location": "086 km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-15",
+    "magnitude": 5.9,
+    "latitude": 3.1,
+    "longitude": 126.99,
+    "depth": 95,
+    "location": "311 km S 33° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-16",
+    "magnitude": 5.1,
+    "latitude": 4.83,
+    "longitude": 125.18,
+    "depth": 18,
+    "location": "070 km S 22° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-17",
+    "magnitude": 4.1,
+    "latitude": 9.42,
+    "longitude": 125.54,
+    "depth": 5,
+    "location": "006 km S 40° W of Alegria (Surigao Del Norte)"
+  },
+  {
+    "date": "2024-06-18",
+    "magnitude": 4.1,
+    "latitude": 6.94,
+    "longitude": 126.69,
+    "depth": 46,
+    "location": "029 km S 65° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2024-06-19",
+    "magnitude": 3.9,
+    "latitude": 5.49,
+    "longitude": 126.51,
+    "depth": 49,
+    "location": "107 km S 64° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-20",
+    "magnitude": 4.5,
+    "latitude": 13.42,
+    "longitude": 118.66,
+    "depth": 25,
+    "location": "165 km S 73° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2024-06-21",
+    "magnitude": 3.5,
+    "latitude": 3.39,
+    "longitude": 128.04,
+    "depth": 212,
+    "location": "367 km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-22",
+    "magnitude": 5.1,
+    "latitude": 14.05,
+    "longitude": 125.13,
+    "depth": 53,
+    "location": "086 km N 70° E of Gigmoto (Catanduanes)"
+  },
+  {
+    "date": "2024-06-23",
+    "magnitude": 4.3,
+    "latitude": 6.51,
+    "longitude": 126.58,
+    "depth": 33,
+    "location": "059 km S 75° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2024-06-24",
+    "magnitude": 4.7,
+    "latitude": 12.39,
+    "longitude": 125.7,
+    "depth": 16,
+    "location": "031 km N 42° E of San Policarpo (Eastern Samar)"
+  },
+  {
+    "date": "2024-06-25",
+    "magnitude": 4.2,
+    "latitude": 8.41,
+    "longitude": 127.21,
+    "depth": 1,
+    "location": "096 km N 87° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-06-26",
+    "magnitude": 4.6,
+    "latitude": 2.8,
+    "longitude": 127.95,
+    "depth": 150,
+    "location": "403 km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-06-27",
+    "magnitude": 4.7,
+    "latitude": 13.19,
+    "longitude": 120.25,
+    "depth": 30,
+    "location": "034 km S 42° W of Paluan (Occidental Mindoro)"
+  },
+  {
+    "date": "2024-06-28",
+    "magnitude": 4.7,
+    "latitude": 10.78,
+    "longitude": 125.41,
+    "depth": 2,
+    "location": "035 km N 83° W of Homonhon Island (Guiuan) (Eastern Samar)"
+  },
+  {
+    "date": "2024-06-29",
+    "magnitude": 4.7,
+    "latitude": 11.34,
+    "longitude": 121.95,
+    "depth": 4,
+    "location": "011 km N 61° W of Tibiao (Antique)"
+  },
+  {
+    "date": "2024-06-30",
+    "magnitude": 4.3,
+    "latitude": 3.01,
+    "longitude": 126.06,
+    "depth": 49,
+    "location": "275 km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  }
+]

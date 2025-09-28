@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2023-03-01",
+    "magnitude": 4.6,
+    "latitude": 8.4,
+    "longitude": 126.67,
+    "depth": 19,
+    "location": "037 km N 85° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-03-02",
+    "magnitude": 4.8,
+    "latitude": 9.01,
+    "longitude": 122.38,
+    "depth": 33,
+    "location": "052 km S 33° W of Basay (Negros Oriental)"
+  },
+  {
+    "date": "2023-03-03",
+    "magnitude": 3.3,
+    "latitude": 11.73,
+    "longitude": 125.98,
+    "depth": 25,
+    "location": "057 km S 88° E of San Julian (Eastern Samar)"
+  },
+  {
+    "date": "2023-03-04",
+    "magnitude": 3.9,
+    "latitude": 9.04,
+    "longitude": 122.37,
+    "depth": 35,
+    "location": "051 km S 36° W of Basay (Negros Oriental)"
+  },
+  {
+    "date": "2023-03-05",
+    "magnitude": 3.8,
+    "latitude": 5.35,
+    "longitude": 127.48,
+    "depth": 117,
+    "location": "213 km S 73° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-06",
+    "magnitude": 5.3,
+    "latitude": 7.45,
+    "longitude": 126.24,
+    "depth": 4,
+    "location": "015 km S 47° E of New Bataan (Davao De Oro)"
+  },
+  {
+    "date": "2023-03-07",
+    "magnitude": 5.9,
+    "latitude": 7.47,
+    "longitude": 126.19,
+    "depth": 2,
+    "location": "010 km S 33° E of New Bataan (Davao De Oro)"
+  },
+  {
+    "date": "2023-03-08",
+    "magnitude": 4.4,
+    "latitude": 7.49,
+    "longitude": 126.14,
+    "depth": 3,
+    "location": "007 km S 11° W of New Bataan (Davao De Oro)"
+  },
+  {
+    "date": "2023-03-09",
+    "magnitude": 4.1,
+    "latitude": 5.46,
+    "longitude": 126.46,
+    "depth": 143,
+    "location": "103 km S 61° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-10",
+    "magnitude": 4.4,
+    "latitude": 8.56,
+    "longitude": 127.18,
+    "depth": 1,
+    "location": "095 km N 77° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-03-11",
+    "magnitude": 4.2,
+    "latitude": 3.43,
+    "longitude": 126.09,
+    "depth": 100,
+    "location": "231 km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-12",
+    "magnitude": 3.7,
+    "latitude": 15.6,
+    "longitude": 120.52,
+    "depth": 178,
+    "location": "007 km N 88° W of Gerona (Tarlac)"
+  },
+  {
+    "date": "2023-03-13",
+    "magnitude": 4.9,
+    "latitude": 14.46,
+    "longitude": 123.04,
+    "depth": 1,
+    "location": "010 km S 78° E of Tinaga Island (Vinzons) (Camarines Norte)"
+  },
+  {
+    "date": "2023-03-14",
+    "magnitude": 4.0,
+    "latitude": 20.8,
+    "longitude": 121.63,
+    "depth": 68,
+    "location": "022 km N 88° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2023-03-15",
+    "magnitude": 4.4,
+    "latitude": 2.45,
+    "longitude": 124.25,
+    "depth": 511,
+    "location": "352 km S 22° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-16",
+    "magnitude": 5.3,
+    "latitude": 4.39,
+    "longitude": 127.34,
+    "depth": 22,
+    "location": "239 km S 60° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-17",
+    "magnitude": 4.9,
+    "latitude": 18.53,
+    "longitude": 120.25,
+    "depth": 4,
+    "location": "042 km N 87° W of Burgos (Ilocos Norte)"
+  },
+  {
+    "date": "2023-03-18",
+    "magnitude": 5.0,
+    "latitude": 5.85,
+    "longitude": 127.1,
+    "depth": 29,
+    "location": "145 km S 52° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2023-03-19",
+    "magnitude": 4.5,
+    "latitude": 2.62,
+    "longitude": 127.25,
+    "depth": 19,
+    "location": "369 km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-20",
+    "magnitude": 3.9,
+    "latitude": 4.3,
+    "longitude": 126.2,
+    "depth": 109,
+    "location": "151 km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-21",
+    "magnitude": 4.7,
+    "latitude": 7.43,
+    "longitude": 123.82,
+    "depth": 575,
+    "location": "025 km N 66° W of Bongo Island (Parang) (Maguindanao Del Norte)"
+  },
+  {
+    "date": "2023-03-22",
+    "magnitude": 4.3,
+    "latitude": 6.62,
+    "longitude": 126.07,
+    "depth": 50,
+    "location": "004 km South of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2023-03-23",
+    "magnitude": 5.6,
+    "latitude": 19.24,
+    "longitude": 121.12,
+    "depth": 22,
+    "location": "018 km N 33° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2023-03-24",
+    "magnitude": 4.4,
+    "latitude": 14.5,
+    "longitude": 123.06,
+    "depth": 1,
+    "location": "012 km N 76° E of Tinaga Island (Vinzons) (Camarines Norte)"
+  },
+  {
+    "date": "2023-03-25",
+    "magnitude": 3.9,
+    "latitude": 5.28,
+    "longitude": 125.3,
+    "depth": 180,
+    "location": "020 km S 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-26",
+    "magnitude": 4.9,
+    "latitude": 17.44,
+    "longitude": 120.51,
+    "depth": 10,
+    "location": "009 km N 71° W of Pilar (Abra)"
+  },
+  {
+    "date": "2023-03-27",
+    "magnitude": 4.2,
+    "latitude": 5.11,
+    "longitude": 126.06,
+    "depth": 29,
+    "location": "077 km S 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-28",
+    "magnitude": 5.1,
+    "latitude": 18.61,
+    "longitude": 120.28,
+    "depth": 1,
+    "location": "040 km N 74° W of Burgos (Ilocos Norte)"
+  },
+  {
+    "date": "2023-03-29",
+    "magnitude": 4.2,
+    "latitude": 5.68,
+    "longitude": 126.64,
+    "depth": 29,
+    "location": "114 km S 77° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-30",
+    "magnitude": 4.7,
+    "latitude": 1.98,
+    "longitude": 126.83,
+    "depth": 145,
+    "location": "411 km S 22° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-03-31",
+    "magnitude": 4.1,
+    "latitude": 7.26,
+    "longitude": 123.53,
+    "depth": 26,
+    "location": "026 km S 29° E of Tabina (Zamboanga Del Sur)"
+  }
+]

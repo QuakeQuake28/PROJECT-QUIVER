@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2023-05-01",
+    "magnitude": 3.8,
+    "latitude": 6.88,
+    "longitude": 126.56,
+    "depth": 17,
+    "location": "022 km S 33° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2023-05-02",
+    "magnitude": 4.1,
+    "latitude": 4.69,
+    "longitude": 126.32,
+    "depth": 14,
+    "location": "128 km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-05-03",
+    "magnitude": 4.6,
+    "latitude": 3.43,
+    "longitude": 125.83,
+    "depth": 71,
+    "location": "224 km S 12° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-05-04",
+    "magnitude": 5.5,
+    "latitude": 17.66,
+    "longitude": 122.38,
+    "depth": 30,
+    "location": "034 km N 25° E of Maconacon (Isabela)"
+  },
+  {
+    "date": "2023-05-05",
+    "magnitude": 4.3,
+    "latitude": 10.42,
+    "longitude": 126.63,
+    "depth": 3,
+    "location": "076 km N 54° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-05-06",
+    "magnitude": 4.5,
+    "latitude": 6.5,
+    "longitude": 126.36,
+    "depth": 44,
+    "location": "036 km S 62° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2023-05-07",
+    "magnitude": 5.3,
+    "latitude": 17.6,
+    "longitude": 122.36,
+    "depth": 28,
+    "location": "027 km N 29° E of Maconacon (Isabela)"
+  },
+  {
+    "date": "2023-05-08",
+    "magnitude": 4.1,
+    "latitude": 2.72,
+    "longitude": 126.91,
+    "depth": 66,
+    "location": "341 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-05-09",
+    "magnitude": 4.9,
+    "latitude": 17.57,
+    "longitude": 122.34,
+    "depth": 27,
+    "location": "024 km N 32° E of Maconacon (Isabela)"
+  },
+  {
+    "date": "2023-05-10",
+    "magnitude": 4.0,
+    "latitude": 5.82,
+    "longitude": 127.04,
+    "depth": 95,
+    "location": "141 km S 49° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2023-05-11",
+    "magnitude": 4.0,
+    "latitude": 8.93,
+    "longitude": 126.33,
+    "depth": 30,
+    "location": "004 km N 66° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-05-12",
+    "magnitude": 4.4,
+    "latitude": 17.27,
+    "longitude": 120.51,
+    "depth": 1,
+    "location": "008 km S 09° E of Burgos (Ilocos Sur)"
+  },
+  {
+    "date": "2023-05-13",
+    "magnitude": 5.0,
+    "latitude": 10.14,
+    "longitude": 126.22,
+    "depth": 26,
+    "location": "021 km N 49° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-05-14",
+    "magnitude": 4.9,
+    "latitude": 7.42,
+    "longitude": 123.56,
+    "depth": 11,
+    "location": "016 km S 75° E of Tabina (Zamboanga Del Sur)"
+  },
+  {
+    "date": "2023-05-15",
+    "magnitude": 3.7,
+    "latitude": 10.4,
+    "longitude": 125.12,
+    "depth": 1,
+    "location": "008 km N 89° W of Hinunangan (Southern Leyte)"
+  },
+  {
+    "date": "2023-05-16",
+    "magnitude": 3.6,
+    "latitude": 8.88,
+    "longitude": 126.3,
+    "depth": 27,
+    "location": "004 km S 03° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-05-17",
+    "magnitude": 4.4,
+    "latitude": 10.33,
+    "longitude": 125.21,
+    "depth": 6,
+    "location": "006 km S 66° W of Hinundayan (Southern Leyte)"
+  },
+  {
+    "date": "2023-05-18",
+    "magnitude": 4.6,
+    "latitude": 7.81,
+    "longitude": 127.5,
+    "depth": 15,
+    "location": "107 km N 76° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2023-05-19",
+    "magnitude": 4.4,
+    "latitude": 9.21,
+    "longitude": 125.57,
+    "depth": 5,
+    "location": "006 km S 16° E of Santiago (Agusan Del Norte)"
+  },
+  {
+    "date": "2023-05-20",
+    "magnitude": 4.8,
+    "latitude": 12.32,
+    "longitude": 121.86,
+    "depth": 4,
+    "location": "016 km S 55° W of Odiongan (Romblon)"
+  },
+  {
+    "date": "2023-05-21",
+    "magnitude": 4.6,
+    "latitude": 9.27,
+    "longitude": 126.23,
+    "depth": 20,
+    "location": "004 km S 84° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-05-22",
+    "magnitude": 3.6,
+    "latitude": 7.14,
+    "longitude": 125.5,
+    "depth": 233,
+    "location": "035 km N 15° E of Santa Cruz (Davao Del Sur)"
+  },
+  {
+    "date": "2023-05-23",
+    "magnitude": 5.0,
+    "latitude": 2.73,
+    "longitude": 126.92,
+    "depth": 69,
+    "location": "340 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-05-24",
+    "magnitude": 5.2,
+    "latitude": 5.7,
+    "longitude": 124.26,
+    "depth": 1,
+    "location": "051 km S 51° W of Kiamba (Sarangani)"
+  },
+  {
+    "date": "2023-05-25",
+    "magnitude": 5.6,
+    "latitude": 20.96,
+    "longitude": 122.16,
+    "depth": 18,
+    "location": "038 km N 60° E of Itbayat (Batanes)"
+  },
+  {
+    "date": "2023-05-26",
+    "magnitude": 3.7,
+    "latitude": 3.5,
+    "longitude": 125.43,
+    "depth": 109,
+    "location": "212 km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-05-27",
+    "magnitude": 4.1,
+    "latitude": 8.47,
+    "longitude": 126.76,
+    "depth": 5,
+    "location": "048 km N 76° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-05-28",
+    "magnitude": 4.7,
+    "latitude": 16.43,
+    "longitude": 122.43,
+    "depth": 13,
+    "location": "020 km S 59° E of Dinapigue (Isabela)"
+  },
+  {
+    "date": "2023-05-29",
+    "magnitude": 4.0,
+    "latitude": 5.01,
+    "longitude": 126.4,
+    "depth": 35,
+    "location": "115 km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-05-30",
+    "magnitude": 4.8,
+    "latitude": 9.83,
+    "longitude": 125.38,
+    "depth": 11,
+    "location": "008 km N 39° W of San Francisco (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-05-31",
+    "magnitude": 3.7,
+    "latitude": 18.91,
+    "longitude": 121.3,
+    "depth": 1,
+    "location": "010 km N 48° W of Fuga Island (Aparri) (Cagayan)"
+  }
+]

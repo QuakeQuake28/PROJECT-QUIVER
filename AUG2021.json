@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2021-08-01",
+    "magnitude": 4.1,
+    "latitude": 3.37,
+    "longitude": 124.56,
+    "depth": 292,
+    "location": "245 km S 23° W of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-02",
+    "magnitude": 3.3,
+    "latitude": 5.97,
+    "longitude": 125.69,
+    "depth": 145,
+    "location": "008 km N 39° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-03",
+    "magnitude": 4.6,
+    "latitude": 15.08,
+    "longitude": 119.75,
+    "depth": 14,
+    "location": "034 km N 87° W of San Felipe (Zambales)"
+  },
+  {
+    "date": "2021-08-04",
+    "magnitude": 4.5,
+    "latitude": 13.54,
+    "longitude": 120.87,
+    "depth": 2,
+    "location": "013 km S 03° W of Tingloy (Batangas)"
+  },
+  {
+    "date": "2021-08-05",
+    "magnitude": 4.7,
+    "latitude": 4.71,
+    "longitude": 127.76,
+    "depth": 99,
+    "location": "270 km S 60° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-06",
+    "magnitude": 4.1,
+    "latitude": 15.89,
+    "longitude": 122.89,
+    "depth": 24,
+    "location": "091 km S 52° E of Dilasag (Aurora)"
+  },
+  {
+    "date": "2021-08-07",
+    "magnitude": 4.2,
+    "latitude": 4.71,
+    "longitude": 123.04,
+    "depth": 623,
+    "location": "210 km S 37° W of Palimbang (Sultan Kudarat)"
+  },
+  {
+    "date": "2021-08-08",
+    "magnitude": 4.7,
+    "latitude": 2.04,
+    "longitude": 127.3,
+    "depth": 21,
+    "location": "396 km S 30° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-09",
+    "magnitude": 3.5,
+    "latitude": 3.43,
+    "longitude": 126.3,
+    "depth": 30,
+    "location": "241 km S 24° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-10",
+    "magnitude": 3.8,
+    "latitude": 13.52,
+    "longitude": 120.84,
+    "depth": 1,
+    "location": "015 km S 13° W of Tingloy (Batangas)"
+  },
+  {
+    "date": "2021-08-11",
+    "magnitude": 4.1,
+    "latitude": 6.9,
+    "longitude": 126.44,
+    "depth": 18,
+    "location": "017 km S 05° W of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2021-08-12",
+    "magnitude": 7.1,
+    "latitude": 6.3,
+    "longitude": 126.87,
+    "depth": 59,
+    "location": "097 km S 66° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-08-13",
+    "magnitude": 5.8,
+    "latitude": 13.66,
+    "longitude": 120.57,
+    "depth": 124,
+    "location": "021 km S 20° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2021-08-14",
+    "magnitude": 5.3,
+    "latitude": 5.03,
+    "longitude": 128.34,
+    "depth": 44,
+    "location": "309 km S 54° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-08-15",
+    "magnitude": 4.9,
+    "latitude": 5.86,
+    "longitude": 127.41,
+    "depth": 34,
+    "location": "172 km S 59° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-08-16",
+    "magnitude": 4.4,
+    "latitude": 5.72,
+    "longitude": 126.96,
+    "depth": 75,
+    "location": "143 km S 44° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-08-17",
+    "magnitude": 4.1,
+    "latitude": 4.42,
+    "longitude": 125.83,
+    "depth": 9,
+    "location": "119 km S 22° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-18",
+    "magnitude": 4.2,
+    "latitude": 8.47,
+    "longitude": 125.69,
+    "depth": 62,
+    "location": "010 km N 77° W of Talacogon (Agusan Del Sur)"
+  },
+  {
+    "date": "2021-08-19",
+    "magnitude": 3.7,
+    "latitude": 19.96,
+    "longitude": 121.03,
+    "depth": 2,
+    "location": "098 km S 65° W of Sabtang (Batanes)"
+  },
+  {
+    "date": "2021-08-20",
+    "magnitude": 3.6,
+    "latitude": 5.8,
+    "longitude": 127.33,
+    "depth": 31,
+    "location": "170 km S 56° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-08-21",
+    "magnitude": 3.8,
+    "latitude": 5.24,
+    "longitude": 125.6,
+    "depth": 150,
+    "location": "027 km S 46° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-22",
+    "magnitude": 4.1,
+    "latitude": 15.63,
+    "longitude": 119.47,
+    "depth": 17,
+    "location": "050 km S 73° W of Santa Cruz (Zambales)"
+  },
+  {
+    "date": "2021-08-23",
+    "magnitude": 4.1,
+    "latitude": 5.36,
+    "longitude": 126.83,
+    "depth": 12,
+    "location": "145 km S 65° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-24",
+    "magnitude": 3.5,
+    "latitude": 5.89,
+    "longitude": 127.35,
+    "depth": 20,
+    "location": "164 km S 38° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2021-08-25",
+    "magnitude": 5.0,
+    "latitude": 7.21,
+    "longitude": 122.88,
+    "depth": 23,
+    "location": "011 km S 19° E of Olutanga (Zamboanga Sibugay)"
+  },
+  {
+    "date": "2021-08-26",
+    "magnitude": 4.5,
+    "latitude": 4.68,
+    "longitude": 125.38,
+    "depth": 48,
+    "location": "082 km S 03° W of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-27",
+    "magnitude": 5.7,
+    "latitude": 5.5,
+    "longitude": 125.24,
+    "depth": 34,
+    "location": "022 km N 65° W of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-08-28",
+    "magnitude": 4.5,
+    "latitude": 7.0,
+    "longitude": 127.96,
+    "depth": 60,
+    "location": "158 km S 81° E of Manay (Davao Oriental)"
+  },
+  {
+    "date": "2021-08-29",
+    "magnitude": 4.8,
+    "latitude": 8.01,
+    "longitude": 126.07,
+    "depth": 5,
+    "location": "006 km N 60° E of Santa Josefa (Agusan Del Sur)"
+  },
+  {
+    "date": "2021-08-30",
+    "magnitude": 4.7,
+    "latitude": 12.78,
+    "longitude": 121.39,
+    "depth": 9,
+    "location": "011 km N 75° W of Bongabong (Oriental Mindoro)"
+  },
+  {
+    "date": "2021-08-31",
+    "magnitude": 4.3,
+    "latitude": 11.42,
+    "longitude": 125.47,
+    "depth": 26,
+    "location": "022 km S 12° E of City Of Borongan (Eastern Samar)"
+  }
+]

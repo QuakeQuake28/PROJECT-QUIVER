@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2022-04-01",
+    "magnitude": 5.0,
+    "latitude": 9.9,
+    "longitude": 126.97,
+    "depth": 16,
+    "location": "090 km N 82° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-04-02",
+    "magnitude": 4.7,
+    "latitude": 2.87,
+    "longitude": 127.36,
+    "depth": 93,
+    "location": "354 km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-04-03",
+    "magnitude": 5.6,
+    "latitude": 9.16,
+    "longitude": 126.88,
+    "depth": 4,
+    "location": "069 km N 73° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-04-04",
+    "magnitude": 4.7,
+    "latitude": 9.19,
+    "longitude": 126.78,
+    "depth": 9,
+    "location": "060 km N 66° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-04-05",
+    "magnitude": 4.6,
+    "latitude": 9.23,
+    "longitude": 126.94,
+    "depth": 2,
+    "location": "078 km N 68° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-04-06",
+    "magnitude": 4.5,
+    "latitude": 11.43,
+    "longitude": 125.94,
+    "depth": 8,
+    "location": "037 km N 75° E of Hernani (Eastern Samar)"
+  },
+  {
+    "date": "2022-04-07",
+    "magnitude": 4.6,
+    "latitude": 14.26,
+    "longitude": 119.13,
+    "depth": 24,
+    "location": "116 km N 68° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2022-04-08",
+    "magnitude": 5.6,
+    "latitude": 21.57,
+    "longitude": 120.96,
+    "depth": 1,
+    "location": "125 km N 47° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2022-04-09",
+    "magnitude": 5.2,
+    "latitude": 21.35,
+    "longitude": 121.12,
+    "depth": 32,
+    "location": "097 km N 50° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2022-04-10",
+    "magnitude": 5.0,
+    "latitude": 21.59,
+    "longitude": 121.14,
+    "depth": 40,
+    "location": "115 km N 39° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2022-04-11",
+    "magnitude": 5.2,
+    "latitude": 21.52,
+    "longitude": 120.81,
+    "depth": 25,
+    "location": "135 km N 53° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2022-04-12",
+    "magnitude": 4.9,
+    "latitude": 3.19,
+    "longitude": 128.11,
+    "depth": 231,
+    "location": "387 km S 50° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-04-13",
+    "magnitude": 3.9,
+    "latitude": 14.03,
+    "longitude": 119.16,
+    "depth": 32,
+    "location": "105 km N 80° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2022-04-14",
+    "magnitude": 3.9,
+    "latitude": 3.3,
+    "longitude": 126.01,
+    "depth": 119,
+    "location": "243 km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-04-15",
+    "magnitude": 3.9,
+    "latitude": 10.45,
+    "longitude": 126.46,
+    "depth": 3,
+    "location": "063 km N 42° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-04-16",
+    "magnitude": 4.2,
+    "latitude": 2.97,
+    "longitude": 125.41,
+    "depth": 34,
+    "location": "271 km S 01° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-04-17",
+    "magnitude": 3.9,
+    "latitude": 5.67,
+    "longitude": 124.24,
+    "depth": 1,
+    "location": "052 km S 33° W of Maitum (Sarangani)"
+  },
+  {
+    "date": "2022-04-18",
+    "magnitude": 4.9,
+    "latitude": 14.23,
+    "longitude": 119.15,
+    "depth": 24,
+    "location": "111 km N 67° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2022-04-19",
+    "magnitude": 6.2,
+    "latitude": 7.11,
+    "longitude": 127.04,
+    "depth": 15,
+    "location": "057 km S 78° E of Manay (Davao Oriental)"
+  },
+  {
+    "date": "2022-04-20",
+    "magnitude": 5.5,
+    "latitude": 6.23,
+    "longitude": 127.45,
+    "depth": 110,
+    "location": "143 km S 51° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2022-04-21",
+    "magnitude": 6.1,
+    "latitude": 6.88,
+    "longitude": 127.21,
+    "depth": 35,
+    "location": "082 km S 64° E of Manay (Davao Oriental)"
+  },
+  {
+    "date": "2022-04-22",
+    "magnitude": 4.3,
+    "latitude": 14.14,
+    "longitude": 119.21,
+    "depth": 23,
+    "location": "104 km N 73° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2022-04-23",
+    "magnitude": 4.2,
+    "latitude": 6.92,
+    "longitude": 127.16,
+    "depth": 30,
+    "location": "075 km S 65° E of Manay (Davao Oriental)"
+  },
+  {
+    "date": "2022-04-24",
+    "magnitude": 3.6,
+    "latitude": 16.59,
+    "longitude": 119.66,
+    "depth": 22,
+    "location": "033 km N 49° W of Bolinao (Pangasinan)"
+  },
+  {
+    "date": "2022-04-25",
+    "magnitude": 4.3,
+    "latitude": 4.13,
+    "longitude": 126.34,
+    "depth": 132,
+    "location": "175 km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-04-26",
+    "magnitude": 3.4,
+    "latitude": 19.99,
+    "longitude": 121.2,
+    "depth": 10,
+    "location": "079 km S 63° W of Sabtang (Batanes)"
+  },
+  {
+    "date": "2022-04-27",
+    "magnitude": 4.6,
+    "latitude": 3.12,
+    "longitude": 127.54,
+    "depth": 48,
+    "location": "345 km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-04-28",
+    "magnitude": 5.1,
+    "latitude": 9.93,
+    "longitude": 126.19,
+    "depth": 13,
+    "location": "016 km S 49° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-04-29",
+    "magnitude": 3.4,
+    "latitude": 7.08,
+    "longitude": 127.07,
+    "depth": 37,
+    "location": "061 km S 76° E of Manay (Davao Oriental)"
+  },
+  {
+    "date": "2022-04-30",
+    "magnitude": 4.3,
+    "latitude": 2.92,
+    "longitude": 126.29,
+    "depth": 118,
+    "location": "292 km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  }
+]

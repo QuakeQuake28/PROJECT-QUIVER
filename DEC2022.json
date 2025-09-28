@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2022-12-01",
+    "magnitude": 4.6,
+    "latitude": 8.82,
+    "longitude": 127.24,
+    "depth": 24,
+    "location": "104 km S 84° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-12-02",
+    "magnitude": 4.6,
+    "latitude": 11.63,
+    "longitude": 124.86,
+    "depth": 148,
+    "location": "003 km S 75° E of Zumarraga (Samar)"
+  },
+  {
+    "date": "2022-12-03",
+    "magnitude": 4.0,
+    "latitude": 17.54,
+    "longitude": 121.09,
+    "depth": 3,
+    "location": "010 km S 67° E of Malibcong (Abra)"
+  },
+  {
+    "date": "2022-12-04",
+    "magnitude": 3.5,
+    "latitude": 18.17,
+    "longitude": 119.58,
+    "depth": 7,
+    "location": "099 km N 70° W of Sinait (Ilocos Sur)"
+  },
+  {
+    "date": "2022-12-05",
+    "magnitude": 4.4,
+    "latitude": 9.71,
+    "longitude": 125.32,
+    "depth": 14,
+    "location": "012 km S 46° W of San Francisco (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-12-06",
+    "magnitude": 4.4,
+    "latitude": 7.83,
+    "longitude": 124.71,
+    "depth": 4,
+    "location": "011 km N 21° W of Kalilangan (Bukidnon)"
+  },
+  {
+    "date": "2022-12-07",
+    "magnitude": 5.3,
+    "latitude": 14.58,
+    "longitude": 123.15,
+    "depth": 1,
+    "location": "025 km N 62° E of Tinaga Island (Vinzons) (Camarines Norte)"
+  },
+  {
+    "date": "2022-12-08",
+    "magnitude": 4.0,
+    "latitude": 1.98,
+    "longitude": 126.74,
+    "depth": 2,
+    "location": "406 km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-12-09",
+    "magnitude": 5.7,
+    "latitude": 13.3,
+    "longitude": 125.95,
+    "depth": 32,
+    "location": "118 km N 40° E of Mapanas (Northern Samar)"
+  },
+  {
+    "date": "2022-12-10",
+    "magnitude": 5.6,
+    "latitude": 6.36,
+    "longitude": 126.18,
+    "depth": 55,
+    "location": "035 km S 21° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2022-12-11",
+    "magnitude": 3.9,
+    "latitude": 7.54,
+    "longitude": 126.74,
+    "depth": 21,
+    "location": "020 km S 79° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2022-12-12",
+    "magnitude": 3.4,
+    "latitude": 15.01,
+    "longitude": 123.29,
+    "depth": 1,
+    "location": "088 km N 45° E of Tinaga Island (Vinzons) (Camarines Norte)"
+  },
+  {
+    "date": "2022-12-13",
+    "magnitude": 3.8,
+    "latitude": 9.67,
+    "longitude": 126.35,
+    "depth": 25,
+    "location": "025 km S 59° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-12-14",
+    "magnitude": 3.1,
+    "latitude": 12.37,
+    "longitude": 125.97,
+    "depth": 20,
+    "location": "055 km N 67° E of San Policarpo (Eastern Samar)"
+  },
+  {
+    "date": "2022-12-15",
+    "magnitude": 4.8,
+    "latitude": 2.67,
+    "longitude": 127.64,
+    "depth": 74,
+    "location": "391 km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-12-16",
+    "magnitude": 5.0,
+    "latitude": 13.58,
+    "longitude": 120.56,
+    "depth": 89,
+    "location": "020 km N 31° E of Paluan (Occidental Mindoro)"
+  },
+  {
+    "date": "2022-12-17",
+    "magnitude": 3.9,
+    "latitude": 16.56,
+    "longitude": 122.59,
+    "depth": 8,
+    "location": "035 km N 83° E of Dinapigue (Isabela)"
+  },
+  {
+    "date": "2022-12-18",
+    "magnitude": 5.2,
+    "latitude": 15.69,
+    "longitude": 119.17,
+    "depth": 13,
+    "location": "080 km S 79° W of Infanta (Pangasinan)"
+  },
+  {
+    "date": "2022-12-19",
+    "magnitude": 5.1,
+    "latitude": 17.42,
+    "longitude": 120.55,
+    "depth": 10,
+    "location": "005 km N 80° W of Pilar (Abra)"
+  },
+  {
+    "date": "2022-12-20",
+    "magnitude": 5.0,
+    "latitude": 7.82,
+    "longitude": 124.74,
+    "depth": 4,
+    "location": "009 km N 04° W of Kalilangan (Bukidnon)"
+  },
+  {
+    "date": "2022-12-21",
+    "magnitude": 3.4,
+    "latitude": 10.13,
+    "longitude": 123.57,
+    "depth": 3,
+    "location": "011 km S 10° E of Aloguinsan (Cebu)"
+  },
+  {
+    "date": "2022-12-22",
+    "magnitude": 3.5,
+    "latitude": 17.8,
+    "longitude": 120.73,
+    "depth": 1,
+    "location": "009 km N 22° E of Lagayan (Abra)"
+  },
+  {
+    "date": "2022-12-23",
+    "magnitude": 3.8,
+    "latitude": 4.33,
+    "longitude": 125.67,
+    "depth": 78,
+    "location": "123 km S 13° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-12-24",
+    "magnitude": 3.5,
+    "latitude": 4.8,
+    "longitude": 126.98,
+    "depth": 2,
+    "location": "183 km S 66° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-12-25",
+    "magnitude": 3.9,
+    "latitude": 14.61,
+    "longitude": 123.17,
+    "depth": 1,
+    "location": "028 km N 59° E of Tinaga Island (Vinzons) (Camarines Norte)"
+  },
+  {
+    "date": "2022-12-26",
+    "magnitude": 3.6,
+    "latitude": 12.45,
+    "longitude": 123.66,
+    "depth": 2,
+    "location": "009 km N 26° E of City Of Masbate (Masbate)"
+  },
+  {
+    "date": "2022-12-27",
+    "magnitude": 3.5,
+    "latitude": 19.76,
+    "longitude": 122.05,
+    "depth": 5,
+    "location": "031 km N 27° E of Babuyan Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2022-12-28",
+    "magnitude": 3.8,
+    "latitude": 3.8,
+    "longitude": 126.59,
+    "depth": 98,
+    "location": "220 km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-12-29",
+    "magnitude": 5.2,
+    "latitude": 6.21,
+    "longitude": 126.37,
+    "depth": 131,
+    "location": "059 km S 34° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2022-12-30",
+    "magnitude": 4.9,
+    "latitude": 2.23,
+    "longitude": 126.75,
+    "depth": 84,
+    "location": "382 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-12-31",
+    "magnitude": 3.9,
+    "latitude": 4.95,
+    "longitude": 125.17,
+    "depth": 280,
+    "location": "059 km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  }
+]

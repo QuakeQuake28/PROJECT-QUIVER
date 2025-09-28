@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2022-07-01",
+    "magnitude": 6.0,
+    "latitude": 19.07,
+    "longitude": 121.29,
+    "depth": 21,
+    "location": "009 km S 65° E of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2022-07-02",
+    "magnitude": 3.8,
+    "latitude": 6.43,
+    "longitude": 127.24,
+    "depth": 23,
+    "location": "112 km S 52° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2022-07-03",
+    "magnitude": 4.7,
+    "latitude": 13.75,
+    "longitude": 119.65,
+    "depth": 29,
+    "location": "052 km S 77° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2022-07-04",
+    "magnitude": 3.4,
+    "latitude": 5.5,
+    "longitude": 126.44,
+    "depth": 87,
+    "location": "099 km S 62° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2022-07-05",
+    "magnitude": 3.3,
+    "latitude": 11.69,
+    "longitude": 126.05,
+    "depth": 16,
+    "location": "061 km N 52° E of Hernani (Eastern Samar)"
+  },
+  {
+    "date": "2022-07-06",
+    "magnitude": 4.1,
+    "latitude": 6.62,
+    "longitude": 125.14,
+    "depth": 5,
+    "location": "013 km S 87° W of Kiblawan (Davao Del Sur)"
+  },
+  {
+    "date": "2022-07-07",
+    "magnitude": 3.8,
+    "latitude": 10.36,
+    "longitude": 126.73,
+    "depth": 20,
+    "location": "081 km N 62° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-07-08",
+    "magnitude": 4.2,
+    "latitude": 9.27,
+    "longitude": 125.62,
+    "depth": 13,
+    "location": "007 km N 82° E of Santiago (Agusan Del Norte)"
+  },
+  {
+    "date": "2022-07-09",
+    "magnitude": 4.7,
+    "latitude": 5.25,
+    "longitude": 126.76,
+    "depth": 17,
+    "location": "144 km S 59° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2022-07-10",
+    "magnitude": 3.8,
+    "latitude": 11.82,
+    "longitude": 125.34,
+    "depth": 53,
+    "location": "012 km S 42° W of Taft (Eastern Samar)"
+  },
+  {
+    "date": "2022-07-11",
+    "magnitude": 4.1,
+    "latitude": 4.88,
+    "longitude": 127.58,
+    "depth": 146,
+    "location": "244 km S 62° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2022-07-12",
+    "magnitude": 4.7,
+    "latitude": 3.49,
+    "longitude": 126.05,
+    "depth": 84,
+    "location": "222 km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-07-13",
+    "magnitude": 4.4,
+    "latitude": 4.06,
+    "longitude": 126.42,
+    "depth": 84,
+    "location": "186 km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-07-14",
+    "magnitude": 4.9,
+    "latitude": 2.54,
+    "longitude": 126.87,
+    "depth": 112,
+    "location": "356 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-07-15",
+    "magnitude": 4.7,
+    "latitude": 15.56,
+    "longitude": 119.89,
+    "depth": 25,
+    "location": "008 km N 70° W of Masinloc (Zambales)"
+  },
+  {
+    "date": "2022-07-16",
+    "magnitude": 4.4,
+    "latitude": 10.36,
+    "longitude": 126.38,
+    "depth": 1,
+    "location": "050 km N 41° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-07-17",
+    "magnitude": 4.6,
+    "latitude": 12.29,
+    "longitude": 120.73,
+    "depth": 12,
+    "location": "031 km S 54° W of Rizal (Occidental Mindoro)"
+  },
+  {
+    "date": "2022-07-18",
+    "magnitude": 4.0,
+    "latitude": 10.48,
+    "longitude": 126.4,
+    "depth": 6,
+    "location": "063 km N 35° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-07-19",
+    "magnitude": 4.6,
+    "latitude": 10.44,
+    "longitude": 126.47,
+    "depth": 8,
+    "location": "063 km N 43° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-07-20",
+    "magnitude": 4.8,
+    "latitude": 5.67,
+    "longitude": 127.19,
+    "depth": 114,
+    "location": "164 km S 49° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2022-07-21",
+    "magnitude": 4.6,
+    "latitude": 11.32,
+    "longitude": 125.45,
+    "depth": 27,
+    "location": "018 km S 79° W of Hernani (Eastern Samar)"
+  },
+  {
+    "date": "2022-07-22",
+    "magnitude": 4.5,
+    "latitude": 4.69,
+    "longitude": 126.61,
+    "depth": 38,
+    "location": "153 km S 55° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-07-23",
+    "magnitude": 4.2,
+    "latitude": 15.24,
+    "longitude": 122.08,
+    "depth": 8,
+    "location": "045 km N 40° E of Panukulan (Quezon)"
+  },
+  {
+    "date": "2022-07-24",
+    "magnitude": 4.0,
+    "latitude": 11.9,
+    "longitude": 126.04,
+    "depth": 10,
+    "location": "063 km S 75° E of Dolores (Eastern Samar)"
+  },
+  {
+    "date": "2022-07-25",
+    "magnitude": 4.6,
+    "latitude": 11.98,
+    "longitude": 126.04,
+    "depth": 10,
+    "location": "061 km S 84° E of Dolores (Eastern Samar)"
+  },
+  {
+    "date": "2022-07-26",
+    "magnitude": 4.5,
+    "latitude": 2.94,
+    "longitude": 126.31,
+    "depth": 85,
+    "location": "291 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-07-27",
+    "magnitude": 7.0,
+    "latitude": 17.63,
+    "longitude": 120.63,
+    "depth": 15,
+    "location": "003 km N 50° W of Tayum (Abra)"
+  },
+  {
+    "date": "2022-07-28",
+    "magnitude": 5.0,
+    "latitude": 17.52,
+    "longitude": 120.61,
+    "depth": 13,
+    "location": "012 km S 24° W of Tayum (Abra)"
+  },
+  {
+    "date": "2022-07-29",
+    "magnitude": 4.7,
+    "latitude": 17.72,
+    "longitude": 120.48,
+    "depth": 5,
+    "location": "007 km N 62° E of Magsingal (Ilocos Sur)"
+  },
+  {
+    "date": "2022-07-30",
+    "magnitude": 4.3,
+    "latitude": 11.27,
+    "longitude": 124.59,
+    "depth": 7,
+    "location": "006 km S 71° W of Capoocan (Leyte)"
+  },
+  {
+    "date": "2022-07-31",
+    "magnitude": 4.9,
+    "latitude": 17.82,
+    "longitude": 120.76,
+    "depth": 2,
+    "location": "013 km N 27° E of Lagayan (Abra)"
+  }
+]

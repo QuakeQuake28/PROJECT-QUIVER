@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2021-12-01",
+    "magnitude": 4.4,
+    "latitude": 13.64,
+    "longitude": 120.59,
+    "depth": 131,
+    "location": "022 km S 13° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2021-12-02",
+    "magnitude": 3.6,
+    "latitude": 12.82,
+    "longitude": 123.52,
+    "depth": 9,
+    "location": "012 km S 42° W of Donsol (Sorsogon)"
+  },
+  {
+    "date": "2021-12-03",
+    "magnitude": 4.2,
+    "latitude": 20.17,
+    "longitude": 121.23,
+    "depth": 1,
+    "location": "069 km S 75° W of Sabtang (Batanes)"
+  },
+  {
+    "date": "2021-12-04",
+    "magnitude": 4.1,
+    "latitude": 2.63,
+    "longitude": 127.3,
+    "depth": 1,
+    "location": "372 km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-12-05",
+    "magnitude": 6.1,
+    "latitude": 4.06,
+    "longitude": 128.15,
+    "depth": 173,
+    "location": "336 km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-12-06",
+    "magnitude": 3.6,
+    "latitude": 2.99,
+    "longitude": 126.27,
+    "depth": 27,
+    "location": "284 km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-12-07",
+    "magnitude": 3.6,
+    "latitude": 10.26,
+    "longitude": 124.82,
+    "depth": 1,
+    "location": "004 km S 59° E of Matalom (Leyte)"
+  },
+  {
+    "date": "2021-12-08",
+    "magnitude": 4.0,
+    "latitude": 5.08,
+    "longitude": 125.97,
+    "depth": 111,
+    "location": "071 km S 59° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-12-09",
+    "magnitude": 4.9,
+    "latitude": 10.16,
+    "longitude": 126.45,
+    "depth": 11,
+    "location": "044 km N 69° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-12-10",
+    "magnitude": 4.0,
+    "latitude": 3.8,
+    "longitude": 126.39,
+    "depth": 39,
+    "location": "208 km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-12-11",
+    "magnitude": 3.6,
+    "latitude": 13.88,
+    "longitude": 120.42,
+    "depth": 68,
+    "location": "031 km S 48° W of Nasugbu (Batangas)"
+  },
+  {
+    "date": "2021-12-12",
+    "magnitude": 3.8,
+    "latitude": 14.06,
+    "longitude": 121.25,
+    "depth": 1,
+    "location": "010 km N 84° E of Malvar (Batangas)"
+  },
+  {
+    "date": "2021-12-13",
+    "magnitude": 5.5,
+    "latitude": 13.63,
+    "longitude": 120.53,
+    "depth": 100,
+    "location": "024 km N 17° E of Paluan (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-12-14",
+    "magnitude": 3.9,
+    "latitude": 5.48,
+    "longitude": 127.12,
+    "depth": 112,
+    "location": "171 km S 74° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-12-15",
+    "magnitude": 5.1,
+    "latitude": 10.25,
+    "longitude": 126.53,
+    "depth": 17,
+    "location": "056 km N 63° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-12-16",
+    "magnitude": 3.2,
+    "latitude": 19.27,
+    "longitude": 121.16,
+    "depth": 1,
+    "location": "019 km N 16° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2021-12-17",
+    "magnitude": 4.8,
+    "latitude": 12.82,
+    "longitude": 123.64,
+    "depth": 24,
+    "location": "011 km S 26° E of Donsol (Sorsogon)"
+  },
+  {
+    "date": "2021-12-18",
+    "magnitude": 3.9,
+    "latitude": 10.32,
+    "longitude": 126.71,
+    "depth": 1,
+    "location": "077 km N 65° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-12-19",
+    "magnitude": 4.7,
+    "latitude": 15.56,
+    "longitude": 119.91,
+    "depth": 27,
+    "location": "009 km N 75° W of Masinloc (Zambales)"
+  },
+  {
+    "date": "2021-12-20",
+    "magnitude": 3.8,
+    "latitude": 7.95,
+    "longitude": 127.09,
+    "depth": 22,
+    "location": "071 km N 54° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2021-12-21",
+    "magnitude": 5.1,
+    "latitude": 12.89,
+    "longitude": 120.92,
+    "depth": 7,
+    "location": "016 km N 72° E of Sablayan (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-12-22",
+    "magnitude": 5.1,
+    "latitude": 2.2,
+    "longitude": 126.6,
+    "depth": 88,
+    "location": "378 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-12-23",
+    "magnitude": 3.7,
+    "latitude": 20.11,
+    "longitude": 122.08,
+    "depth": 13,
+    "location": "033 km S 23° E of Uyugan (Batanes)"
+  },
+  {
+    "date": "2021-12-24",
+    "magnitude": 3.5,
+    "latitude": 12.22,
+    "longitude": 123.87,
+    "depth": 12,
+    "location": "010 km N 37° W of Palanas (Masbate)"
+  },
+  {
+    "date": "2021-12-25",
+    "magnitude": 4.2,
+    "latitude": 6.87,
+    "longitude": 126.68,
+    "depth": 25,
+    "location": "032 km S 51° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2021-12-26",
+    "magnitude": 5.3,
+    "latitude": 2.14,
+    "longitude": 126.32,
+    "depth": 16,
+    "location": "375 km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-12-27",
+    "magnitude": 3.7,
+    "latitude": 12.59,
+    "longitude": 120.49,
+    "depth": 8,
+    "location": "042 km S 49° W of Sablayan (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-12-28",
+    "magnitude": 3.5,
+    "latitude": 16.11,
+    "longitude": 119.36,
+    "depth": 14,
+    "location": "047 km S 90° W of Agno (Pangasinan)"
+  },
+  {
+    "date": "2021-12-29",
+    "magnitude": 4.1,
+    "latitude": 5.8,
+    "longitude": 126.32,
+    "depth": 45,
+    "location": "076 km S 81° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-12-30",
+    "magnitude": 3.2,
+    "latitude": 10.45,
+    "longitude": 126.57,
+    "depth": 11,
+    "location": "073 km N 48° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-12-31",
+    "magnitude": 3.3,
+    "latitude": 13.46,
+    "longitude": 120.14,
+    "depth": 11,
+    "location": "031 km S 22° W of Looc (Occidental Mindoro)"
+  }
+]

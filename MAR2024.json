@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2024-03-01",
+    "magnitude": 5.4,
+    "latitude": 8.84,
+    "longitude": 127.07,
+    "depth": 18,
+    "location": "085 km S 84° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-02",
+    "magnitude": 4.2,
+    "latitude": 8.85,
+    "longitude": 127.01,
+    "depth": 4,
+    "location": "078 km S 85° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-03",
+    "magnitude": 3.9,
+    "latitude": 13.36,
+    "longitude": 120.11,
+    "depth": 15,
+    "location": "039 km S 81° W of Paluan (Occidental Mindoro)"
+  },
+  {
+    "date": "2024-03-04",
+    "magnitude": 4.9,
+    "latitude": 7.19,
+    "longitude": 123.66,
+    "depth": 22,
+    "location": "042 km N 71° W of Datu Blah T. Sinsuat (Maguindanao Del Norte)"
+  },
+  {
+    "date": "2024-03-05",
+    "magnitude": 4.8,
+    "latitude": 5.93,
+    "longitude": 125.62,
+    "depth": 172,
+    "location": "003 km N 56° W of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-06",
+    "magnitude": 4.3,
+    "latitude": 8.86,
+    "longitude": 126.97,
+    "depth": 12,
+    "location": "074 km N 85° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-07",
+    "magnitude": 5.0,
+    "latitude": 7.88,
+    "longitude": 127.14,
+    "depth": 7,
+    "location": "072 km N 62° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2024-03-08",
+    "magnitude": 6.0,
+    "latitude": 5.88,
+    "longitude": 127.05,
+    "depth": 133,
+    "location": "138 km S 51° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2024-03-09",
+    "magnitude": 3.5,
+    "latitude": 8.71,
+    "longitude": 127.17,
+    "depth": 21,
+    "location": "099 km N 68° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-10",
+    "magnitude": 3.8,
+    "latitude": 12.82,
+    "longitude": 123.03,
+    "depth": 11,
+    "location": "025 km S 69° W of Claveria (Masbate)"
+  },
+  {
+    "date": "2024-03-11",
+    "magnitude": 4.2,
+    "latitude": 18.77,
+    "longitude": 120.26,
+    "depth": 10,
+    "location": "050 km N 55° W of Burgos (Ilocos Norte)"
+  },
+  {
+    "date": "2024-03-12",
+    "magnitude": 4.3,
+    "latitude": 5.08,
+    "longitude": 126.77,
+    "depth": 88,
+    "location": "151 km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-13",
+    "magnitude": 4.1,
+    "latitude": 9.02,
+    "longitude": 127.17,
+    "depth": 1,
+    "location": "096 km N 84° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-14",
+    "magnitude": 4.4,
+    "latitude": 3.54,
+    "longitude": 126.55,
+    "depth": 45,
+    "location": "242 km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-15",
+    "magnitude": 4.5,
+    "latitude": 8.64,
+    "longitude": 127.18,
+    "depth": 1,
+    "location": "098 km N 72° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-16",
+    "magnitude": 4.3,
+    "latitude": 9.41,
+    "longitude": 126.28,
+    "depth": 28,
+    "location": "018 km N 34° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-17",
+    "magnitude": 4.0,
+    "latitude": 16.56,
+    "longitude": 120.25,
+    "depth": 17,
+    "location": "010 km S 50° W of City Of San Fernando (La Union)"
+  },
+  {
+    "date": "2024-03-18",
+    "magnitude": 4.7,
+    "latitude": 4.83,
+    "longitude": 127.38,
+    "depth": 134,
+    "location": "227 km S 58° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-19",
+    "magnitude": 4.3,
+    "latitude": 20.29,
+    "longitude": 121.92,
+    "depth": 24,
+    "location": "006 km S 45° E of Sabtang (Batanes)"
+  },
+  {
+    "date": "2024-03-20",
+    "magnitude": 3.6,
+    "latitude": 3.45,
+    "longitude": 125.71,
+    "depth": 143,
+    "location": "220 km S 08° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-21",
+    "magnitude": 3.9,
+    "latitude": 17.86,
+    "longitude": 120.15,
+    "depth": 36,
+    "location": "032 km S 89° W of Sinait (Ilocos Sur)"
+  },
+  {
+    "date": "2024-03-22",
+    "magnitude": 4.2,
+    "latitude": 3.49,
+    "longitude": 126.05,
+    "depth": 32,
+    "location": "224 km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-23",
+    "magnitude": 3.8,
+    "latitude": 8.54,
+    "longitude": 126.92,
+    "depth": 1,
+    "location": "066 km N 73° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-24",
+    "magnitude": 4.9,
+    "latitude": 8.69,
+    "longitude": 126.45,
+    "depth": 35,
+    "location": "021 km S 54° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-25",
+    "magnitude": 3.6,
+    "latitude": 5.73,
+    "longitude": 123.82,
+    "depth": 25,
+    "location": "066 km S 38° W of Palimbang (Sultan Kudarat)"
+  },
+  {
+    "date": "2024-03-26",
+    "magnitude": 3.9,
+    "latitude": 5.18,
+    "longitude": 126.12,
+    "depth": 72,
+    "location": "079 km S 65° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-27",
+    "magnitude": 4.4,
+    "latitude": 2.1,
+    "longitude": 126.5,
+    "depth": 49,
+    "location": "385 km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-28",
+    "magnitude": 4.9,
+    "latitude": 2.91,
+    "longitude": 127.23,
+    "depth": 42,
+    "location": "342 km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-29",
+    "magnitude": 3.9,
+    "latitude": 8.64,
+    "longitude": 127.11,
+    "depth": 3,
+    "location": "090 km N 71° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-03-30",
+    "magnitude": 5.4,
+    "latitude": 2.29,
+    "longitude": 126.84,
+    "depth": 81,
+    "location": "380 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-03-31",
+    "magnitude": 4.9,
+    "latitude": 13.16,
+    "longitude": 120.36,
+    "depth": 21,
+    "location": "026 km S 73° W of Mamburao (Occidental Mindoro)"
+  }
+]

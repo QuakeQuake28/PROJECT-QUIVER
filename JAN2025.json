@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2025-01-01",
+    "magnitude": 4.5,
+    "latitude": 7.85,
+    "longitude": 127.35,
+    "depth": 5,
+    "location": "092 km N 71° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2025-01-02",
+    "magnitude": 4.8,
+    "latitude": 2.06,
+    "longitude": 127.0,
+    "depth": 67,
+    "location": "410 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-01-03",
+    "magnitude": 3.6,
+    "latitude": 14.86,
+    "longitude": 119.66,
+    "depth": 10,
+    "location": "047 km S 77° W of San Antonio (Zambales)"
+  },
+  {
+    "date": "2025-01-04",
+    "magnitude": 4.4,
+    "latitude": 4.36,
+    "longitude": 126.3,
+    "depth": 14,
+    "location": "151 km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-01-05",
+    "magnitude": 5.2,
+    "latitude": 6.5,
+    "longitude": 126.69,
+    "depth": 120,
+    "location": "066 km S 24° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2025-01-06",
+    "magnitude": 4.0,
+    "latitude": 12.99,
+    "longitude": 122.79,
+    "depth": 19,
+    "location": "025 km S 52° W of San Pascual (Masbate)"
+  },
+  {
+    "date": "2025-01-07",
+    "magnitude": 4.1,
+    "latitude": 9.89,
+    "longitude": 126.3,
+    "depth": 15,
+    "location": "020 km N 53° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "date": "2025-01-08",
+    "magnitude": 3.3,
+    "latitude": 10.66,
+    "longitude": 125.94,
+    "depth": 43,
+    "location": "025 km S 69° E of Homonhon Island (Guiuan) (Eastern Samar)"
+  },
+  {
+    "date": "2025-01-09",
+    "magnitude": 4.3,
+    "latitude": 2.18,
+    "longitude": 121.62,
+    "depth": 33,
+    "location": "355 km S 25° E of Sapa-sapa (Tawi-tawi)"
+  },
+  {
+    "date": "2025-01-10",
+    "magnitude": 4.6,
+    "latitude": 8.42,
+    "longitude": 126.58,
+    "depth": 27,
+    "location": "028 km N 77° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2025-01-11",
+    "magnitude": 4.4,
+    "latitude": 3.43,
+    "longitude": 125.65,
+    "depth": 110,
+    "location": "220 km S 07° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-01-12",
+    "magnitude": 4.4,
+    "latitude": 7.79,
+    "longitude": 127.26,
+    "depth": 1,
+    "location": "081 km N 73° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2025-01-13",
+    "magnitude": 5.1,
+    "latitude": 6.48,
+    "longitude": 124.05,
+    "depth": 596,
+    "location": "008 km S 02° E of Kalamansig (Sultan Kudarat)"
+  },
+  {
+    "date": "2025-01-14",
+    "magnitude": 3.8,
+    "latitude": 8.0,
+    "longitude": 126.95,
+    "depth": 5,
+    "location": "060 km S 86° E of Lingig (Surigao Del Sur)"
+  },
+  {
+    "date": "2025-01-15",
+    "magnitude": 4.6,
+    "latitude": 5.79,
+    "longitude": 126.75,
+    "depth": 57,
+    "location": "123 km S 83° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2025-01-16",
+    "magnitude": 4.7,
+    "latitude": 11.5,
+    "longitude": 124.4,
+    "depth": 7,
+    "location": "006 km N 25° W of Calubian (Leyte)"
+  },
+  {
+    "date": "2025-01-17",
+    "magnitude": 4.8,
+    "latitude": 8.43,
+    "longitude": 125.86,
+    "depth": 15,
+    "location": "009 km S 74° E of Talacogon (Agusan Del Sur)"
+  },
+  {
+    "date": "2025-01-18",
+    "magnitude": 4.1,
+    "latitude": 13.2,
+    "longitude": 124.06,
+    "depth": 9,
+    "location": "007 km N 78° W of Rapu-rapu (Albay)"
+  },
+  {
+    "date": "2025-01-19",
+    "magnitude": 2.8,
+    "latitude": 12.67,
+    "longitude": 123.55,
+    "depth": 3,
+    "location": "013 km N 75° W of Monreal (Masbate)"
+  },
+  {
+    "date": "2025-01-20",
+    "magnitude": 5.5,
+    "latitude": 13.93,
+    "longitude": 120.44,
+    "depth": 90,
+    "location": "024 km N 64° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2025-01-21",
+    "magnitude": 3.4,
+    "latitude": 5.39,
+    "longitude": 127.02,
+    "depth": 37,
+    "location": "163 km S 69° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2025-01-22",
+    "magnitude": 5.0,
+    "latitude": 21.11,
+    "longitude": 121.12,
+    "depth": 14,
+    "location": "083 km N 65° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2025-01-23",
+    "magnitude": 5.8,
+    "latitude": 10.01,
+    "longitude": 125.18,
+    "depth": 11,
+    "location": "006 km S 22° E of San Francisco (Southern Leyte)"
+  },
+  {
+    "date": "2025-01-24",
+    "magnitude": 4.4,
+    "latitude": 10.62,
+    "longitude": 125.65,
+    "depth": 88,
+    "location": "015 km S 32° W of Homonhon Island (Guiuan) (Eastern Samar)"
+  },
+  {
+    "date": "2025-01-25",
+    "magnitude": 3.8,
+    "latitude": 9.93,
+    "longitude": 126.03,
+    "depth": 16,
+    "location": "011 km S 27° W of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2025-01-26",
+    "magnitude": 3.2,
+    "latitude": 7.86,
+    "longitude": 124.74,
+    "depth": 1,
+    "location": "010 km N 38° E of Amai Manabilang (Lanao Del Sur)"
+  },
+  {
+    "date": "2025-01-27",
+    "magnitude": 4.7,
+    "latitude": 5.77,
+    "longitude": 127.21,
+    "depth": 131,
+    "location": "159 km S 52° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2025-01-28",
+    "magnitude": 4.3,
+    "latitude": 12.93,
+    "longitude": 120.99,
+    "depth": 1,
+    "location": "024 km N 67° E of Sablayan (Occidental Mindoro)"
+  },
+  {
+    "date": "2025-01-29",
+    "magnitude": 4.7,
+    "latitude": 7.65,
+    "longitude": 123.57,
+    "depth": 6,
+    "location": "012 km S 89° E of San Pablo (Zamboanga Del Sur)"
+  },
+  {
+    "date": "2025-01-30",
+    "magnitude": 4.0,
+    "latitude": 13.83,
+    "longitude": 124.31,
+    "depth": 24,
+    "location": "009 km S 08° E of Panganiban (Catanduanes)"
+  },
+  {
+    "date": "2025-01-31",
+    "magnitude": 4.4,
+    "latitude": 6.88,
+    "longitude": 126.2,
+    "depth": 57,
+    "location": "008 km S 09° W of City Of Mati (Davao Oriental)"
+  }
+]

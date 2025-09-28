@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2024-04-01",
+    "magnitude": 5.0,
+    "latitude": 8.14,
+    "longitude": 126.61,
+    "depth": 28,
+    "location": "024 km N 62° E of Lingig (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-04-02",
+    "magnitude": 4.3,
+    "latitude": 11.56,
+    "longitude": 126.73,
+    "depth": 26,
+    "location": "122 km N 65° E of Mercedes (Eastern Samar)"
+  },
+  {
+    "date": "2024-04-03",
+    "magnitude": 7.5,
+    "latitude": 23.8,
+    "longitude": 121.7,
+    "depth": 0,
+    "location": "334 km N 03° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2024-04-04",
+    "magnitude": 4.5,
+    "latitude": 5.57,
+    "longitude": 125.62,
+    "depth": 43,
+    "location": "019 km N 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-05",
+    "magnitude": 3.5,
+    "latitude": 3.66,
+    "longitude": 125.89,
+    "depth": 163,
+    "location": "201 km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-06",
+    "magnitude": 4.3,
+    "latitude": 5.02,
+    "longitude": 126.71,
+    "depth": 69,
+    "location": "146 km S 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-07",
+    "magnitude": 4.1,
+    "latitude": 8.69,
+    "longitude": 126.1,
+    "depth": 9,
+    "location": "006 km N 02° E of Lianga (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-04-08",
+    "magnitude": 4.4,
+    "latitude": 13.83,
+    "longitude": 120.46,
+    "depth": 101,
+    "location": "019 km N 90° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2024-04-09",
+    "magnitude": 6.5,
+    "latitude": 2.52,
+    "longitude": 127.19,
+    "depth": 35,
+    "location": "375 km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-10",
+    "magnitude": 4.7,
+    "latitude": 4.51,
+    "longitude": 126.8,
+    "depth": 149,
+    "location": "183 km S 57° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-11",
+    "magnitude": 5.3,
+    "latitude": 7.52,
+    "longitude": 126.14,
+    "depth": 11,
+    "location": "004 km S 12° E of New Bataan (Davao De Oro)"
+  },
+  {
+    "date": "2024-04-12",
+    "magnitude": 4.8,
+    "latitude": 3.48,
+    "longitude": 126.74,
+    "depth": 83,
+    "location": "258 km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-13",
+    "magnitude": 5.3,
+    "latitude": 2.39,
+    "longitude": 126.62,
+    "depth": 73,
+    "location": "360 km S 22° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-14",
+    "magnitude": 4.7,
+    "latitude": 19.84,
+    "longitude": 121.66,
+    "depth": 23,
+    "location": "045 km N 36° W of Babuyan Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2024-04-15",
+    "magnitude": 4.1,
+    "latitude": 8.18,
+    "longitude": 126.93,
+    "depth": 8,
+    "location": "059 km N 75° E of Lingig (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-04-16",
+    "magnitude": 4.1,
+    "latitude": 9.88,
+    "longitude": 126.43,
+    "depth": 12,
+    "location": "031 km N 70° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "date": "2024-04-17",
+    "magnitude": 5.0,
+    "latitude": 9.73,
+    "longitude": 126.36,
+    "depth": 17,
+    "location": "023 km S 77° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "date": "2024-04-18",
+    "magnitude": 4.6,
+    "latitude": 2.12,
+    "longitude": 124.75,
+    "depth": 274,
+    "location": "371 km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-19",
+    "magnitude": 4.4,
+    "latitude": 1.99,
+    "longitude": 126.4,
+    "depth": 13,
+    "location": "394 km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-20",
+    "magnitude": 4.9,
+    "latitude": 7.88,
+    "longitude": 127.2,
+    "depth": 1,
+    "location": "078 km N 64° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2024-04-21",
+    "magnitude": 3.7,
+    "latitude": 9.85,
+    "longitude": 125.37,
+    "depth": 6,
+    "location": "010 km N 36° W of San Francisco (Surigao Del Norte)"
+  },
+  {
+    "date": "2024-04-22",
+    "magnitude": 3.7,
+    "latitude": 2.89,
+    "longitude": 126.82,
+    "depth": 25,
+    "location": "319 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-23",
+    "magnitude": 5.3,
+    "latitude": 20.29,
+    "longitude": 121.27,
+    "depth": 15,
+    "location": "063 km S 86° W of Sabtang (Batanes)"
+  },
+  {
+    "date": "2024-04-24",
+    "magnitude": 4.3,
+    "latitude": 7.83,
+    "longitude": 127.39,
+    "depth": 1,
+    "location": "096 km N 73° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2024-04-25",
+    "magnitude": 5.0,
+    "latitude": 7.69,
+    "longitude": 127.37,
+    "depth": 18,
+    "location": "090 km N 82° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2024-04-26",
+    "magnitude": 4.1,
+    "latitude": 3.33,
+    "longitude": 126.07,
+    "depth": 96,
+    "location": "241 km S 17° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-04-27",
+    "magnitude": 4.3,
+    "latitude": 8.58,
+    "longitude": 126.72,
+    "depth": 4,
+    "location": "048 km N 61° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-04-28",
+    "magnitude": 4.7,
+    "latitude": 8.58,
+    "longitude": 126.9,
+    "depth": 3,
+    "location": "066 km N 69° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-04-29",
+    "magnitude": 4.7,
+    "latitude": 8.67,
+    "longitude": 126.69,
+    "depth": 5,
+    "location": "051 km N 49° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-04-30",
+    "magnitude": 4.5,
+    "latitude": 4.97,
+    "longitude": 126.23,
+    "depth": 51,
+    "location": "100 km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  }
+]

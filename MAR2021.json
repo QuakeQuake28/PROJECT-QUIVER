@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2021-03-01",
+    "magnitude": 4.8,
+    "latitude": 6.63,
+    "longitude": 124.93,
+    "depth": 8,
+    "location": "007 km S 28° W of Columbio (Sultan Kudarat)"
+  },
+  {
+    "date": "2021-03-02",
+    "magnitude": 3.4,
+    "latitude": 6.08,
+    "longitude": 126.81,
+    "depth": 5,
+    "location": "104 km S 52° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-03-03",
+    "magnitude": 3.8,
+    "latitude": 8.68,
+    "longitude": 126.5,
+    "depth": 26,
+    "location": "038 km N 27° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-03-04",
+    "magnitude": 4.4,
+    "latitude": 19.09,
+    "longitude": 121.02,
+    "depth": 7,
+    "location": "020 km S 85° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2021-03-05",
+    "magnitude": 3.7,
+    "latitude": 6.12,
+    "longitude": 126.55,
+    "depth": 8,
+    "location": "079 km S 42° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-03-06",
+    "magnitude": 3.8,
+    "latitude": 8.66,
+    "longitude": 122.57,
+    "depth": 18,
+    "location": "055 km N 64° W of Jose Dalman (Zamboanga Del Norte)"
+  },
+  {
+    "date": "2021-03-07",
+    "magnitude": 4.7,
+    "latitude": 4.63,
+    "longitude": 125.68,
+    "depth": 121,
+    "location": "091 km S 19° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-03-08",
+    "magnitude": 3.4,
+    "latitude": 4.8,
+    "longitude": 126.9,
+    "depth": 14,
+    "location": "177 km S 68° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-03-09",
+    "magnitude": 3.9,
+    "latitude": 16.14,
+    "longitude": 119.72,
+    "depth": 15,
+    "location": "009 km N 74° W of Agno (Pangasinan)"
+  },
+  {
+    "date": "2021-03-10",
+    "magnitude": 4.6,
+    "latitude": 6.45,
+    "longitude": 120.4,
+    "depth": 96,
+    "location": "026 km N 51° W of Pangutaran (Sulu)"
+  },
+  {
+    "date": "2021-03-11",
+    "magnitude": 5.1,
+    "latitude": 15.78,
+    "longitude": 119.25,
+    "depth": 13,
+    "location": "071 km N 89° W of Santa Cruz (Zambales)"
+  },
+  {
+    "date": "2021-03-12",
+    "magnitude": 4.1,
+    "latitude": 8.17,
+    "longitude": 125.37,
+    "depth": 14,
+    "location": "013 km N 38° E of Cabanglasan (Bukidnon)"
+  },
+  {
+    "date": "2021-03-13",
+    "magnitude": 5.0,
+    "latitude": 4.33,
+    "longitude": 126.89,
+    "depth": 63,
+    "location": "202 km S 54° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-03-14",
+    "magnitude": 4.1,
+    "latitude": 5.08,
+    "longitude": 126.1,
+    "depth": 50,
+    "location": "084 km S 64° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-03-15",
+    "magnitude": 4.8,
+    "latitude": 7.2,
+    "longitude": 126.85,
+    "depth": 29,
+    "location": "034 km S 88° E of Manay (Davao Oriental)"
+  },
+  {
+    "date": "2021-03-16",
+    "magnitude": 3.8,
+    "latitude": 10.33,
+    "longitude": 126.04,
+    "depth": 10,
+    "location": "034 km N 07° W of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-03-17",
+    "magnitude": 4.4,
+    "latitude": 16.58,
+    "longitude": 120.93,
+    "depth": 4,
+    "location": "011 km N 64° W of Ambaguio (Nueva Vizcaya)"
+  },
+  {
+    "date": "2021-03-18",
+    "magnitude": 3.0,
+    "latitude": 11.46,
+    "longitude": 125.81,
+    "depth": 7,
+    "location": "025 km N 59° E of Hernani (Eastern Samar)"
+  },
+  {
+    "date": "2021-03-19",
+    "magnitude": 3.8,
+    "latitude": 7.63,
+    "longitude": 126.75,
+    "depth": 37,
+    "location": "022 km N 73° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2021-03-20",
+    "magnitude": 3.6,
+    "latitude": 10.07,
+    "longitude": 126.64,
+    "depth": 19,
+    "location": "062 km N 59° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-03-21",
+    "magnitude": 3.8,
+    "latitude": 13.1,
+    "longitude": 124.54,
+    "depth": 12,
+    "location": "038 km N 80° E of Prieto Diaz (Sorsogon)"
+  },
+  {
+    "date": "2021-03-22",
+    "magnitude": 4.4,
+    "latitude": 2.3,
+    "longitude": 127.21,
+    "depth": 150,
+    "location": "398 km S 30° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-03-23",
+    "magnitude": 4.0,
+    "latitude": 5.46,
+    "longitude": 126.98,
+    "depth": 23,
+    "location": "166 km S 37° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-03-24",
+    "magnitude": 3.6,
+    "latitude": 10.07,
+    "longitude": 126.13,
+    "depth": 14,
+    "location": "008 km N 45° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-03-25",
+    "magnitude": 3.9,
+    "latitude": 9.74,
+    "longitude": 125.42,
+    "depth": 7,
+    "location": "004 km S 02° W of San Francisco (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-03-26",
+    "magnitude": 3.9,
+    "latitude": 4.08,
+    "longitude": 126.86,
+    "depth": 62,
+    "location": "217 km S 47° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-03-27",
+    "magnitude": 4.0,
+    "latitude": 7.98,
+    "longitude": 126.56,
+    "depth": 14,
+    "location": "017 km S 68° E of Lingig (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-03-28",
+    "magnitude": 3.2,
+    "latitude": 13.51,
+    "longitude": 120.0,
+    "depth": 12,
+    "location": "040 km S 19° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-03-29",
+    "magnitude": 3.3,
+    "latitude": 9.19,
+    "longitude": 126.31,
+    "depth": 32,
+    "location": "016 km S 55° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-03-30",
+    "magnitude": 3.8,
+    "latitude": 13.62,
+    "longitude": 125.13,
+    "depth": 39,
+    "location": "083 km S 87° E of Baras (Catanduanes)"
+  },
+  {
+    "date": "2021-03-31",
+    "magnitude": 4.0,
+    "latitude": 6.79,
+    "longitude": 125.72,
+    "depth": 62,
+    "location": "032 km S 22° E of City Of Davao (Davao Del Sur)"
+  }
+]

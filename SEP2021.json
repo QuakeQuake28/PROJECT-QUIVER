@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2021-09-01",
+    "magnitude": 3.9,
+    "latitude": 7.97,
+    "longitude": 126.97,
+    "depth": 8,
+    "location": "061 km N 71° E of Cateel (Davao Oriental)"
+  },
+  {
+    "date": "2021-09-02",
+    "magnitude": 5.0,
+    "latitude": 11.51,
+    "longitude": 124.38,
+    "depth": 7,
+    "location": "011 km N 63° W of Biliran (Biliran)"
+  },
+  {
+    "date": "2021-09-03",
+    "magnitude": 3.8,
+    "latitude": 2.43,
+    "longitude": 127.53,
+    "depth": 7,
+    "location": "405 km S 35° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-04",
+    "magnitude": 4.2,
+    "latitude": 13.14,
+    "longitude": 124.19,
+    "depth": 16,
+    "location": "008 km S 51° E of Rapu-rapu (Albay)"
+  },
+  {
+    "date": "2021-09-05",
+    "magnitude": 4.9,
+    "latitude": 3.88,
+    "longitude": 126.92,
+    "depth": 9,
+    "location": "238 km S 44° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-06",
+    "magnitude": 4.9,
+    "latitude": 5.47,
+    "longitude": 126.66,
+    "depth": 10,
+    "location": "123 km S 66° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-07",
+    "magnitude": 4.7,
+    "latitude": 5.35,
+    "longitude": 126.81,
+    "depth": 1,
+    "location": "143 km S 64° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-08",
+    "magnitude": 4.5,
+    "latitude": 5.99,
+    "longitude": 126.88,
+    "depth": 33,
+    "location": "116 km S 51° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-09-09",
+    "magnitude": 4.2,
+    "latitude": 5.89,
+    "longitude": 126.62,
+    "depth": 58,
+    "location": "104 km S 35° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-09-10",
+    "magnitude": 4.4,
+    "latitude": 3.15,
+    "longitude": 127.38,
+    "depth": 7,
+    "location": "332 km S 41° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-11",
+    "magnitude": 3.6,
+    "latitude": 7.19,
+    "longitude": 125.68,
+    "depth": 6,
+    "location": "011 km S 06° E of City Of Panabo (Davao Del Norte)"
+  },
+  {
+    "date": "2021-09-12",
+    "magnitude": 4.8,
+    "latitude": 5.51,
+    "longitude": 126.57,
+    "depth": 1,
+    "location": "111 km S 66° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-13",
+    "magnitude": 3.7,
+    "latitude": 9.55,
+    "longitude": 124.12,
+    "depth": 9,
+    "location": "013 km S 66° E of Loay (Bohol)"
+  },
+  {
+    "date": "2021-09-14",
+    "magnitude": 3.8,
+    "latitude": 19.53,
+    "longitude": 120.94,
+    "depth": 10,
+    "location": "064 km N 62° W of Calayan (Cagayan)"
+  },
+  {
+    "date": "2021-09-15",
+    "magnitude": 4.4,
+    "latitude": 3.15,
+    "longitude": 126.28,
+    "depth": 55,
+    "location": "268 km S 21° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-16",
+    "magnitude": 4.1,
+    "latitude": 15.34,
+    "longitude": 120.0,
+    "depth": 59,
+    "location": "003 km N 57° E of Iba (Zambales)"
+  },
+  {
+    "date": "2021-09-17",
+    "magnitude": 4.7,
+    "latitude": 4.36,
+    "longitude": 126.24,
+    "depth": 23,
+    "location": "148 km S 38° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-18",
+    "magnitude": 3.8,
+    "latitude": 3.14,
+    "longitude": 126.25,
+    "depth": 45,
+    "location": "267 km S 20° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-19",
+    "magnitude": 3.9,
+    "latitude": 5.75,
+    "longitude": 126.53,
+    "depth": 20,
+    "location": "112 km S 27° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-09-20",
+    "magnitude": 4.7,
+    "latitude": 11.04,
+    "longitude": 122.11,
+    "depth": 15,
+    "location": "004 km N 30° W of Valderrama (Antique)"
+  },
+  {
+    "date": "2021-09-21",
+    "magnitude": 4.3,
+    "latitude": 11.06,
+    "longitude": 122.17,
+    "depth": 15,
+    "location": "008 km N 33° E of Valderrama (Antique)"
+  },
+  {
+    "date": "2021-09-22",
+    "magnitude": 4.9,
+    "latitude": 13.23,
+    "longitude": 120.48,
+    "depth": 26,
+    "location": "013 km N 89° W of Mamburao (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-09-23",
+    "magnitude": 4.7,
+    "latitude": 13.24,
+    "longitude": 120.46,
+    "depth": 31,
+    "location": "015 km N 85° W of Mamburao (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-09-24",
+    "magnitude": 4.9,
+    "latitude": 1.94,
+    "longitude": 126.69,
+    "depth": 121,
+    "location": "409 km S 20° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-25",
+    "magnitude": 4.0,
+    "latitude": 17.51,
+    "longitude": 120.14,
+    "depth": 25,
+    "location": "026 km S 80° W of Caoayan (Ilocos Sur)"
+  },
+  {
+    "date": "2021-09-26",
+    "magnitude": 4.2,
+    "latitude": 9.84,
+    "longitude": 123.98,
+    "depth": 10,
+    "location": "003 km S 59° W of Catigbian (Bohol)"
+  },
+  {
+    "date": "2021-09-27",
+    "magnitude": 5.7,
+    "latitude": 13.82,
+    "longitude": 120.35,
+    "depth": 66,
+    "location": "016 km N 44° E of Looc (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-09-28",
+    "magnitude": 4.3,
+    "latitude": 3.08,
+    "longitude": 126.2,
+    "depth": 68,
+    "location": "259 km S 17° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-29",
+    "magnitude": 4.2,
+    "latitude": 5.32,
+    "longitude": 124.93,
+    "depth": 21,
+    "location": "056 km S 79° W of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-09-30",
+    "magnitude": 4.3,
+    "latitude": 2.38,
+    "longitude": 128.2,
+    "depth": 214,
+    "location": "456 km S 43° E of Sarangani (Davao Occidental)"
+  }
+]

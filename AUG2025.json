@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2025-08-01",
+    "magnitude": 3.7,
+    "latitude": 3.02,
+    "longitude": 126.43,
+    "depth": 30,
+    "location": "288 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-08-02",
+    "magnitude": 4.3,
+    "latitude": 9.15,
+    "longitude": 126.65,
+    "depth": 12,
+    "location": "045 km N 64° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2025-08-03",
+    "magnitude": 3.6,
+    "latitude": 19.15,
+    "longitude": 121.05,
+    "depth": 2,
+    "location": "017 km N 72° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2025-08-04",
+    "magnitude": 3.8,
+    "latitude": 12.53,
+    "longitude": 126.2,
+    "depth": 32,
+    "location": "084 km N 63° E of San Policarpo (Eastern Samar)"
+  },
+  {
+    "date": "2025-08-05",
+    "magnitude": 4.2,
+    "latitude": 11.37,
+    "longitude": 121.83,
+    "depth": 5,
+    "location": "024 km N 68° W of Tibiao (Antique)"
+  },
+  {
+    "date": "2025-08-06",
+    "magnitude": 3.3,
+    "latitude": 5.15,
+    "longitude": 127.67,
+    "depth": 58,
+    "location": "247 km S 81° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-08-07",
+    "magnitude": 4.3,
+    "latitude": 4.1,
+    "longitude": 126.58,
+    "depth": 57,
+    "location": "194 km S 41° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-08-08",
+    "magnitude": 3.4,
+    "latitude": 8.88,
+    "longitude": 122.49,
+    "depth": 14,
+    "location": "063 km S 72° W of Siaton (Negros Oriental)"
+  },
+  {
+    "date": "2025-08-09",
+    "magnitude": 5.3,
+    "latitude": 6.08,
+    "longitude": 126.72,
+    "depth": 86,
+    "location": "096 km S 48° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2025-08-10",
+    "magnitude": 4.6,
+    "latitude": 5.28,
+    "longitude": 125.22,
+    "depth": 33,
+    "location": "027 km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-08-11",
+    "magnitude": 4.4,
+    "latitude": 18.24,
+    "longitude": 121.5,
+    "depth": 119,
+    "location": "009 km N 70° E of Flora (Apayao)"
+  },
+  {
+    "date": "2025-08-12",
+    "magnitude": 5.3,
+    "latitude": 5.4,
+    "longitude": 126.2,
+    "depth": 136,
+    "location": "082 km S 84° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-08-13",
+    "magnitude": 4.1,
+    "latitude": 5.45,
+    "longitude": 126.64,
+    "depth": 16,
+    "location": "121 km S 65° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2025-08-14",
+    "magnitude": 4.1,
+    "latitude": 5.62,
+    "longitude": 125.94,
+    "depth": 97,
+    "location": "046 km S 45° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2025-08-15",
+    "magnitude": 3.9,
+    "latitude": 7.86,
+    "longitude": 127.26,
+    "depth": 20,
+    "location": "084 km N 68° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2025-08-16",
+    "magnitude": 3.8,
+    "latitude": 17.94,
+    "longitude": 120.99,
+    "depth": 9,
+    "location": "023 km S 65° W of Kabugao (Apayao)"
+  },
+  {
+    "date": "2025-08-17",
+    "magnitude": 4.9,
+    "latitude": 13.72,
+    "longitude": 120.47,
+    "depth": 102,
+    "location": "024 km N 89° E of Looc (Occidental Mindoro)"
+  },
+  {
+    "date": "2025-08-18",
+    "magnitude": 4.4,
+    "latitude": 14.33,
+    "longitude": 120.42,
+    "depth": 134,
+    "location": "014 km S 33° W of Mariveles (Bataan)"
+  },
+  {
+    "date": "2025-08-19",
+    "magnitude": 3.5,
+    "latitude": 4.24,
+    "longitude": 125.93,
+    "depth": 36,
+    "location": "141 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-08-20",
+    "magnitude": 4.7,
+    "latitude": 13.95,
+    "longitude": 120.83,
+    "depth": 14,
+    "location": "003 km N 44° E of City Of Calaca (Batangas)"
+  },
+  {
+    "date": "2025-08-21",
+    "magnitude": 4.2,
+    "latitude": 9.19,
+    "longitude": 122.51,
+    "depth": 32,
+    "location": "029 km S 30° W of Basay (Negros Oriental)"
+  },
+  {
+    "date": "2025-08-22",
+    "magnitude": 4.7,
+    "latitude": 7.41,
+    "longitude": 126.5,
+    "depth": 133,
+    "location": "012 km N 41° W of Caraga (Davao Oriental)"
+  },
+  {
+    "date": "2025-08-23",
+    "magnitude": 3.3,
+    "latitude": 6.06,
+    "longitude": 126.6,
+    "depth": 43,
+    "location": "088 km S 42° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2025-08-24",
+    "magnitude": 4.4,
+    "latitude": 13.68,
+    "longitude": 122.86,
+    "depth": 2,
+    "location": "013 km S 24° W of Lupi (Camarines Sur)"
+  },
+  {
+    "date": "2025-08-25",
+    "magnitude": 4.5,
+    "latitude": 13.7,
+    "longitude": 122.87,
+    "depth": 3,
+    "location": "011 km S 23° W of Lupi (Camarines Sur)"
+  },
+  {
+    "date": "2025-08-26",
+    "magnitude": 4.7,
+    "latitude": 5.5,
+    "longitude": 127.17,
+    "depth": 90,
+    "location": "176 km S 44° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2025-08-27",
+    "magnitude": 4.6,
+    "latitude": 8.52,
+    "longitude": 126.31,
+    "depth": 65,
+    "location": "017 km N 09° W of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2025-08-28",
+    "magnitude": 4.3,
+    "latitude": 13.44,
+    "longitude": 120.07,
+    "depth": 33,
+    "location": "037 km S 33° W of Looc (Occidental Mindoro)"
+  },
+  {
+    "date": "2025-08-29",
+    "magnitude": 4.6,
+    "latitude": 10.07,
+    "longitude": 126.19,
+    "depth": 22,
+    "location": "014 km N 66° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2025-08-30",
+    "magnitude": 4.5,
+    "latitude": 4.23,
+    "longitude": 128.53,
+    "depth": 34,
+    "location": "365 km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-08-31",
+    "magnitude": 4.7,
+    "latitude": 7.31,
+    "longitude": 123.57,
+    "depth": 8,
+    "location": "024 km S 46° E of Tabina (Zamboanga Del Sur)"
+  }
+]

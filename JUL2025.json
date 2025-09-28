@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2025-07-01",
+    "magnitude": 3.8,
+    "latitude": 5.03,
+    "longitude": 126.14,
+    "depth": 48,
+    "location": "089 km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-07-02",
+    "magnitude": 4.0,
+    "latitude": 4.55,
+    "longitude": 125.8,
+    "depth": 175,
+    "location": "104 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-07-03",
+    "magnitude": 3.8,
+    "latitude": 7.79,
+    "longitude": 126.75,
+    "depth": 19,
+    "location": "031 km N 42° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2025-07-04",
+    "magnitude": 4.7,
+    "latitude": 5.69,
+    "longitude": 126.63,
+    "depth": 118,
+    "location": "112 km S 77° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2025-07-05",
+    "magnitude": 3.1,
+    "latitude": 9.88,
+    "longitude": 125.41,
+    "depth": 9,
+    "location": "012 km N 08° W of San Francisco (Surigao Del Norte)"
+  },
+  {
+    "date": "2025-07-06",
+    "magnitude": 4.7,
+    "latitude": 3.34,
+    "longitude": 122.88,
+    "depth": 549,
+    "location": "325 km S 22° E of Banguingui (Sulu)"
+  },
+  {
+    "date": "2025-07-07",
+    "magnitude": 4.0,
+    "latitude": 11.54,
+    "longitude": 124.38,
+    "depth": 7,
+    "location": "003 km S 36° W of Naval (Biliran)"
+  },
+  {
+    "date": "2025-07-08",
+    "magnitude": 3.9,
+    "latitude": 12.89,
+    "longitude": 125.96,
+    "depth": 16,
+    "location": "089 km N 59° E of Mapanas (Northern Samar)"
+  },
+  {
+    "date": "2025-07-09",
+    "magnitude": 4.5,
+    "latitude": 2.41,
+    "longitude": 126.18,
+    "depth": 293,
+    "location": "343 km S 14° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-07-10",
+    "magnitude": 4.3,
+    "latitude": 14.99,
+    "longitude": 119.69,
+    "depth": 8,
+    "location": "043 km N 84° W of San Antonio (Zambales)"
+  },
+  {
+    "date": "2025-07-11",
+    "magnitude": 4.3,
+    "latitude": 18.5,
+    "longitude": 120.52,
+    "depth": 23,
+    "location": "021 km N 28° W of Pasuquin (Ilocos Norte)"
+  },
+  {
+    "date": "2025-07-12",
+    "magnitude": 3.6,
+    "latitude": 6.56,
+    "longitude": 126.34,
+    "depth": 32,
+    "location": "032 km S 70° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2025-07-13",
+    "magnitude": 4.4,
+    "latitude": 13.62,
+    "longitude": 120.68,
+    "depth": 129,
+    "location": "020 km N 15° W of Abra De Ilog (Occidental Mindoro)"
+  },
+  {
+    "date": "2025-07-14",
+    "magnitude": 5.1,
+    "latitude": 7.23,
+    "longitude": 127.46,
+    "depth": 23,
+    "location": "099 km S 84° E of Caraga (Davao Oriental)"
+  },
+  {
+    "date": "2025-07-15",
+    "magnitude": 5.5,
+    "latitude": 18.49,
+    "longitude": 120.25,
+    "depth": 44,
+    "location": "042 km N 71° W of Pasuquin (Ilocos Norte)"
+  },
+  {
+    "date": "2025-07-16",
+    "magnitude": 4.5,
+    "latitude": 18.64,
+    "longitude": 120.54,
+    "depth": 16,
+    "location": "018 km N 39° W of Burgos (Ilocos Norte)"
+  },
+  {
+    "date": "2025-07-17",
+    "magnitude": 3.8,
+    "latitude": 10.08,
+    "longitude": 126.18,
+    "depth": 10,
+    "location": "014 km N 60° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2025-07-18",
+    "magnitude": 4.0,
+    "latitude": 4.64,
+    "longitude": 124.96,
+    "depth": 16,
+    "location": "099 km S 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-07-19",
+    "magnitude": 5.2,
+    "latitude": 19.97,
+    "longitude": 121.21,
+    "depth": 21,
+    "location": "083 km N 19° W of Calayan (Cagayan)"
+  },
+  {
+    "date": "2025-07-20",
+    "magnitude": 5.5,
+    "latitude": 19.73,
+    "longitude": 121.4,
+    "depth": 33,
+    "location": "052 km N 09° W of Calayan (Cagayan)"
+  },
+  {
+    "date": "2025-07-21",
+    "magnitude": 4.8,
+    "latitude": 9.16,
+    "longitude": 126.33,
+    "depth": 25,
+    "location": "018 km N 35° E of Tago (Surigao Del Sur)"
+  },
+  {
+    "date": "2025-07-22",
+    "magnitude": 4.0,
+    "latitude": 2.43,
+    "longitude": 127.39,
+    "depth": 8,
+    "location": "396 km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-07-23",
+    "magnitude": 4.6,
+    "latitude": 7.52,
+    "longitude": 127.57,
+    "depth": 18,
+    "location": "111 km S 87° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2025-07-24",
+    "magnitude": 3.2,
+    "latitude": 8.21,
+    "longitude": 127.62,
+    "depth": 30,
+    "location": "137 km N 59° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2025-07-25",
+    "magnitude": 4.3,
+    "latitude": 8.99,
+    "longitude": 126.49,
+    "depth": 24,
+    "location": "022 km N 70° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2025-07-26",
+    "magnitude": 5.9,
+    "latitude": 1.88,
+    "longitude": 126.51,
+    "depth": 126,
+    "location": "409 km S 17° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-07-27",
+    "magnitude": 3.9,
+    "latitude": 2.52,
+    "longitude": 127.7,
+    "depth": 51,
+    "location": "408 km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2025-07-28",
+    "magnitude": 4.7,
+    "latitude": 12.48,
+    "longitude": 123.65,
+    "depth": 10,
+    "location": "013 km N 12° E of City Of Masbate (Masbate)"
+  },
+  {
+    "date": "2025-07-29",
+    "magnitude": 4.3,
+    "latitude": 13.8,
+    "longitude": 120.83,
+    "depth": 4,
+    "location": "011 km S 56° W of San Luis (Batangas)"
+  },
+  {
+    "date": "2025-07-30",
+    "magnitude": 4.0,
+    "latitude": 15.73,
+    "longitude": 121.85,
+    "depth": 16,
+    "location": "031 km S 84° E of Baler (Aurora)"
+  },
+  {
+    "date": "2025-07-31",
+    "magnitude": 4.1,
+    "latitude": 11.31,
+    "longitude": 126.07,
+    "depth": 2,
+    "location": "044 km N 59° E of Mercedes (Eastern Samar)"
+  }
+]

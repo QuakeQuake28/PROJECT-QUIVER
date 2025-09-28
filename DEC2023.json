@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2023-12-01",
+    "magnitude": 3.6,
+    "latitude": 6.03,
+    "longitude": 126.19,
+    "depth": 113,
+    "location": "062 km N 78° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2023-12-02",
+    "magnitude": 7.4,
+    "latitude": 8.44,
+    "longitude": 126.59,
+    "depth": 26,
+    "location": "029 km N 74° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-03",
+    "magnitude": 6.6,
+    "latitude": 8.49,
+    "longitude": 126.95,
+    "depth": 1,
+    "location": "069 km N 79° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-04",
+    "magnitude": 6.8,
+    "latitude": 8.96,
+    "longitude": 126.91,
+    "depth": 1,
+    "location": "067 km N 87° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-05",
+    "magnitude": 5.9,
+    "latitude": 13.87,
+    "longitude": 120.29,
+    "depth": 60,
+    "location": "018 km N 86° E of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2023-12-06",
+    "magnitude": 5.0,
+    "latitude": 19.2,
+    "longitude": 121.03,
+    "depth": 9,
+    "location": "021 km N 60° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2023-12-07",
+    "magnitude": 4.9,
+    "latitude": 8.73,
+    "longitude": 126.91,
+    "depth": 10,
+    "location": "075 km N 57° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-08",
+    "magnitude": 5.2,
+    "latitude": 8.81,
+    "longitude": 127.09,
+    "depth": 1,
+    "location": "087 km S 82° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-09",
+    "magnitude": 4.8,
+    "latitude": 8.84,
+    "longitude": 127.28,
+    "depth": 33,
+    "location": "108 km S 85° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-10",
+    "magnitude": 4.7,
+    "latitude": 10.1,
+    "longitude": 125.96,
+    "depth": 55,
+    "location": "012 km N 42° W of Santa Monica (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-12-11",
+    "magnitude": 5.2,
+    "latitude": 8.8,
+    "longitude": 127.48,
+    "depth": 26,
+    "location": "130 km S 84° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-12",
+    "magnitude": 5.1,
+    "latitude": 8.58,
+    "longitude": 126.72,
+    "depth": 14,
+    "location": "048 km N 61° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-13",
+    "magnitude": 4.5,
+    "latitude": 9.78,
+    "longitude": 126.82,
+    "depth": 18,
+    "location": "073 km N 90° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-12-14",
+    "magnitude": 4.8,
+    "latitude": 8.69,
+    "longitude": 127.47,
+    "depth": 24,
+    "location": "130 km N 74° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-15",
+    "magnitude": 4.7,
+    "latitude": 8.87,
+    "longitude": 127.35,
+    "depth": 34,
+    "location": "115 km S 87° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-16",
+    "magnitude": 5.0,
+    "latitude": 8.92,
+    "longitude": 127.43,
+    "depth": 17,
+    "location": "124 km S 90° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-17",
+    "magnitude": 4.8,
+    "latitude": 8.12,
+    "longitude": 127.23,
+    "depth": 11,
+    "location": "091 km N 84° E of Lingig (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-18",
+    "magnitude": 4.5,
+    "latitude": 9.36,
+    "longitude": 126.88,
+    "depth": 6,
+    "location": "076 km N 83° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-19",
+    "magnitude": 4.9,
+    "latitude": 9.15,
+    "longitude": 125.88,
+    "depth": 2,
+    "location": "016 km S 38° W of Madrid (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-20",
+    "magnitude": 4.3,
+    "latitude": 8.65,
+    "longitude": 127.5,
+    "depth": 19,
+    "location": "131 km N 76° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-21",
+    "magnitude": 4.3,
+    "latitude": 8.46,
+    "longitude": 127.02,
+    "depth": 8,
+    "location": "077 km N 82° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-22",
+    "magnitude": 4.5,
+    "latitude": 8.63,
+    "longitude": 127.57,
+    "depth": 15,
+    "location": "139 km N 78° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-23",
+    "magnitude": 5.2,
+    "latitude": 8.13,
+    "longitude": 127.01,
+    "depth": 12,
+    "location": "067 km N 81° E of Lingig (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-24",
+    "magnitude": 5.3,
+    "latitude": 8.95,
+    "longitude": 127.03,
+    "depth": 2,
+    "location": "080 km N 87° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-25",
+    "magnitude": 4.0,
+    "latitude": 9.0,
+    "longitude": 127.03,
+    "depth": 19,
+    "location": "084 km N 88° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-26",
+    "magnitude": 4.4,
+    "latitude": 8.6,
+    "longitude": 127.12,
+    "depth": 6,
+    "location": "090 km N 73° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-27",
+    "magnitude": 3.8,
+    "latitude": 8.84,
+    "longitude": 126.52,
+    "depth": 30,
+    "location": "025 km N 80° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2023-12-28",
+    "magnitude": 4.9,
+    "latitude": 5.88,
+    "longitude": 125.74,
+    "depth": 33,
+    "location": "012 km S 71° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2023-12-29",
+    "magnitude": 4.4,
+    "latitude": 6.67,
+    "longitude": 126.96,
+    "depth": 18,
+    "location": "070 km S 53° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2023-12-30",
+    "magnitude": 4.2,
+    "latitude": 11.68,
+    "longitude": 124.27,
+    "depth": 10,
+    "location": "010 km N 89° W of Kawayan (Biliran)"
+  },
+  {
+    "date": "2023-12-31",
+    "magnitude": 4.9,
+    "latitude": 3.72,
+    "longitude": 128.23,
+    "depth": 118,
+    "location": "364 km S 59° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2022-09-01",
+    "magnitude": 4.4,
+    "latitude": 11.06,
+    "longitude": 126.49,
+    "depth": 25,
+    "location": "084 km N 88° E of Guiuan (Eastern Samar)"
+  },
+  {
+    "date": "2022-09-02",
+    "magnitude": 3.8,
+    "latitude": 17.47,
+    "longitude": 120.74,
+    "depth": 7,
+    "location": "006 km N 45° E of Manabo (Abra)"
+  },
+  {
+    "date": "2022-09-03",
+    "magnitude": 3.7,
+    "latitude": 13.19,
+    "longitude": 120.26,
+    "depth": 4,
+    "location": "036 km S 84° W of Mamburao (Occidental Mindoro)"
+  },
+  {
+    "date": "2022-09-04",
+    "magnitude": 4.3,
+    "latitude": 19.17,
+    "longitude": 120.97,
+    "depth": 4,
+    "location": "026 km N 75° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2022-09-05",
+    "magnitude": 3.6,
+    "latitude": 4.92,
+    "longitude": 125.83,
+    "depth": 112,
+    "location": "071 km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-09-06",
+    "magnitude": 4.5,
+    "latitude": 10.2,
+    "longitude": 125.81,
+    "depth": 13,
+    "location": "027 km N 57° E of Basilisa (Dinagat Islands)"
+  },
+  {
+    "date": "2022-09-07",
+    "magnitude": 3.5,
+    "latitude": 17.56,
+    "longitude": 120.65,
+    "depth": 10,
+    "location": "001 km S 52° W of Peñarrubia (Abra)"
+  },
+  {
+    "date": "2022-09-08",
+    "magnitude": 4.6,
+    "latitude": 13.59,
+    "longitude": 124.82,
+    "depth": 6,
+    "location": "049 km S 81° E of Baras (Catanduanes)"
+  },
+  {
+    "date": "2022-09-09",
+    "magnitude": 4.4,
+    "latitude": 5.56,
+    "longitude": 124.41,
+    "depth": 1,
+    "location": "053 km S 26° W of Kiamba (Sarangani)"
+  },
+  {
+    "date": "2022-09-10",
+    "magnitude": 5.3,
+    "latitude": 3.85,
+    "longitude": 126.72,
+    "depth": 126,
+    "location": "225 km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-09-11",
+    "magnitude": 4.3,
+    "latitude": 10.31,
+    "longitude": 126.13,
+    "depth": 12,
+    "location": "034 km N 17° E of Santa Monica (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-09-12",
+    "magnitude": 5.7,
+    "latitude": 6.29,
+    "longitude": 127.81,
+    "depth": 31,
+    "location": "172 km S 61° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2022-09-13",
+    "magnitude": 4.4,
+    "latitude": 17.43,
+    "longitude": 120.6,
+    "depth": 11,
+    "location": "003 km S 05° W of San Isidro (Abra)"
+  },
+  {
+    "date": "2022-09-14",
+    "magnitude": 4.6,
+    "latitude": 3.75,
+    "longitude": 126.81,
+    "depth": 2,
+    "location": "239 km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-09-15",
+    "magnitude": 4.0,
+    "latitude": 18.11,
+    "longitude": 120.05,
+    "depth": 15,
+    "location": "047 km N 78° W of Currimao (Ilocos Norte)"
+  },
+  {
+    "date": "2022-09-16",
+    "magnitude": 4.5,
+    "latitude": 3.24,
+    "longitude": 125.79,
+    "depth": 110,
+    "location": "244 km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-09-17",
+    "magnitude": 3.5,
+    "latitude": 10.21,
+    "longitude": 125.91,
+    "depth": 24,
+    "location": "025 km N 33° W of Santa Monica (Surigao Del Norte)"
+  },
+  {
+    "date": "2022-09-18",
+    "magnitude": 4.3,
+    "latitude": 6.42,
+    "longitude": 123.95,
+    "depth": 5,
+    "location": "018 km S 33° W of Kalamansig (Sultan Kudarat)"
+  },
+  {
+    "date": "2022-09-19",
+    "magnitude": 4.1,
+    "latitude": 8.38,
+    "longitude": 126.87,
+    "depth": 4,
+    "location": "058 km N 89° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-09-20",
+    "magnitude": 4.3,
+    "latitude": 2.45,
+    "longitude": 126.26,
+    "depth": 1,
+    "location": "341 km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-09-21",
+    "magnitude": 4.4,
+    "latitude": 14.59,
+    "longitude": 121.64,
+    "depth": 3,
+    "location": "009 km S 27° E of Real (Quezon)"
+  },
+  {
+    "date": "2022-09-22",
+    "magnitude": 4.3,
+    "latitude": 19.96,
+    "longitude": 121.15,
+    "depth": 27,
+    "location": "080 km N 22° W of Calayan (Cagayan)"
+  },
+  {
+    "date": "2022-09-23",
+    "magnitude": 3.4,
+    "latitude": 12.21,
+    "longitude": 123.88,
+    "depth": 7,
+    "location": "003 km N 43° E of Dimasalang (Masbate)"
+  },
+  {
+    "date": "2022-09-24",
+    "magnitude": 3.6,
+    "latitude": 9.06,
+    "longitude": 126.35,
+    "depth": 43,
+    "location": "012 km N 38° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-09-25",
+    "magnitude": 5.1,
+    "latitude": 4.56,
+    "longitude": 126.02,
+    "depth": 137,
+    "location": "115 km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2022-09-26",
+    "magnitude": 3.7,
+    "latitude": 13.7,
+    "longitude": 122.39,
+    "depth": 8,
+    "location": "009 km S 65° W of Buenavista (Quezon)"
+  },
+  {
+    "date": "2022-09-27",
+    "magnitude": 4.1,
+    "latitude": 9.31,
+    "longitude": 126.77,
+    "depth": 17,
+    "location": "063 km N 87° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-09-28",
+    "magnitude": 5.3,
+    "latitude": 9.34,
+    "longitude": 126.83,
+    "depth": 5,
+    "location": "071 km N 85° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-09-29",
+    "magnitude": 3.9,
+    "latitude": 9.31,
+    "longitude": 126.86,
+    "depth": 4,
+    "location": "074 km N 87° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "date": "2022-09-30",
+    "magnitude": 4.6,
+    "latitude": 9.32,
+    "longitude": 126.7,
+    "depth": 11,
+    "location": "056 km N 85° E of Cortes (Surigao Del Sur)"
+  }
+]

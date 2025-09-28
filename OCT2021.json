@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2021-10-01",
+    "magnitude": 4.8,
+    "latitude": 18.71,
+    "longitude": 121.06,
+    "depth": 56,
+    "location": "011 km N 12° W of Claveria (Cagayan)"
+  },
+  {
+    "date": "2021-10-02",
+    "magnitude": 4.3,
+    "latitude": 12.87,
+    "longitude": 120.85,
+    "depth": 7,
+    "location": "008 km N 70° E of Sablayan (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-10-03",
+    "magnitude": 5.3,
+    "latitude": 12.84,
+    "longitude": 120.86,
+    "depth": 3,
+    "location": "008 km S 88° E of Sablayan (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-10-04",
+    "magnitude": 4.4,
+    "latitude": 13.33,
+    "longitude": 121.54,
+    "depth": 18,
+    "location": "026 km N 89° E of Naujan (Oriental Mindoro)"
+  },
+  {
+    "date": "2021-10-05",
+    "magnitude": 4.8,
+    "latitude": 2.64,
+    "longitude": 122.41,
+    "depth": 559,
+    "location": "354 km S 37° E of South Ubian (Tawi-tawi)"
+  },
+  {
+    "date": "2021-10-06",
+    "magnitude": 3.6,
+    "latitude": 5.33,
+    "longitude": 125.94,
+    "depth": 71,
+    "location": "058 km S 81° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-10-07",
+    "magnitude": 4.2,
+    "latitude": 3.18,
+    "longitude": 128.24,
+    "depth": 224,
+    "location": "398 km S 52° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-10-08",
+    "magnitude": 5.2,
+    "latitude": 13.94,
+    "longitude": 120.49,
+    "depth": 131,
+    "location": "019 km N 53° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2021-10-09",
+    "magnitude": 3.4,
+    "latitude": 8.43,
+    "longitude": 126.77,
+    "depth": 1,
+    "location": "048 km N 82° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-10-10",
+    "magnitude": 3.6,
+    "latitude": 19.4,
+    "longitude": 121.59,
+    "depth": 8,
+    "location": "020 km N 37° E of Calayan (Cagayan)"
+  },
+  {
+    "date": "2021-10-11",
+    "magnitude": 3.5,
+    "latitude": 17.76,
+    "longitude": 119.54,
+    "depth": 26,
+    "location": "090 km N 78° W of Santa Catalina (Ilocos Sur)"
+  },
+  {
+    "date": "2021-10-12",
+    "magnitude": 4.4,
+    "latitude": 5.9,
+    "longitude": 127.0,
+    "depth": 60,
+    "location": "132 km S 51° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2021-10-13",
+    "magnitude": 4.3,
+    "latitude": 2.41,
+    "longitude": 126.44,
+    "depth": 32,
+    "location": "351 km S 19° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-10-14",
+    "magnitude": 4.5,
+    "latitude": 11.13,
+    "longitude": 121.79,
+    "depth": 10,
+    "location": "028 km S 75° W of Barbaza (Antique)"
+  },
+  {
+    "date": "2021-10-15",
+    "magnitude": 4.5,
+    "latitude": 6.99,
+    "longitude": 127.59,
+    "depth": 25,
+    "location": "119 km S 71° E of Caraga (Davao Oriental)"
+  },
+  {
+    "date": "2021-10-16",
+    "magnitude": 4.6,
+    "latitude": 8.76,
+    "longitude": 126.43,
+    "depth": 46,
+    "location": "015 km S 71° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-10-17",
+    "magnitude": 4.2,
+    "latitude": 13.66,
+    "longitude": 123.17,
+    "depth": 6,
+    "location": "002 km N 10° W of Canaman (Camarines Sur)"
+  },
+  {
+    "date": "2021-10-18",
+    "magnitude": 4.4,
+    "latitude": 2.53,
+    "longitude": 127.75,
+    "depth": 170,
+    "location": "410 km S 39° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-10-19",
+    "magnitude": 4.0,
+    "latitude": 13.63,
+    "longitude": 119.88,
+    "depth": 9,
+    "location": "036 km S 46° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2021-10-20",
+    "magnitude": 4.0,
+    "latitude": 10.92,
+    "longitude": 124.77,
+    "depth": 2,
+    "location": "008 km N 85° E of Albuera (Leyte)"
+  },
+  {
+    "date": "2021-10-21",
+    "magnitude": 3.9,
+    "latitude": 18.73,
+    "longitude": 120.83,
+    "depth": 22,
+    "location": "019 km N 12° E of Pagudpud (Ilocos Norte)"
+  },
+  {
+    "date": "2021-10-22",
+    "magnitude": 4.4,
+    "latitude": 14.69,
+    "longitude": 123.52,
+    "depth": 1,
+    "location": "066 km N 69° E of Tinaga Island (Vinzons) (Camarines Norte)"
+  },
+  {
+    "date": "2021-10-23",
+    "magnitude": 4.2,
+    "latitude": 13.67,
+    "longitude": 123.18,
+    "depth": 5,
+    "location": "002 km N 15° E of Canaman (Camarines Sur)"
+  },
+  {
+    "date": "2021-10-24",
+    "magnitude": 4.9,
+    "latitude": 8.49,
+    "longitude": 127.25,
+    "depth": 16,
+    "location": "102 km N 82° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-10-25",
+    "magnitude": 4.4,
+    "latitude": 2.71,
+    "longitude": 127.52,
+    "depth": 111,
+    "location": "379 km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-10-26",
+    "magnitude": 4.6,
+    "latitude": 7.31,
+    "longitude": 126.89,
+    "depth": 49,
+    "location": "036 km S 87° E of Caraga (Davao Oriental)"
+  },
+  {
+    "date": "2021-10-27",
+    "magnitude": 4.4,
+    "latitude": 5.93,
+    "longitude": 126.12,
+    "depth": 118,
+    "location": "056 km S 58° E of Don Marcelino (Davao Occidental)"
+  },
+  {
+    "date": "2021-10-28",
+    "magnitude": 5.0,
+    "latitude": 13.0,
+    "longitude": 124.63,
+    "depth": 11,
+    "location": "055 km N 01° W of Catarman (Northern Samar)"
+  },
+  {
+    "date": "2021-10-29",
+    "magnitude": 4.7,
+    "latitude": 5.28,
+    "longitude": 125.63,
+    "depth": 175,
+    "location": "027 km S 57° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2021-10-30",
+    "magnitude": 3.9,
+    "latitude": 9.01,
+    "longitude": 126.17,
+    "depth": 51,
+    "location": "007 km S 04° W of City Of Tandag (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-10-31",
+    "magnitude": 4.3,
+    "latitude": 20.48,
+    "longitude": 121.2,
+    "depth": 31,
+    "location": "075 km S 63° W of Itbayat (Batanes)"
+  }
+]

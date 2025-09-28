@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2023-06-01",
+    "magnitude": 3.8,
+    "latitude": 13.36,
+    "longitude": 120.38,
+    "depth": 30,
+    "location": "011 km S 58° W of Paluan (Occidental Mindoro)"
+  },
+  {
+    "date": "2023-06-02",
+    "magnitude": 4.2,
+    "latitude": 6.19,
+    "longitude": 120.85,
+    "depth": 9,
+    "location": "016 km N 55° W of Hadji Panglima Tahil (Sulu)"
+  },
+  {
+    "date": "2023-06-03",
+    "magnitude": 4.6,
+    "latitude": 12.38,
+    "longitude": 123.69,
+    "depth": 17,
+    "location": "008 km N 85° E of City Of Masbate (Masbate)"
+  },
+  {
+    "date": "2023-06-04",
+    "magnitude": 4.3,
+    "latitude": 14.59,
+    "longitude": 123.11,
+    "depth": 1,
+    "location": "021 km N 55° E of Tinaga Island (Vinzons) (Camarines Norte)"
+  },
+  {
+    "date": "2023-06-05",
+    "magnitude": 4.3,
+    "latitude": 5.76,
+    "longitude": 127.29,
+    "depth": 73,
+    "location": "167 km S 54° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2023-06-06",
+    "magnitude": 4.2,
+    "latitude": 9.73,
+    "longitude": 122.12,
+    "depth": 29,
+    "location": "035 km S 83° W of City Of Sipalay (Negros Occidental)"
+  },
+  {
+    "date": "2023-06-07",
+    "magnitude": 4.4,
+    "latitude": 13.82,
+    "longitude": 122.8,
+    "depth": 4,
+    "location": "001 km East of Ragay (Camarines Sur)"
+  },
+  {
+    "date": "2023-06-08",
+    "magnitude": 4.4,
+    "latitude": 3.79,
+    "longitude": 126.29,
+    "depth": 39,
+    "location": "203 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-06-09",
+    "magnitude": 4.6,
+    "latitude": 7.67,
+    "longitude": 126.02,
+    "depth": 33,
+    "location": "007 km West of Compostela (Davao De Oro)"
+  },
+  {
+    "date": "2023-06-10",
+    "magnitude": 4.5,
+    "latitude": 11.98,
+    "longitude": 126.34,
+    "depth": 21,
+    "location": "093 km S 86° E of Dolores (Eastern Samar)"
+  },
+  {
+    "date": "2023-06-11",
+    "magnitude": 4.1,
+    "latitude": 10.68,
+    "longitude": 126.46,
+    "depth": 1,
+    "location": "081 km S 85° E of Homonhon Island (Guiuan) (Eastern Samar)"
+  },
+  {
+    "date": "2023-06-12",
+    "magnitude": 4.1,
+    "latitude": 3.08,
+    "longitude": 126.54,
+    "depth": 31,
+    "location": "286 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-06-13",
+    "magnitude": 4.8,
+    "latitude": 13.88,
+    "longitude": 119.69,
+    "depth": 21,
+    "location": "047 km N 87° W of Lubang (Occidental Mindoro)"
+  },
+  {
+    "date": "2023-06-14",
+    "magnitude": 4.2,
+    "latitude": 6.05,
+    "longitude": 125.75,
+    "depth": 30,
+    "location": "017 km S 21° E of Don Marcelino (Davao Occidental)"
+  },
+  {
+    "date": "2023-06-15",
+    "magnitude": 6.3,
+    "latitude": 13.78,
+    "longitude": 120.52,
+    "depth": 107,
+    "location": "013 km S 66° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2023-06-16",
+    "magnitude": 4.4,
+    "latitude": 2.69,
+    "longitude": 122.57,
+    "depth": 526,
+    "location": "361 km S 40° E of South Ubian (Tawi-tawi)"
+  },
+  {
+    "date": "2023-06-17",
+    "magnitude": 5.5,
+    "latitude": 19.31,
+    "longitude": 121.14,
+    "depth": 3,
+    "location": "024 km N 18° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2023-06-18",
+    "magnitude": 4.4,
+    "latitude": 12.52,
+    "longitude": 120.95,
+    "depth": 13,
+    "location": "006 km N 14° W of Rizal (Occidental Mindoro)"
+  },
+  {
+    "date": "2023-06-19",
+    "magnitude": 5.0,
+    "latitude": 10.31,
+    "longitude": 126.48,
+    "depth": 28,
+    "location": "055 km N 54° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-06-20",
+    "magnitude": 4.9,
+    "latitude": 2.38,
+    "longitude": 128.26,
+    "depth": 184,
+    "location": "460 km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-06-21",
+    "magnitude": 3.7,
+    "latitude": 5.15,
+    "longitude": 127.23,
+    "depth": 27,
+    "location": "195 km S 64° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2023-06-22",
+    "magnitude": 3.7,
+    "latitude": 19.02,
+    "longitude": 121.05,
+    "depth": 7,
+    "location": "019 km S 61° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2023-06-23",
+    "magnitude": 3.8,
+    "latitude": 6.44,
+    "longitude": 126.28,
+    "depth": 25,
+    "location": "033 km S 44° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2023-06-24",
+    "magnitude": 4.3,
+    "latitude": 13.7,
+    "longitude": 120.44,
+    "depth": 95,
+    "location": "026 km S 55° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2023-06-25",
+    "magnitude": 4.4,
+    "latitude": 10.78,
+    "longitude": 125.97,
+    "depth": 60,
+    "location": "027 km N 82° E of Homonhon Island (Guiuan) (Eastern Samar)"
+  },
+  {
+    "date": "2023-06-26",
+    "magnitude": 4.0,
+    "latitude": 5.39,
+    "longitude": 127.13,
+    "depth": 10,
+    "location": "174 km S 70° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2023-06-27",
+    "magnitude": 4.5,
+    "latitude": 10.17,
+    "longitude": 121.97,
+    "depth": 10,
+    "location": "029 km S 10° E of Anini-y (Antique)"
+  },
+  {
+    "date": "2023-06-28",
+    "magnitude": 4.1,
+    "latitude": 2.08,
+    "longitude": 126.89,
+    "depth": 99,
+    "location": "403 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2023-06-29",
+    "magnitude": 5.1,
+    "latitude": 10.34,
+    "longitude": 127.15,
+    "depth": 26,
+    "location": "123 km N 74° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2023-06-30",
+    "magnitude": 4.8,
+    "latitude": 3.12,
+    "longitude": 127.83,
+    "depth": 159,
+    "location": "368 km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  }
+]

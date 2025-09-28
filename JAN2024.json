@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2024-01-01",
+    "magnitude": 4.4,
+    "latitude": 9.68,
+    "longitude": 125.46,
+    "depth": 10,
+    "location": "009 km N 43° E of Malimono (Surigao Del Norte)"
+  },
+  {
+    "date": "2024-01-02",
+    "magnitude": 4.4,
+    "latitude": 8.74,
+    "longitude": 127.31,
+    "depth": 2,
+    "location": "120 km N 69° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-03",
+    "magnitude": 5.1,
+    "latitude": 8.29,
+    "longitude": 126.56,
+    "depth": 32,
+    "location": "026 km S 70° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-04",
+    "magnitude": 4.4,
+    "latitude": 8.5,
+    "longitude": 126.78,
+    "depth": 1,
+    "location": "051 km N 73° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-05",
+    "magnitude": 3.8,
+    "latitude": 11.05,
+    "longitude": 125.56,
+    "depth": 45,
+    "location": "014 km S 56° E of Giporlos (Eastern Samar)"
+  },
+  {
+    "date": "2024-01-06",
+    "magnitude": 3.8,
+    "latitude": 8.66,
+    "longitude": 126.52,
+    "depth": 34,
+    "location": "029 km S 57° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-07",
+    "magnitude": 4.4,
+    "latitude": 4.58,
+    "longitude": 128.17,
+    "depth": 25,
+    "location": "315 km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-01-08",
+    "magnitude": 4.0,
+    "latitude": 12.31,
+    "longitude": 123.8,
+    "depth": 6,
+    "location": "013 km S 10° E of Batuan (Masbate)"
+  },
+  {
+    "date": "2024-01-09",
+    "magnitude": 6.7,
+    "latitude": 4.45,
+    "longitude": 126.42,
+    "depth": 72,
+    "location": "154 km S 46 E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-01-10",
+    "magnitude": 3.8,
+    "latitude": 10.49,
+    "longitude": 125.95,
+    "depth": 14,
+    "location": "038 km S 41° E of Homonhon Island (Guiuan) (Eastern Samar)"
+  },
+  {
+    "date": "2024-01-11",
+    "magnitude": 4.0,
+    "latitude": 8.68,
+    "longitude": 126.94,
+    "depth": 8,
+    "location": "075 km N 63° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-12",
+    "magnitude": 4.8,
+    "latitude": 4.88,
+    "longitude": 126.36,
+    "depth": 22,
+    "location": "118 km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-01-13",
+    "magnitude": 4.5,
+    "latitude": 8.54,
+    "longitude": 126.97,
+    "depth": 1,
+    "location": "073 km N 75° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-14",
+    "magnitude": 3.8,
+    "latitude": 4.47,
+    "longitude": 126.36,
+    "depth": 59,
+    "location": "147 km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-01-15",
+    "magnitude": 5.0,
+    "latitude": 8.38,
+    "longitude": 126.61,
+    "depth": 27,
+    "location": "030 km N 86° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-16",
+    "magnitude": 4.4,
+    "latitude": 17.27,
+    "longitude": 119.84,
+    "depth": 15,
+    "location": "065 km N 80° W of City Of Candon (Ilocos Sur)"
+  },
+  {
+    "date": "2024-01-17",
+    "magnitude": 5.7,
+    "latitude": 8.4,
+    "longitude": 126.61,
+    "depth": 26,
+    "location": "030 km N 83° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-18",
+    "magnitude": 4.2,
+    "latitude": 8.78,
+    "longitude": 127.33,
+    "depth": 15,
+    "location": "113 km S 89° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-19",
+    "magnitude": 3.9,
+    "latitude": 8.84,
+    "longitude": 126.54,
+    "depth": 22,
+    "location": "026 km N 81° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-20",
+    "magnitude": 4.9,
+    "latitude": 13.74,
+    "longitude": 120.81,
+    "depth": 4,
+    "location": "011 km N 36° W of Tingloy (Batangas)"
+  },
+  {
+    "date": "2024-01-21",
+    "magnitude": 4.3,
+    "latitude": 9.13,
+    "longitude": 126.89,
+    "depth": 4,
+    "location": "069 km N 71° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-22",
+    "magnitude": 4.4,
+    "latitude": 13.76,
+    "longitude": 120.52,
+    "depth": 176,
+    "location": "015 km S 56° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2024-01-23",
+    "magnitude": 4.1,
+    "latitude": 6.13,
+    "longitude": 126.03,
+    "depth": 147,
+    "location": "038 km S 78° E of Don Marcelino (Davao Occidental)"
+  },
+  {
+    "date": "2024-01-24",
+    "magnitude": 3.9,
+    "latitude": 12.72,
+    "longitude": 125.48,
+    "depth": 15,
+    "location": "036 km N 43° E of Mapanas (Northern Samar)"
+  },
+  {
+    "date": "2024-01-25",
+    "magnitude": 4.3,
+    "latitude": 3.64,
+    "longitude": 123.51,
+    "depth": 511,
+    "location": "288 km S 47° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-01-26",
+    "magnitude": 4.9,
+    "latitude": 18.36,
+    "longitude": 120.85,
+    "depth": 13,
+    "location": "013 km S 27° W of Adams (Ilocos Norte)"
+  },
+  {
+    "date": "2024-01-27",
+    "magnitude": 4.0,
+    "latitude": 8.6,
+    "longitude": 127.12,
+    "depth": 1,
+    "location": "090 km N 74° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-28",
+    "magnitude": 4.2,
+    "latitude": 4.6,
+    "longitude": 125.89,
+    "depth": 166,
+    "location": "103 km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "date": "2024-01-29",
+    "magnitude": 5.1,
+    "latitude": 8.62,
+    "longitude": 127.58,
+    "depth": 13,
+    "location": "140 km N 78° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-30",
+    "magnitude": 4.3,
+    "latitude": 8.87,
+    "longitude": 127.05,
+    "depth": 1,
+    "location": "082 km S 86° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "date": "2024-01-31",
+    "magnitude": 3.9,
+    "latitude": 15.02,
+    "longitude": 119.69,
+    "depth": 11,
+    "location": "041 km S 84° W of San Felipe (Zambales)"
+  }
+]

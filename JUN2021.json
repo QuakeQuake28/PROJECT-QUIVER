@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2021-06-01",
+    "magnitude": 4.3,
+    "latitude": 5.09,
+    "longitude": 127.53,
+    "depth": 101,
+    "location": "228 km S 66° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-06-02",
+    "magnitude": 4.3,
+    "latitude": 8.77,
+    "longitude": 126.46,
+    "depth": 22,
+    "location": "018 km S 80° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-06-03",
+    "magnitude": 4.9,
+    "latitude": 2.3,
+    "longitude": 127.79,
+    "depth": 52,
+    "location": "433 km S 37° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-06-04",
+    "magnitude": 4.2,
+    "latitude": 7.53,
+    "longitude": 124.36,
+    "depth": 6,
+    "location": "013 km N 59° E of Matanog (Maguindanao)"
+  },
+  {
+    "date": "2021-06-05",
+    "magnitude": 3.4,
+    "latitude": 14.04,
+    "longitude": 122.23,
+    "depth": 2,
+    "location": "006 km N 57° E of Quezon (Quezon)"
+  },
+  {
+    "date": "2021-06-06",
+    "magnitude": 5.1,
+    "latitude": 10.16,
+    "longitude": 126.3,
+    "depth": 8,
+    "location": "029 km N 61° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-06-07",
+    "magnitude": 4.5,
+    "latitude": 11.04,
+    "longitude": 122.08,
+    "depth": 3,
+    "location": "002 km S 82° E of Bugasong (Antique)"
+  },
+  {
+    "date": "2021-06-08",
+    "magnitude": 5.3,
+    "latitude": 10.22,
+    "longitude": 126.28,
+    "depth": 5,
+    "location": "031 km N 46° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-06-09",
+    "magnitude": 4.0,
+    "latitude": 9.05,
+    "longitude": 126.24,
+    "depth": 46,
+    "location": "008 km S 72° E of City Of Tandag (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-06-10",
+    "magnitude": 5.1,
+    "latitude": 5.77,
+    "longitude": 126.17,
+    "depth": 48,
+    "location": "060 km S 74° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-06-11",
+    "magnitude": 4.2,
+    "latitude": 10.19,
+    "longitude": 126.39,
+    "depth": 9,
+    "location": "039 km N 61° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-06-12",
+    "magnitude": 4.7,
+    "latitude": 5.98,
+    "longitude": 126.25,
+    "depth": 90,
+    "location": "068 km N 83° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-06-13",
+    "magnitude": 4.5,
+    "latitude": 10.23,
+    "longitude": 126.37,
+    "depth": 7,
+    "location": "041 km N 54° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-06-14",
+    "magnitude": 5.7,
+    "latitude": 7.66,
+    "longitude": 124.85,
+    "depth": 12,
+    "location": "010 km N 44° W of Kadingilan (Bukidnon)"
+  },
+  {
+    "date": "2021-06-15",
+    "magnitude": 4.4,
+    "latitude": 5.06,
+    "longitude": 125.81,
+    "depth": 131,
+    "location": "058 km S 47° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-06-16",
+    "magnitude": 4.6,
+    "latitude": 12.52,
+    "longitude": 124.73,
+    "depth": 27,
+    "location": "002 km S 83° W of Mondragon (Northern Samar)"
+  },
+  {
+    "date": "2021-06-17",
+    "magnitude": 4.5,
+    "latitude": 10.19,
+    "longitude": 126.38,
+    "depth": 5,
+    "location": "038 km N 60° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-06-18",
+    "magnitude": 4.2,
+    "latitude": 7.66,
+    "longitude": 124.8,
+    "depth": 5,
+    "location": "014 km N 62° W of Kadingilan (Bukidnon)"
+  },
+  {
+    "date": "2021-06-19",
+    "magnitude": 4.6,
+    "latitude": 7.68,
+    "longitude": 124.88,
+    "depth": 8,
+    "location": "010 km N 21° W of Kadingilan (Bukidnon)"
+  },
+  {
+    "date": "2021-06-20",
+    "magnitude": 4.6,
+    "latitude": 5.01,
+    "longitude": 126.25,
+    "depth": 35,
+    "location": "102 km S 64° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-06-21",
+    "magnitude": 4.1,
+    "latitude": 5.34,
+    "longitude": 124.23,
+    "depth": 507,
+    "location": "084 km S 31° W of Kiamba (Sarangani)"
+  },
+  {
+    "date": "2021-06-22",
+    "magnitude": 4.0,
+    "latitude": 9.05,
+    "longitude": 121.92,
+    "depth": 37,
+    "location": "086 km S 44° W of Hinoba-an (Negros Occidental)"
+  },
+  {
+    "date": "2021-06-23",
+    "magnitude": 3.8,
+    "latitude": 10.08,
+    "longitude": 126.27,
+    "depth": 7,
+    "location": "023 km N 72° E of Burgos (Surigao Del Norte)"
+  },
+  {
+    "date": "2021-06-24",
+    "magnitude": 3.2,
+    "latitude": 8.04,
+    "longitude": 126.85,
+    "depth": 12,
+    "location": "048 km N 89° E of Lingig (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-06-25",
+    "magnitude": 3.8,
+    "latitude": 5.88,
+    "longitude": 125.64,
+    "depth": 84,
+    "location": "003 km S 08° W of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2021-06-26",
+    "magnitude": 4.5,
+    "latitude": 8.41,
+    "longitude": 126.81,
+    "depth": 10,
+    "location": "055 km N 84° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-06-27",
+    "magnitude": 5.1,
+    "latitude": 8.89,
+    "longitude": 126.37,
+    "depth": 33,
+    "location": "013 km S 50° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2021-06-28",
+    "magnitude": 3.9,
+    "latitude": 3.55,
+    "longitude": 125.84,
+    "depth": 47,
+    "location": "211 km S 13° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-06-29",
+    "magnitude": 5.0,
+    "latitude": 3.99,
+    "longitude": 125.86,
+    "depth": 146,
+    "location": "165 km S 17° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2021-06-30",
+    "magnitude": 4.7,
+    "latitude": 4.02,
+    "longitude": 125.75,
+    "depth": 189,
+    "location": "159 km S 13° E of Sarangani (Davao Occidental)"
+  }
+]
