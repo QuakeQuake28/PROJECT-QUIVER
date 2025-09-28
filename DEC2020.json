@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2020-12-01",
+    "magnitude": 4.8,
+    "latitude": 2.99,
+    "longitude": 128.64,
+    "depth": 239,
+    "location": "447 km S 53° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-12-02",
+    "magnitude": 3.3,
+    "latitude": 6.27,
+    "longitude": 126.7,
+    "depth": 2,
+    "location": "082 km S 59° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2020-12-03",
+    "magnitude": 3.0,
+    "latitude": 5.87,
+    "longitude": 127.15,
+    "depth": 80,
+    "location": "147 km S 54° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2020-12-04",
+    "magnitude": 3.7,
+    "latitude": 8.65,
+    "longitude": 126.45,
+    "depth": 27,
+    "location": "024 km S 44° E of Marihatag (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-12-05",
+    "magnitude": 4.1,
+    "latitude": 11.4,
+    "longitude": 124.5,
+    "depth": 18,
+    "location": "003 km N 20° E of Leyte (Leyte)"
+  },
+  {
+    "date": "2020-12-06",
+    "magnitude": 4.3,
+    "latitude": 6.97,
+    "longitude": 125.67,
+    "depth": 54,
+    "location": "013 km S 21° W of Island Garden City Of Samal (Davao Del Norte)"
+  },
+  {
+    "date": "2020-12-07",
+    "magnitude": 5.4,
+    "latitude": 13.04,
+    "longitude": 124.52,
+    "depth": 79,
+    "location": "035 km S 89° E of Prieto Diaz (Sorsogon)"
+  },
+  {
+    "date": "2020-12-08",
+    "magnitude": 3.3,
+    "latitude": 7.06,
+    "longitude": 125.97,
+    "depth": 20,
+    "location": "011 km S 47° E of Pantukan (Davao De Oro)"
+  },
+  {
+    "date": "2020-12-09",
+    "magnitude": 3.8,
+    "latitude": 6.6,
+    "longitude": 126.21,
+    "depth": 59,
+    "location": "016 km S 70° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2020-12-10",
+    "magnitude": 6.3,
+    "latitude": 24.84,
+    "longitude": 122.01,
+    "depth": 0,
+    "location": "Taiwan Region"
+  },
+  {
+    "date": "2020-12-11",
+    "magnitude": 4.4,
+    "latitude": 5.45,
+    "longitude": 124.46,
+    "depth": 518,
+    "location": "062 km S 17° W of Kiamba (Sarangani)"
+  },
+  {
+    "date": "2020-12-12",
+    "magnitude": 3.6,
+    "latitude": 6.76,
+    "longitude": 123.72,
+    "depth": 1,
+    "location": "041 km N 70° W of Lebak (Sultan Kudarat)"
+  },
+  {
+    "date": "2020-12-13",
+    "magnitude": 4.4,
+    "latitude": 18.54,
+    "longitude": 120.52,
+    "depth": 21,
+    "location": "014 km N 78° W of Burgos (Ilocos Norte)"
+  },
+  {
+    "date": "2020-12-14",
+    "magnitude": 3.6,
+    "latitude": 19.19,
+    "longitude": 120.99,
+    "depth": 13,
+    "location": "024 km N 67° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2020-12-15",
+    "magnitude": 4.4,
+    "latitude": 9.02,
+    "longitude": 126.48,
+    "depth": 17,
+    "location": "022 km N 75° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-12-16",
+    "magnitude": 6.2,
+    "latitude": 4.87,
+    "longitude": 125.43,
+    "depth": 20,
+    "location": "060 km S 01° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-12-17",
+    "magnitude": 4.4,
+    "latitude": 5.61,
+    "longitude": 127.06,
+    "depth": 67,
+    "location": "159 km S 43° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2020-12-18",
+    "magnitude": 3.7,
+    "latitude": 3.73,
+    "longitude": 126.47,
+    "depth": 1,
+    "location": "220 km S 32° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-12-19",
+    "magnitude": 3.4,
+    "latitude": 21.29,
+    "longitude": 119.83,
+    "depth": 30,
+    "location": "216 km N 76° W of Itbayat (Batanes)"
+  },
+  {
+    "date": "2020-12-20",
+    "magnitude": 4.3,
+    "latitude": 10.83,
+    "longitude": 126.44,
+    "depth": 1,
+    "location": "078 km N 83° E of Homonhon Island (Guiuan) (Eastern Samar)"
+  },
+  {
+    "date": "2020-12-21",
+    "magnitude": 4.4,
+    "latitude": 6.41,
+    "longitude": 127.36,
+    "depth": 34,
+    "location": "123 km S 55° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2020-12-22",
+    "magnitude": 4.9,
+    "latitude": 14.84,
+    "longitude": 121.57,
+    "depth": 12,
+    "location": "010 km N 30° W of General Nakar (Quezon)"
+  },
+  {
+    "date": "2020-12-23",
+    "magnitude": 3.6,
+    "latitude": 19.13,
+    "longitude": 121.18,
+    "depth": 24,
+    "location": "004 km N 49° W of Dalupiri Island (Calayan) (Cagayan)"
+  },
+  {
+    "date": "2020-12-24",
+    "magnitude": 4.0,
+    "latitude": 13.71,
+    "longitude": 120.54,
+    "depth": 120,
+    "location": "017 km S 35° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2020-12-25",
+    "magnitude": 6.3,
+    "latitude": 13.76,
+    "longitude": 120.53,
+    "depth": 107,
+    "location": "014 km S 54° W of Calatagan (Batangas)"
+  },
+  {
+    "date": "2020-12-26",
+    "magnitude": 3.9,
+    "latitude": 6.42,
+    "longitude": 126.04,
+    "depth": 123,
+    "location": "026 km S 08° W of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2020-12-27",
+    "magnitude": 3.7,
+    "latitude": 5.38,
+    "longitude": 125.34,
+    "depth": 3,
+    "location": "010 km S 67° W of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-12-28",
+    "magnitude": 4.9,
+    "latitude": 3.39,
+    "longitude": 126.82,
+    "depth": 32,
+    "location": "273 km S 35° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-12-29",
+    "magnitude": 4.3,
+    "latitude": 2.67,
+    "longitude": 126.75,
+    "depth": 65,
+    "location": "337 km S 26° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-12-30",
+    "magnitude": 5.5,
+    "latitude": 5.01,
+    "longitude": 125.45,
+    "depth": 68,
+    "location": "044 km S 04° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-12-31",
+    "magnitude": 4.2,
+    "latitude": 5.02,
+    "longitude": 125.36,
+    "depth": 8,
+    "location": "044 km S 08° W of Sarangani (Davao Occidental)"
+  }
+]

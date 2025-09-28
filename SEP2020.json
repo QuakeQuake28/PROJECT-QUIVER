@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2020-09-01",
+    "magnitude": 4.1,
+    "latitude": 11.95,
+    "longitude": 124.01,
+    "depth": 4,
+    "location": "008 km S 09° E of Cataingan (Masbate)"
+  },
+  {
+    "date": "2020-09-02",
+    "magnitude": 4.6,
+    "latitude": 16.16,
+    "longitude": 119.49,
+    "depth": 1,
+    "location": "034 km N 81° W of Agno (Pangasinan)"
+  },
+  {
+    "date": "2020-09-03",
+    "magnitude": 3.6,
+    "latitude": 10.78,
+    "longitude": 125.67,
+    "depth": 28,
+    "location": "029 km S 11° W of Guiuan (Eastern Samar)"
+  },
+  {
+    "date": "2020-09-04",
+    "magnitude": 3.6,
+    "latitude": 9.76,
+    "longitude": 122.24,
+    "depth": 24,
+    "location": "018 km N 89° W of Sipalay City (Negros Occidental)"
+  },
+  {
+    "date": "2020-09-05",
+    "magnitude": 3.7,
+    "latitude": 6.7,
+    "longitude": 124.98,
+    "depth": 16,
+    "location": "012 km S 18° E of Columbio (Sultan Kudarat)"
+  },
+  {
+    "date": "2020-09-06",
+    "magnitude": 6.4,
+    "latitude": 6.08,
+    "longitude": 125.92,
+    "depth": 143,
+    "location": "020 km S 70° E of Don Marcelino (Davao Occidental)"
+  },
+  {
+    "date": "2020-09-07",
+    "magnitude": 3.9,
+    "latitude": 10.63,
+    "longitude": 126.27,
+    "depth": 9,
+    "location": "075 km S 53° E of Guiuan (Eastern Samar)"
+  },
+  {
+    "date": "2020-09-08",
+    "magnitude": 4.3,
+    "latitude": 13.46,
+    "longitude": 125.12,
+    "depth": 2,
+    "location": "084 km S 75° E of Baras (Catanduanes)"
+  },
+  {
+    "date": "2020-09-09",
+    "magnitude": 5.9,
+    "latitude": 3.44,
+    "longitude": 126.28,
+    "depth": 1,
+    "location": "238 km S 24° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-09-10",
+    "magnitude": 4.0,
+    "latitude": 3.46,
+    "longitude": 125.94,
+    "depth": 1,
+    "location": "225 km S 13° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-09-11",
+    "magnitude": 4.6,
+    "latitude": 13.11,
+    "longitude": 120.77,
+    "depth": 11,
+    "location": "006 km N 49° E of Santa Cruz (Occidental Mindoro)"
+  },
+  {
+    "date": "2020-09-12",
+    "magnitude": 4.0,
+    "latitude": 6.34,
+    "longitude": 126.57,
+    "depth": 56,
+    "location": "065 km S 58° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2020-09-13",
+    "magnitude": 4.7,
+    "latitude": 3.96,
+    "longitude": 126.55,
+    "depth": 15,
+    "location": "204 km S 38° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-09-14",
+    "magnitude": 4.8,
+    "latitude": 3.45,
+    "longitude": 127.03,
+    "depth": 5,
+    "location": "281 km S 39° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-09-15",
+    "magnitude": 4.1,
+    "latitude": 3.91,
+    "longitude": 126.53,
+    "depth": 7,
+    "location": "207 km S 36° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-09-16",
+    "magnitude": 4.2,
+    "latitude": 3.48,
+    "longitude": 126.23,
+    "depth": 125,
+    "location": "232 km S 23° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-09-17",
+    "magnitude": 4.2,
+    "latitude": 3.2,
+    "longitude": 126.81,
+    "depth": 33,
+    "location": "290 km S 32° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-09-18",
+    "magnitude": 3.9,
+    "latitude": 6.47,
+    "longitude": 126.44,
+    "depth": 75,
+    "location": "046 km S 63° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2020-09-19",
+    "magnitude": 4.0,
+    "latitude": 4.99,
+    "longitude": 124.03,
+    "depth": 452,
+    "location": "128 km S 31° W of Kiamba (Sarangani)"
+  },
+  {
+    "date": "2020-09-20",
+    "magnitude": 5.0,
+    "latitude": 6.6,
+    "longitude": 125.66,
+    "depth": 171,
+    "location": "045 km N 05° W of Don Marcelino (Davao Occidental)"
+  },
+  {
+    "date": "2020-09-21",
+    "magnitude": 5.7,
+    "latitude": 9.26,
+    "longitude": 127.02,
+    "depth": 22,
+    "location": "087 km N 68° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-09-22",
+    "magnitude": 4.2,
+    "latitude": 9.33,
+    "longitude": 127.02,
+    "depth": 2,
+    "location": "090 km N 63° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-09-23",
+    "magnitude": 4.5,
+    "latitude": 12.16,
+    "longitude": 123.91,
+    "depth": 11,
+    "location": "020 km N 27° W of Cataingan (Masbate)"
+  },
+  {
+    "date": "2020-09-24",
+    "magnitude": 5.2,
+    "latitude": 9.35,
+    "longitude": 126.88,
+    "depth": 16,
+    "location": "078 km N 58° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-09-25",
+    "magnitude": 4.5,
+    "latitude": 7.72,
+    "longitude": 127.17,
+    "depth": 20,
+    "location": "069 km N 77° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2020-09-26",
+    "magnitude": 4.4,
+    "latitude": 9.24,
+    "longitude": 126.74,
+    "depth": 14,
+    "location": "059 km N 59° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-09-27",
+    "magnitude": 3.8,
+    "latitude": 5.9,
+    "longitude": 126.56,
+    "depth": 11,
+    "location": "099 km S 33° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "date": "2020-09-28",
+    "magnitude": 3.8,
+    "latitude": 9.42,
+    "longitude": 127.07,
+    "depth": 1,
+    "location": "100 km N 60° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-09-29",
+    "magnitude": 4.5,
+    "latitude": 9.32,
+    "longitude": 127.64,
+    "depth": 27,
+    "location": "154 km N 75° E of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-09-30",
+    "magnitude": 4.7,
+    "latitude": 19.78,
+    "longitude": 122.45,
+    "depth": 28,
+    "location": "064 km N 62° E of Babuyan Island (Calayan) (Cagayan)"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "date": "2020-08-01",
+    "magnitude": 4.2,
+    "latitude": 11.2,
+    "longitude": 125.82,
+    "depth": 51,
+    "location": "017 km N 44° E of Mercedes (Eastern Samar)"
+  },
+  {
+    "date": "2020-08-02",
+    "magnitude": 6.4,
+    "latitude": 7.2,
+    "longitude": 124.32,
+    "depth": 537,
+    "location": "010 km S 89° E of Cotabato City (Maguindanao)"
+  },
+  {
+    "date": "2020-08-03",
+    "magnitude": 4.2,
+    "latitude": 7.91,
+    "longitude": 127.54,
+    "depth": 4,
+    "location": "142 km S 69° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-08-04",
+    "magnitude": 3.9,
+    "latitude": 11.83,
+    "longitude": 126.07,
+    "depth": 12,
+    "location": "068 km N 83° E of San Julian (Eastern Samar)"
+  },
+  {
+    "date": "2020-08-05",
+    "magnitude": 4.8,
+    "latitude": 8.97,
+    "longitude": 126.16,
+    "depth": 31,
+    "location": "014 km N 89° W of Bayabas (Surigao Del Sur)"
+  },
+  {
+    "date": "2020-08-06",
+    "magnitude": 4.5,
+    "latitude": 2.13,
+    "longitude": 126.16,
+    "depth": 53,
+    "location": "373 km S 12° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-08-07",
+    "magnitude": 4.8,
+    "latitude": 2.31,
+    "longitude": 126.78,
+    "depth": 68,
+    "location": "374 km S 23° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-08-08",
+    "magnitude": 3.7,
+    "latitude": 12.64,
+    "longitude": 125.54,
+    "depth": 1,
+    "location": "036 km N 60° E of Mapanas (Northern Samar)"
+  },
+  {
+    "date": "2020-08-09",
+    "magnitude": 3.9,
+    "latitude": 7.19,
+    "longitude": 123.41,
+    "depth": 19,
+    "location": "029 km S 01° W of Tabina (Zamboanga Del Sur)"
+  },
+  {
+    "date": "2020-08-10",
+    "magnitude": 4.3,
+    "latitude": 2.45,
+    "longitude": 127.53,
+    "depth": 24,
+    "location": "401 km S 35° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-08-11",
+    "magnitude": 4.9,
+    "latitude": 11.95,
+    "longitude": 124.05,
+    "depth": 7,
+    "location": "010 km S 40° E of Cataingan (Masbate)"
+  },
+  {
+    "date": "2020-08-12",
+    "magnitude": 4.5,
+    "latitude": 4.4,
+    "longitude": 123.42,
+    "depth": 33,
+    "location": "219 km S 23° W of Palimbang (Sultan Kudarat)"
+  },
+  {
+    "date": "2020-08-13",
+    "magnitude": 5.4,
+    "latitude": 19.98,
+    "longitude": 121.24,
+    "depth": 20,
+    "location": "077 km S 59° W of Sabtang (Batanes)"
+  },
+  {
+    "date": "2020-08-14",
+    "magnitude": 4.0,
+    "latitude": 11.75,
+    "longitude": 125.07,
+    "depth": 16,
+    "location": "009 km S 69° E of Motiong (Samar)"
+  },
+  {
+    "date": "2020-08-15",
+    "magnitude": 4.9,
+    "latitude": 4.66,
+    "longitude": 125.6,
+    "depth": 135,
+    "location": "087 km S 09° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-08-16",
+    "magnitude": 5.1,
+    "latitude": 6.4,
+    "longitude": 123.64,
+    "depth": 611,
+    "location": "050 km S 67° W of Kalamansig (Sultan Kudarat)"
+  },
+  {
+    "date": "2020-08-17",
+    "magnitude": 4.6,
+    "latitude": 11.93,
+    "longitude": 123.98,
+    "depth": 9,
+    "location": "009 km S 09° W of Cataingan (Masbate)"
+  },
+  {
+    "date": "2020-08-18",
+    "magnitude": 6.6,
+    "latitude": 11.98,
+    "longitude": 124.01,
+    "depth": 13,
+    "location": "005 km S 20° E of Cataingan (Masbate)"
+  },
+  {
+    "date": "2020-08-19",
+    "magnitude": 5.1,
+    "latitude": 11.86,
+    "longitude": 124.07,
+    "depth": 2,
+    "location": "019 km S 25° E of Cataingan (Masbate)"
+  },
+  {
+    "date": "2020-08-20",
+    "magnitude": 3.9,
+    "latitude": 11.09,
+    "longitude": 125.68,
+    "depth": 11,
+    "location": "003 km S 84° W of Mercedes (Eastern Samar)"
+  },
+  {
+    "date": "2020-08-21",
+    "magnitude": 4.8,
+    "latitude": 18.8,
+    "longitude": 120.99,
+    "depth": 30,
+    "location": "023 km N 25° W of Claveria (Cagayan)"
+  },
+  {
+    "date": "2020-08-22",
+    "magnitude": 4.5,
+    "latitude": 6.37,
+    "longitude": 126.73,
+    "depth": 73,
+    "location": "081 km S 23° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "date": "2020-08-23",
+    "magnitude": 4.6,
+    "latitude": 4.0,
+    "longitude": 123.36,
+    "depth": 572,
+    "location": "261 km S 32° W of Kiamba (Sarangani)"
+  },
+  {
+    "date": "2020-08-24",
+    "magnitude": 4.9,
+    "latitude": 7.65,
+    "longitude": 126.88,
+    "depth": 18,
+    "location": "036 km N 77° E of Baganga (Davao Oriental)"
+  },
+  {
+    "date": "2020-08-25",
+    "magnitude": 4.2,
+    "latitude": 1.78,
+    "longitude": 126.99,
+    "depth": 45,
+    "location": "438 km S 23° E of Sarangani (Davao Occidental)"
+  },
+  {
+    "date": "2020-08-26",
+    "magnitude": 4.8,
+    "latitude": 5.4,
+    "longitude": 126.39,
+    "depth": 117,
+    "location": "101 km S 58° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "date": "2020-08-27",
+    "magnitude": 4.0,
+    "latitude": 12.68,
+    "longitude": 125.73,
+    "depth": 15,
+    "location": "056 km N 66° E of Mapanas (Northern Samar)"
+  },
+  {
+    "date": "2020-08-28",
+    "magnitude": 4.2,
+    "latitude": 16.54,
+    "longitude": 120.97,
+    "depth": 2,
+    "location": "005 km N 50° W of Ambaguio (Nueva Vizcaya)"
+  },
+  {
+    "date": "2020-08-29",
+    "magnitude": 4.4,
+    "latitude": 19.37,
+    "longitude": 121.22,
+    "depth": 3,
+    "location": "028 km N 70° W of Calayan (Cagayan)"
+  },
+  {
+    "date": "2020-08-30",
+    "magnitude": 3.7,
+    "latitude": 15.22,
+    "longitude": 121.24,
+    "depth": 8,
+    "location": "025 km S 39° W of Dingalan (Aurora)"
+  },
+  {
+    "date": "2020-08-31",
+    "magnitude": 4.8,
+    "latitude": 6.61,
+    "longitude": 125.27,
+    "depth": 16,
+    "location": "007 km S 51° E of Kiblawan (Davao Del Sur)"
+  }
+]
