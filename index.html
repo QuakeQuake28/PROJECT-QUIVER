@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project QUIVER – Philippine Earthquake Map (2020-2025)</title>
+    <title>Project QUIVER – Philippine Earthquake Map</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400&display=swap" rel="stylesheet">
     <style>
@@ -44,30 +44,47 @@
         .header {
             background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
             color: white;
-            padding: 2.5rem 0;
+            padding: 4rem 0 3rem 0;
             border-bottom: 1px solid var(--border);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 80%, rgba(59, 130, 246, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(30, 64, 175, 0.3) 0%, transparent 50%);
+            pointer-events: none;
         }
 
         .header-content {
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 2rem;
+            position: relative;
+            z-index: 2;
         }
 
         .brand-section {
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 1rem;
-            margin-bottom: 2rem;
+            gap: 1.5rem;
+            margin-bottom: 3rem;
         }
 
         .logo {
-            width: 100px;
-            height: 100px;
+            width: 140px;
+            height: 140px;
             border-radius: 50%;
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
-            transition: transform 0.2s ease;
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+            transition: transform 0.3s ease;
             display: block;
         }
 
@@ -76,87 +93,111 @@
         }
 
         .logo-fallback {
-            width: 100px;
-            height: 100px;
+            width: 140px;
+            height: 140px;
             border-radius: 50%;
             background: linear-gradient(135deg, #3b82f6 0%, #1e40af 100%);
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 2.5rem;
+            font-size: 3.5rem;
             font-weight: 900;
             color: white;
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
-            transition: transform 0.2s ease;
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+            transition: transform 0.3s ease;
         }
 
         .logo-fallback:hover {
             transform: scale(1.05);
         }
 
-        .header .acronym {
-            font-size: 1.1rem;
-            opacity: 0.9;
+        .project-title {
+            font-size: 4rem;
+            font-weight: 900;
+            letter-spacing: -0.02em;
+            text-align: center;
+            margin-bottom: 0.5rem;
+            color: white;
+            text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            line-height: 1.1;
+        }
+
+        .project-subtitle {
+            font-size: 1.3rem;
+            opacity: 0.95;
             font-weight: 300;
             font-style: italic;
             text-align: center;
             letter-spacing: 0.5px;
+            margin-bottom: 1.5rem;
+            color: rgba(255, 255, 255, 0.9);
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
         }
 
         .data-badge {
-            background: rgba(255, 255, 255, 0.15);
+            background: rgba(255, 255, 255, 0.2);
             backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            border-radius: 20px;
-            padding: 0.5rem 1rem;
-            font-size: 0.9rem;
-            font-weight: 500;
-            margin-top: 0.5rem;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 25px;
+            padding: 1rem 2rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            text-align: center;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .data-badge:hover {
+            background: rgba(255, 255, 255, 0.25);
+            transform: translateY(-2px);
         }
 
         .controls {
             display: flex;
             align-items: center;
             justify-content: center;
-            gap: 2rem;
+            gap: 2.5rem;
             flex-wrap: wrap;
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.15);
-            border-radius: 12px;
-            padding: 1.5rem 2rem;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(15px);
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 15px;
+            padding: 2rem 3rem;
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
         }
 
         .control-group {
             display: flex;
             align-items: center;
-            gap: 0.75rem;
+            gap: 1rem;
         }
 
         .control-group label {
-            font-size: 1rem;
-            font-weight: 500;
+            font-size: 1.2rem;
+            font-weight: 600;
             opacity: 0.95;
-            min-width: 55px;
+            min-width: 60px;
         }
 
         select {
-            padding: 0.65rem 1.25rem;
-            border: 1px solid rgba(255, 255, 255, 0.25);
-            border-radius: 8px;
+            padding: 0.8rem 1.5rem;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 10px;
             background: rgba(255, 255, 255, 0.95);
             color: var(--text-primary);
-            font-weight: 500;
-            font-size: 0.95rem;
+            font-weight: 600;
+            font-size: 1rem;
             font-family: 'Roboto', sans-serif;
             transition: all 0.2s ease;
+            cursor: pointer;
         }
 
         select:hover, select:focus {
             background: white;
-            border-color: rgba(255, 255, 255, 0.4);
+            border-color: rgba(255, 255, 255, 0.6);
             outline: none;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+            transform: translateY(-1px);
         }
 
         .main {
@@ -521,26 +562,35 @@
 
         @media (max-width: 768px) {
             .header {
-                padding: 2rem 0;
+                padding: 3rem 0 2.5rem 0;
             }
 
             .logo, .logo-fallback {
-                width: 80px;
-                height: 80px;
+                width: 100px;
+                height: 100px;
             }
 
             .logo-fallback {
-                font-size: 2rem;
+                font-size: 2.5rem;
             }
 
-            .header .acronym {
+            .project-title {
+                font-size: 2.8rem;
+            }
+
+            .project-subtitle {
+                font-size: 1.1rem;
+            }
+
+            .data-badge {
                 font-size: 1rem;
+                padding: 0.8rem 1.5rem;
             }
             
             .controls {
                 flex-direction: column;
-                gap: 1rem;
-                padding: 1.25rem;
+                gap: 1.5rem;
+                padding: 1.5rem 2rem;
             }
             
             .control-group {
@@ -579,16 +629,20 @@
 
         @media (max-width: 480px) {
             .logo, .logo-fallback {
-                width: 70px;
-                height: 70px;
+                width: 90px;
+                height: 90px;
             }
 
             .logo-fallback {
-                font-size: 1.5rem;
+                font-size: 2rem;
             }
 
-            .header .acronym {
-                font-size: 0.9rem;
+            .project-title {
+                font-size: 2.4rem;
+            }
+
+            .project-subtitle {
+                font-size: 1rem;
             }
 
             .stats {
@@ -612,8 +666,9 @@
                 <img src="LOGO.png" alt="QUIVER Logo" class="logo" 
                      onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
                 <div class="logo-fallback" style="display: none;">QU</div>
-                <div class="acronym">Quake Understanding through Interactive Visualization and Earthquake Research</div>
-                <div class="data-badge">Comprehensive Dataset: 2020-2025</div>
+                <div class="project-title">Project QUIVER</div>
+                <div class="project-subtitle">Quake Understanding through Interactive Visualization and Earthquake Research</div>
+                <div class="data-badge">Daily Maximum Earthquakes: 2020-2025</div>
             </div>
             <div class="controls">
                 <div class="control-group">
@@ -655,15 +710,15 @@
                 <div class="disclaimer-title">Data Scope & Methodology</div>
             </div>
             <div class="disclaimer-text">
-                This visualization displays daily maximum seismic events recorded in the Philippines region from 2020-2025. 
-                Each data point represents the highest magnitude earthquake recorded on a given calendar day, 
-                filtered from comprehensive seismic monitoring datasets to provide clear daily insights into seismic activity patterns.
+                This visualization displays the single most significant earthquake recorded each day in the Philippines region from 2020-2025. 
+                Only the highest magnitude event per calendar day is shown, providing clear insights into daily seismic patterns 
+                while filtering out less significant events for clarity.
             </div>
         </div>
 
         <div class="data-coverage">
-            <div class="coverage-title">📊 Complete 6-Year Dataset Coverage</div>
-            <p>Explore daily maximum earthquake data across our comprehensive 6-year archive, featuring over 2,000 curated seismic events from the Philippines region.</p>
+            <div class="coverage-title">📊 6-Year Dataset: Daily Maximum Events Only</div>
+            <p>Explore the most significant daily earthquakes across our curated 6-year archive, featuring one carefully selected seismic event per day from the Philippines region.</p>
             <div class="coverage-years">
                 <div class="year-badge">2020</div>
                 <div class="year-badge">2021</div>
@@ -705,16 +760,17 @@
         </div>
 
         <div class="info-panel">
-            <h3>Enhanced Dataset & Classification</h3>
+            <h3>Curated Dataset & Classification</h3>
             <p>
-                This comprehensive visualization showcases the highest magnitude earthquake recorded each calendar day during the selected month and year, 
-                spanning our complete 2020-2025 dataset. Each marker represents the most significant seismic event 
-                for that specific date in Philippine Standard Time, providing unprecedented insight into 6 years of seismic patterns.
+                This focused visualization showcases only the highest magnitude earthquake recorded each calendar day during the selected month and year, 
+                spanning our complete 2020-2025 dataset. Each marker represents the single most significant seismic event 
+                for that specific date in Philippine Standard Time, providing clear and uncluttered insights into daily seismic patterns.
             </p>
             <div class="phivolcs-note">
-                <strong>Advanced Data Processing:</strong> Our dataset undergoes rigorous filtering to ensure only the most significant daily events are displayed. 
-                Magnitude ranges follow international seismological standards, while the Philippines uses the PHIVOLCS Earthquake Intensity Scale (PEIS) 
-                for intensity measurements, developed specifically for local geological conditions by the Philippine Institute of Volcanology and Seismology.
+                <strong>Selective Data Processing:</strong> Our dataset undergoes careful filtering to display only the most significant daily events, 
+                removing noise and focusing on meaningful seismic activity. Magnitude ranges follow international seismological standards, 
+                while the Philippines uses the PHIVOLCS Earthquake Intensity Scale (PEIS) for intensity measurements, 
+                developed specifically for local geological conditions by the Philippine Institute of Volcanology and Seismology.
             </div>
         </div>
     </div>
@@ -843,7 +899,7 @@
                     throw new Error('No earthquake data available for this period');
                 }
                 
-                console.log(`✅ Successfully loaded ${data.length} earthquake records from ${month} ${year}`);
+                console.log(`✅ Successfully loaded ${data.length} daily maximum earthquake records from ${month} ${year}`);
                 
                 updateStats(data);
                 updateDataStatus('success', `${data.length} events loaded`);
@@ -908,7 +964,7 @@
                     <p><strong>File:</strong> ${filename}</p>
                     <p><strong>Issue:</strong> ${error.message}</p>
                     <p><strong>Our Dataset Includes:</strong></p>
-                    <p>📅 <em>2020-2025 comprehensive earthquake records</em></p>
+                    <p>📅 <em>2020-2025 daily maximum earthquake records</em></p>
                     <p>🗂️ <em>Monthly JSON files (e.g., JAN2025.json, FEB2024.json, etc.)</em></p>
                     <p><em>Please ensure all processed JSON files are available in your repository.</em></p>
                 `;
@@ -927,7 +983,7 @@
         document.addEventListener('DOMContentLoaded', () => {
             console.log('🌟 QUIVER - Project Earthquake Visualization Platform');
             console.log('📊 Dataset Coverage: 2020-2025 (6 complete years)');
-            console.log('🎯 Data Type: Daily maximum magnitude earthquakes');
+            console.log('🎯 Data Type: Daily maximum magnitude earthquakes only');
             console.log('🗺️ Geographic Focus: Philippines region');
             console.log('⚡ Status: Initializing...');
             
